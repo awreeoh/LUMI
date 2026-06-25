@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "key": "emotions",
+      "title": "Emotions",
+      "icon": "💛",
+      "seeds": [
+        {
+          "emoji": "😤",
+          "title": "When I Feel Angry",
+          "prompt": "A child who feels very angry and learns to calm down by taking deep breaths and talking about feelings"
+        },
+        {
+          "emoji": "😢",
+          "title": "It Is Okay to Cry",
+          "prompt": "A child who feels sad and learns that it is perfectly fine to cry and that feelings always get better"
+        },
+        {
+          "emoji": "😨",
+          "title": "When I Feel Worried",
+          "prompt": "A child who feels anxious and scared about something new and learns that talking to someone kind always helps"
+        },
+        {
+          "emoji": "😒",
+          "title": "When Things Are Not Fair",
+          "prompt": "A child who feels jealous when a friend gets something they want, and learns to be happy for others"
+        },
+        {
+          "emoji": "🥺",
+          "title": "I Miss You So Much",
+          "prompt": "A child who misses grandma very much and learns that love keeps us close even when people are far away"
+        },
+        {
+          "emoji": "😳",
+          "title": "When I Made a Mistake",
+          "prompt": "A child who makes a mistake and feels bad, and learns that saying sorry and trying again is what matters"
+        },
+        {
+          "emoji": "😞",
+          "title": "When I Feel Left Out",
+          "prompt": "A child who feels left out when friends play without them, and finds the courage to join in gently"
+        },
+        {
+          "emoji": "😟",
+          "title": "The Dark Is Okay",
+          "prompt": "A child who is afraid of the dark at bedtime and learns that nighttime is safe, cozy, and full of rest"
+        },
+        {
+          "emoji": "😔",
+          "title": "When I Am Disappointed",
+          "prompt": "A child who is very disappointed when plans change, and learns that new plans can bring new surprises"
+        },
+        {
+          "emoji": "😬",
+          "title": "I Feel So Embarrassed",
+          "prompt": "A child who feels embarrassed after a small mishap, and learns that everyone makes funny mistakes sometimes"
+        },
+        {
+          "emoji": "🤒",
+          "title": "When I Feel Sick",
+          "prompt": "A child who feels poorly and a little scared, and learns that rest, kindness, and warm soup make everything better"
+        },
+        {
+          "emoji": "😣",
+          "title": "I Cannot Wait",
+          "prompt": "A child who feels very impatient waiting for something exciting, and learns that good things are worth waiting for"
+        },
+        {
+          "emoji": "😰",
+          "title": "Too Many Feelings",
+          "prompt": "A child who feels overwhelmed and does not understand all their big feelings at once, and learns to slow down and breathe"
+        },
+        {
+          "emoji": "🥹",
+          "title": "Sharing Feels Good",
+          "prompt": "A child who does not want to share at first but discovers that sharing brings more happiness than keeping things alone"
+        },
+        {
+          "emoji": "😴",
+          "title": "Worried at Bedtime",
+          "prompt": "A child who lies awake with worried thoughts and learns a gentle breathing trick to let worries float away like clouds"
+        }
+      ]
+    },
+    {
+      "key": "kindergarten",
+      "title": "Kindergarten",
+      "icon": "🏫",
+      "seeds": [
+        {
+          "emoji": "🎨",
+          "title": "Painting Day",
+          "prompt": "A child who paints a big colorful picture at kindergarten and proudly shows the teacher"
+        },
+        {
+          "emoji": "🧩",
+          "title": "The Puzzle Friends",
+          "prompt": "Two kindergarten friends who work together to finish a giant floor puzzle"
+        },
+        {
+          "emoji": "🍎",
+          "title": "Snack Time",
+          "prompt": "A child who happily shares apple slices with new friends at snack time"
+        },
+        {
+          "emoji": "🎵",
+          "title": "The Music Circle",
+          "prompt": "A class of little ones who sing and clap together in a happy morning music circle"
+        },
+        {
+          "emoji": "🧸",
+          "title": "The Lost Teddy",
+          "prompt": "A child who kindly helps a friend find a teddy bear left behind at kindergarten"
+        },
+        {
+          "emoji": "🌱",
+          "title": "The Tiny Seed",
+          "prompt": "A class who plant little seeds in cups and watch them grow on the sunny windowsill"
+        },
+        {
+          "emoji": "🤝",
+          "title": "Taking Turns",
+          "prompt": "A child who learns the happy joy of taking turns on the kindergarten slide"
+        },
+        {
+          "emoji": "📚",
+          "title": "Story Corner",
+          "prompt": "Little ones who gather on a soft rug for a cozy story with their gentle teacher"
+        },
+        {
+          "emoji": "🖍️",
+          "title": "My Own Name",
+          "prompt": "A shy child who learns to write their very own name for the first time"
+        },
+        {
+          "emoji": "🎉",
+          "title": "The Class Party",
+          "prompt": "A kindergarten class who decorate the room together for a gentle little celebration"
+        },
+        {
+          "emoji": "🫧",
+          "title": "Bubbly Hands",
+          "prompt": "A child who discovers the splashy, bubbly fun of washing hands before lunch"
+        },
+        {
+          "emoji": "🦸",
+          "title": "Dress-Up Day",
+          "prompt": "Children who play dress-up and become gentle, kind little heroes for an afternoon"
+        },
+        {
+          "emoji": "🐛",
+          "title": "The Garden Visitor",
+          "prompt": "A class who gently watch a little caterpillar visit their play garden"
+        },
+        {
+          "emoji": "🛌",
+          "title": "Nap Time",
+          "prompt": "A child who settles down for a calm, cozy nap on a soft mat at kindergarten"
+        },
+        {
+          "emoji": "👋",
+          "title": "See You Tomorrow",
+          "prompt": "A child who waves a happy goodbye to friends at the end of a kindergarten day"
+        }
+      ]
+    },
+    {
+      "key": "park",
+      "title": "Park Play",
+      "icon": "🦋",
+      "seeds": [
+        {
+          "emoji": "⚽",
+          "title": "The Friendly Match",
+          "prompt": "Children who play a gentle game of ball together on the soft green grass"
+        },
+        {
+          "emoji": "🛝",
+          "title": "The Big Slide",
+          "prompt": "A child who makes a new friend at the top of the tallest, fastest slide"
+        },
+        {
+          "emoji": "🪁",
+          "title": "Flying a Kite",
+          "prompt": "Two friends who fly a colorful kite together on a gentle breezy afternoon"
+        },
+        {
+          "emoji": "🤸",
+          "title": "The Cartwheel",
+          "prompt": "A child who cheers on a friend learning to tumble softly on the grass"
+        },
+        {
+          "emoji": "🦆",
+          "title": "Feeding the Ducks",
+          "prompt": "Children who toss gentle crumbs to happy ducks at the calm park pond"
+        },
+        {
+          "emoji": "🌼",
+          "title": "The Flower Crown",
+          "prompt": "Friends who weave a pretty crown of daisies together in a sunny meadow"
+        },
+        {
+          "emoji": "🧺",
+          "title": "The Shared Picnic",
+          "prompt": "Children who share a cozy picnic blanket and kindly trade tasty treats"
+        },
+        {
+          "emoji": "🏃",
+          "title": "The Gentle Race",
+          "prompt": "Little ones who run a giggly, friendly race to the big old oak tree"
+        },
+        {
+          "emoji": "🫧",
+          "title": "Chasing Bubbles",
+          "prompt": "Children who chase and pop shimmering soap bubbles together in the park"
+        },
+        {
+          "emoji": "🐿️",
+          "title": "The Little Squirrel",
+          "prompt": "Friends who quietly watch a playful squirrel gather acorns in the trees"
+        },
+        {
+          "emoji": "🛼",
+          "title": "Learning to Roll",
+          "prompt": "A child who holds a friend's hand while learning to roll gently along the path"
+        },
+        {
+          "emoji": "🏰",
+          "title": "The Sandbox Castle",
+          "prompt": "Friends who build a grand, gentle sandcastle together in the park sandbox"
+        },
+        {
+          "emoji": "🎠",
+          "title": "The Carousel",
+          "prompt": "Children who ride a gentle carousel round and round on a happy afternoon"
+        },
+        {
+          "emoji": "🌈",
+          "title": "After the Rain",
+          "prompt": "Friends who softly splash in little puddles and spot a rainbow together"
+        },
+        {
+          "emoji": "🤹",
+          "title": "The Clapping Game",
+          "prompt": "A child who teaches a new friend a fun, gentle clapping game in the park"
+        }
+      ]
+    },
+    {
+      "key": "family",
+      "title": "Family Time",
+      "icon": "🏡",
+      "seeds": [
+        {
+          "emoji": "🍪",
+          "title": "Baking Cookies",
+          "prompt": "A child who bakes warm, sweet cookies with family on a cozy afternoon"
+        },
+        {
+          "emoji": "🎲",
+          "title": "Game Night",
+          "prompt": "A family who gather for a gentle, giggly board game evening together"
+        },
+        {
+          "emoji": "🏕️",
+          "title": "Backyard Camp",
+          "prompt": "A family who pitch a little tent and tell soft stories in the backyard"
+        },
+        {
+          "emoji": "🎬",
+          "title": "Movie Night",
+          "prompt": "A child who snuggles under a soft blanket for a cozy family movie night"
+        },
+        {
+          "emoji": "🌻",
+          "title": "Gardening Together",
+          "prompt": "A child who plants bright, cheerful flowers with grandma in the garden"
+        },
+        {
+          "emoji": "🍲",
+          "title": "Making Soup",
+          "prompt": "A family who stir a warm, tasty pot of soup together on a chilly day"
+        },
+        {
+          "emoji": "📖",
+          "title": "Grandpa's Story",
+          "prompt": "A child who listens to a gentle tale from grandpa by the sunny window"
+        },
+        {
+          "emoji": "🧶",
+          "title": "By the Fire",
+          "prompt": "A child who learns to wind soft yarn beside a warm, crackling fireplace"
+        },
+        {
+          "emoji": "🚗",
+          "title": "The Sunday Drive",
+          "prompt": "A family who take a calm, happy drive to see the rolling green hills"
+        },
+        {
+          "emoji": "🐱",
+          "title": "The Family Cat",
+          "prompt": "A child and family who lovingly care for a soft, sleepy family cat"
+        },
+        {
+          "emoji": "🎂",
+          "title": "Grandma's Birthday",
+          "prompt": "A family who surprise grandma with a gentle, warm birthday tea"
+        },
+        {
+          "emoji": "🧹",
+          "title": "The Tidy-Up Song",
+          "prompt": "A family who sing a happy song while tidying the cozy house together"
+        },
+        {
+          "emoji": "🥞",
+          "title": "Pancake Morning",
+          "prompt": "A child who flips fluffy pancakes with dad on a slow, sunny Sunday morning"
+        },
+        {
+          "emoji": "🤗",
+          "title": "Goodnight Hugs",
+          "prompt": "A child who gives warm goodnight hugs to everyone in the family"
+        },
+        {
+          "emoji": "📸",
+          "title": "The Photo Album",
+          "prompt": "A family who look through a warm album of happy memories together"
+        }
+      ]
+    },
+    {
+      "key": "bedtime",
+      "title": "Bedtime",
+      "icon": "🌙",
+      "seeds": [
+        {
+          "emoji": "🛁",
+          "title": "Bath Time",
+          "prompt": "A child who has to stop playing and take a bath before bed, even though they are not ready to stop, and discovers that bath time can actually be fun"
+        },
+        {
+          "emoji": "🦷",
+          "title": "Clean Teeth",
+          "prompt": "A child who feels too tired to brush their teeth before bed but learns why clean teeth matter, and finds a way to make brushing feel like less of a chore"
+        },
+        {
+          "emoji": "🧸",
+          "title": "Where Is Bear?",
+          "prompt": "A child who cannot find their beloved stuffed bear at bedtime and the whole family helps search the house until it turns up in a funny hiding place"
+        },
+        {
+          "emoji": "🌛",
+          "title": "One More Hug",
+          "prompt": "A child who keeps coming back downstairs for one more hug, one more drink of water, and one more question, and mum gently helps them settle for the night"
+        },
+        {
+          "emoji": "💡",
+          "title": "My Night Light",
+          "prompt": "A child who feels a little nervous going to sleep in the dark and gets to choose their very first night light, which makes bedtime feel much cosier"
+        },
+        {
+          "emoji": "😴",
+          "title": "Too Excited to Sleep",
+          "prompt": "A child who cannot stop wriggling in bed the night before their birthday because they are so excited, and slowly learns to calm down and rest"
+        },
+        {
+          "emoji": "⛈️",
+          "title": "The Loud Thunder",
+          "prompt": "A child who is woken by a thunderstorm and feels scared, and mum explains what thunder is while they snuggle up safe together until the storm passes"
+        },
+        {
+          "emoji": "🛏️",
+          "title": "My Big Kid Bed",
+          "prompt": "A child who moves from their cot to their very first big-kid bed and feels proud but also a tiny bit wobbly about the change"
+        },
+        {
+          "emoji": "😬",
+          "title": "After a Bad Dream",
+          "prompt": "A child who has a frightening dream and calls for dad, who comes straight away and gently explains that dreams are not real and helps them feel safe again"
+        },
+        {
+          "emoji": "🌙",
+          "title": "Sleeping at Grandma's",
+          "prompt": "A child who sleeps at grandma's house for the very first time with their own pillow from home, and realises that grandma's house is actually very cosy"
+        },
+        {
+          "emoji": "☀️",
+          "title": "Too Early!",
+          "prompt": "A child who wakes up when it is still dark outside and wants to get up but learns that everyone needs to rest a little longer, and finds quiet ways to wait"
+        },
+        {
+          "emoji": "📚",
+          "title": "My Bedtime Routine",
+          "prompt": "A child who does their whole bedtime routine completely by themselves for the very first time: bath, teeth, pyjamas, and story, feeling very grown-up at the end"
+        },
+        {
+          "emoji": "👕",
+          "title": "Pyjama Night",
+          "prompt": "A child who gets to choose their favourite pyjamas and accidentally puts them on inside-out, making the whole family laugh at bedtime"
+        },
+        {
+          "emoji": "🌟",
+          "title": "Goodnight Everyone",
+          "prompt": "A child who says a very thorough goodnight to every person, every toy, and every corner of their room before they can finally settle down to sleep"
+        },
+        {
+          "emoji": "🐾",
+          "title": "The Dog on the Bed",
+          "prompt": "A child who quietly lets the family dog sneak onto the bed for company at night and wonders if mum and dad will notice in the morning"
+        }
+      ]
+    },
+    {
+      "key": "theater",
+      "title": "Story Theater",
+      "icon": "🎭",
+      "seeds": [
+        {
+          "emoji": "🧺",
+          "title": "The Picnic Plan",
+          "prompt": "Three friends who plan a garden picnic together and chat about what each one will bring"
+        },
+        {
+          "emoji": "⛵",
+          "title": "The Little Boat",
+          "prompt": "Two friends and a friendly duck who chat together while sailing a toy boat across a pond"
+        },
+        {
+          "emoji": "🐻",
+          "title": "Teddy's Tea Party",
+          "prompt": "A child whose teddy bear and rabbit toy come alive for a cozy tea party and chat politely about cakes"
+        },
+        {
+          "emoji": "🎪",
+          "title": "The Backyard Show",
+          "prompt": "Three friends who put on a little backyard talent show and cheer for each other"
+        },
+        {
+          "emoji": "🐦",
+          "title": "The Lost Acorn",
+          "prompt": "A squirrel and a wise old owl and a small bird who talk together to find a lost acorn"
+        },
+        {
+          "emoji": "🍪",
+          "title": "The Baking Team",
+          "prompt": "A child and grandma and a cheeky talking cat who chat while baking cookies together"
+        },
+        {
+          "emoji": "🚂",
+          "title": "The Toy Train Trip",
+          "prompt": "Toy passengers who chat about the sights as their little train rides around the playroom"
+        },
+        {
+          "emoji": "🌈",
+          "title": "After the Rain",
+          "prompt": "Two friends and a garden snail who talk about the rainbow after warm summer rain"
+        },
+        {
+          "emoji": "🏰",
+          "title": "The Pillow Castle",
+          "prompt": "Three siblings who build a pillow castle and chat about who guards which tower"
+        },
+        {
+          "emoji": "🐠",
+          "title": "The Aquarium Visit",
+          "prompt": "Two friends visiting an aquarium who imagine the fish chatting back to them"
+        },
+        {
+          "emoji": "🌻",
+          "title": "The Garden Friends",
+          "prompt": "A ladybug and a bee and a butterfly who chat while helping the garden flowers"
+        },
+        {
+          "emoji": "🎈",
+          "title": "The Balloon Ride",
+          "prompt": "A child and a gentle talking fox who imagine floating over town in a balloon and describe what they see to each other"
+        },
+        {
+          "emoji": "🐕",
+          "title": "The Morning Walk",
+          "prompt": "A child and grandpa and a bouncy puppy who chat and greet the neighbours on a gentle sunny morning walk"
+        },
+        {
+          "emoji": "🚀",
+          "title": "The Toy Rocket",
+          "prompt": "Three toy astronauts who chat excitedly about the planets they pass as they blast off on a playroom adventure"
+        },
+        {
+          "emoji": "🎭",
+          "title": "The Puppet Show",
+          "prompt": "A child who puts on a little puppet show for their toys and gives each puppet a different funny voice for the audience"
+        }
+      ]
+    }
+  ]
+}
