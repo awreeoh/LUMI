@@ -492,6 +492,53 @@
           "prompt": "A child who puts on a little puppet show for their toys and gives each puppet a different funny voice for the audience"
         }
       ]
+    },
+    {
+      "key": "tomorrow",
+      "title": "Story for Tomorrow",
+      "icon": "🗓️",
+      "seeds": [
+        {
+          "emoji": "🦷",
+          "title": "Dentist",
+          "prompt": "a reassuring story where a little hero visits the dentist, feels a bit nervous in the big chair, is gently helped, and leaves proud with a sparkling smile"
+        },
+        {
+          "emoji": "💉",
+          "title": "Doctor visit",
+          "prompt": "a gentle story where a little hero gets a quick check-up and a tiny vaccine, squeezes a grown-up's hand, and feels brave and fine right after"
+        },
+        {
+          "emoji": "🎒",
+          "title": "Kindergarten",
+          "prompt": "a warm story where a little hero spends a day at kindergarten, misses home a little, plays with a friend, and can't wait to go back tomorrow"
+        },
+        {
+          "emoji": "👶",
+          "title": "New sibling",
+          "prompt": "a loving story where a little hero meets their new baby sibling and discovers being a big sibling makes their family's love grow bigger"
+        },
+        {
+          "emoji": "✂️",
+          "title": "Haircut",
+          "prompt": "a playful story where a little hero gets a haircut, hears the funny snip-snip sounds, and loves how they look after"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Airplane",
+          "prompt": "a cozy story where a little hero takes an airplane ride, watches the clouds go by, and lands happy with popping ears and a big smile"
+        },
+        {
+          "emoji": "📦",
+          "title": "Moving house",
+          "prompt": "a hopeful story where a little hero moves to a new home, says goodbye to the old one, and finds their new room is full of new adventures"
+        },
+        {
+          "emoji": "🌙",
+          "title": "Sleepover",
+          "prompt": "a snug story where a little hero sleeps over at grandma's, feels a flutter of missing home, and wakes up proud and happy"
+        }
+      ]
     }
   ]
 }
