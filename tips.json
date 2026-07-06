@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "tips": [
+    {
+      "icon": "sun.max.fill",
+      "title": "Tonight's story becomes tomorrow's quiz",
+      "message": "Finish a story at night, then answer two little memory questions the next morning."
+    },
+    {
+      "icon": "moon.stars.fill",
+      "title": "Morning ritual",
+      "message": "The quiz card appears the next day, waits for one answer session, then returns to tips."
+    },
+    {
+      "icon": "checkmark.circle.fill",
+      "title": "Quiz bonus",
+      "message": "A perfect morning quiz adds a sparkle bonus to the sticker from that story."
+    },
+    {
+      "icon": "dice.fill",
+      "title": "Surprise",
+      "message": "Roll a hero, place, and magic object when you want a story without planning."
+    },
+    {
+      "icon": "arrow.triangle.2.circlepath",
+      "title": "Roll again",
+      "message": "On Surprise, roll again until the cards feel right, then start the story."
+    },
+    {
+      "icon": "wand.and.stars",
+      "title": "Custom",
+      "message": "Type a gentle story idea when the ready-made worlds are not enough."
+    },
+    {
+      "icon": "calendar.badge.clock",
+      "title": "Plan",
+      "message": "Use Plan for stories about something coming soon, like school, trips, or bedtime changes."
+    },
+    {
+      "icon": "figure.walk.motion",
+      "title": "Practice tomorrow",
+      "message": "Plan stories help rehearse new routines gently before they happen in real life."
+    },
+    {
+      "icon": "square.grid.2x2.fill",
+      "title": "Story worlds",
+      "message": "Each world has curated story seeds with its own mood, artwork, and narrator choice."
+    },
+    {
+      "icon": "list.bullet.rectangle.fill",
+      "title": "Story seeds",
+      "message": "Each row in a story world is a seed; finishing all seeds in that world earns a diamond."
+    },
+    {
+      "icon": "flame.fill",
+      "title": "Listening streak",
+      "message": "One completed story per day keeps the streak going. Three days unlock rare stickers."
+    },
+    {
+      "icon": "star.fill",
+      "title": "Stickers",
+      "message": "Every finished story earns a sticker in the weekly sticker album."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Rare stickers",
+      "message": "When your listening streak is three days or more, new story stickers become rare."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Sticker sparkle",
+      "message": "Answer every morning question correctly to add a sparkle bonus to that story's sticker."
+    },
+    {
+      "icon": "diamond.fill",
+      "title": "Diamond stickers",
+      "message": "Collect every seed in a story world during the week to earn that world's diamond."
+    },
+    {
+      "icon": "star.circle.fill",
+      "title": "Sticker album",
+      "message": "Every finished story earns a sticker. Collect all stories in a world for its diamond."
+    },
+    {
+      "icon": "books.vertical.fill",
+      "title": "Books",
+      "message": "Tap the heart during playback to save a story, then replay it later from Books."
+    },
+    {
+      "icon": "chart.bar.fill",
+      "title": "Your week",
+      "message": "This week shows stories played, listening time, rare rewards, and sticker progress."
+    },
+    {
+      "icon": "clock.fill",
+      "title": "Listening time",
+      "message": "Your week counts completed listening time, so replayed favorites still matter."
+    },
+    {
+      "icon": "person.wave.2.fill",
+      "title": "Narrator voices",
+      "message": "Setup lets you choose a different narrator for each story world."
+    },
+    {
+      "icon": "eye.slash.fill",
+      "title": "Hide voices",
+      "message": "Tap the eye-slash beside a narrator voice if it is not a good fit for your family."
+    },
+    {
+      "icon": "waveform",
+      "title": "Voice Engine",
+      "message": "Add a family voice profile and download Chatterbox to unlock cloned narration."
+    },
+    {
+      "icon": "mic.circle.fill",
+      "title": "Voice profiles",
+      "message": "Record a short clear sample, then assign that voice to any story world in Setup."
+    },
+    {
+      "icon": "arrow.down.circle.fill",
+      "title": "Chatterbox download",
+      "message": "Voice cloning needs the Chatterbox engine once; normal narrator voices work without it."
+    },
+    {
+      "icon": "heart.fill",
+      "title": "Keep favorites",
+      "message": "Use the heart while listening to keep a story in Books for later replay."
+    }
+  ]
+}
