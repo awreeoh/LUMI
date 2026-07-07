@@ -81,7 +81,21 @@
           "title": "Worried at Bedtime",
           "prompt": "A child who lies awake with worried thoughts and learns a gentle breathing trick to let worries float away like clouds"
         }
-      ]
+      ],
+      "theme": {
+        "colors": [
+          "#8FC7F2",
+          "#C9E6F7",
+          "#FFE2C2"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "float",
+        "accent": [
+          "#8FC7F2",
+          "#FFE2C2"
+        ],
+        "image": "bg_emotions"
+      }
     },
     {
       "key": "kindergarten",
@@ -163,7 +177,21 @@
           "title": "See You Tomorrow",
           "prompt": "A child who waves a happy goodbye to friends at the end of a kindergarten day"
         }
-      ]
+      ],
+      "theme": {
+        "colors": [
+          "#7FD8E8",
+          "#BDEFD6",
+          "#FFF3C4"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "rise",
+        "accent": [
+          "#7FD8E8",
+          "#FFF3C4"
+        ],
+        "image": "bg_kindergarten"
+      }
     },
     {
       "key": "park",
@@ -245,7 +273,21 @@
           "title": "The Clapping Game",
           "prompt": "A child who teaches a new friend a fun, gentle clapping game in the park"
         }
-      ]
+      ],
+      "theme": {
+        "colors": [
+          "#86C5F0",
+          "#AEE3B0",
+          "#7FB86B"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "float",
+        "accent": [
+          "#86C5F0",
+          "#7FB86B"
+        ],
+        "image": "bg_park"
+      }
     },
     {
       "key": "family",
@@ -327,7 +369,21 @@
           "title": "The Photo Album",
           "prompt": "A family who look through a warm album of happy memories together"
         }
-      ]
+      ],
+      "theme": {
+        "colors": [
+          "#3A2B57",
+          "#7A4E6E",
+          "#E8A06A"
+        ],
+        "particle": "#FFD9A0",
+        "drift": "float",
+        "accent": [
+          "#7A4E6E",
+          "#E8A06A"
+        ],
+        "image": "bg_family"
+      }
     },
     {
       "key": "bedtime",
@@ -409,7 +465,21 @@
           "title": "The Dog on the Bed",
           "prompt": "A child who quietly lets the family dog sneak onto the bed for company at night and wonders if mum and dad will notice in the morning"
         }
-      ]
+      ],
+      "theme": {
+        "colors": [
+          "#05050F",
+          "#111036",
+          "#1B1B3A"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "float",
+        "accent": [
+          "#1B1B3A",
+          "#4A3B82"
+        ],
+        "image": "bg_bedtime"
+      }
     },
     {
       "key": "theater",
@@ -491,7 +561,21 @@
           "title": "The Puppet Show",
           "prompt": "A child who puts on a little puppet show for their toys and gives each puppet a different funny voice for the audience"
         }
-      ]
+      ],
+      "theme": {
+        "colors": [
+          "#4A1D3F",
+          "#8E3B5C",
+          "#E8B04B"
+        ],
+        "particle": "#FFE3A0",
+        "drift": "rise",
+        "accent": [
+          "#8E3B5C",
+          "#E8B04B"
+        ],
+        "image": "bg_theater"
+      }
     },
     {
       "key": "tomorrow",
@@ -537,6 +621,1078 @@
           "emoji": "🌙",
           "title": "Sleepover",
           "prompt": "a snug story where a little hero sleeps over at grandma's, feels a flutter of missing home, and wakes up proud and happy"
+        }
+      ],
+      "theme": {
+        "colors": [
+          "#8FC7F2",
+          "#C9E6F7",
+          "#FFE2C2"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "float",
+        "accent": [
+          "#8FC7F2",
+          "#FFE2C2"
+        ],
+        "image": "bg_tomorrow"
+      }
+    },
+    {
+      "key": "halloween",
+      "title": "Pumpkin Nights",
+      "icon": "🎃",
+      "theme": {
+        "colors": [
+          "#4D2365",
+          "#924267",
+          "#E8742C"
+        ],
+        "particle": "#FFB347",
+        "drift": "float",
+        "accent": [
+          "#8E44EC",
+          "#FF9F1C"
+        ],
+        "image": "bg_halloween"
+      },
+      "seeds": [
+        {
+          "emoji": "🎃",
+          "title": "Pumpkin Patch",
+          "prompt": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together"
+        },
+        {
+          "emoji": "👗",
+          "title": "Costume Day",
+          "prompt": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears"
+        },
+        {
+          "emoji": "🍬",
+          "title": "Sweet Sharing",
+          "prompt": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother"
+        },
+        {
+          "emoji": "🕯️",
+          "title": "Leaf Lanterns",
+          "prompt": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors"
+        },
+        {
+          "emoji": "👻",
+          "title": "Shy Little Ghost",
+          "prompt": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies"
+        },
+        {
+          "emoji": "🧁",
+          "title": "Pumpkin Muffins",
+          "prompt": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn"
+        },
+        {
+          "emoji": "🐈‍⬛",
+          "title": "Black Cat Friend",
+          "prompt": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family"
+        },
+        {
+          "emoji": "🍎",
+          "title": "Apple Bobbing",
+          "prompt": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple"
+        },
+        {
+          "emoji": "🌕",
+          "title": "Orange Moon Walk",
+          "prompt": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites"
+        },
+        {
+          "emoji": "🕷️",
+          "title": "Spider's Lace",
+          "prompt": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew"
+        },
+        {
+          "emoji": "🏮",
+          "title": "Trick-or-Treat Buddy",
+          "prompt": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street"
+        },
+        {
+          "emoji": "🎭",
+          "title": "Silly Spooky Party",
+          "prompt": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet"
+        },
+        {
+          "emoji": "🧣",
+          "title": "Scarecrow's Scarf",
+          "prompt": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village"
+        },
+        {
+          "emoji": "🍂",
+          "title": "Crunchy Leaf Trail",
+          "prompt": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure"
+        },
+        {
+          "emoji": "🏰",
+          "title": "Cobweb Castle",
+          "prompt": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast"
+        }
+      ]
+    }
+  ],
+  "sectionsInactive": [
+    {
+      "key": "christmas",
+      "title": "Christmas Magic",
+      "icon": "🎄",
+      "theme": {
+        "colors": [
+          "#0E1F41",
+          "#283D71",
+          "#5C5066"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "float",
+        "accent": [
+          "#C0392B",
+          "#E8B04B"
+        ],
+        "image": "bg_christmas"
+      },
+      "seeds": [
+        {
+          "emoji": "🎄",
+          "title": "The Perfect Tree",
+          "prompt": "A family walks through a snowy tree farm to pick their Christmas tree and the smallest, crookedest one turns out to be perfect"
+        },
+        {
+          "emoji": "⛄",
+          "title": "Snowman Friend",
+          "prompt": "A child builds a snowman with a carrot nose and comes back each morning to tell him about the day"
+        },
+        {
+          "emoji": "🎁",
+          "title": "Secret Present",
+          "prompt": "A child makes a secret present for mama and finds clever hiding places to keep the surprise safe until Christmas morning"
+        },
+        {
+          "emoji": "🍪",
+          "title": "Cookies for Santa",
+          "prompt": "A child and grandma bake star-shaped cookies for Santa and leave the prettiest one by the fireplace with a glass of milk"
+        },
+        {
+          "emoji": "🦌",
+          "title": "Little Reindeer",
+          "prompt": "A little reindeer who is still learning to trot dreams of one day helping pull the big sleigh"
+        },
+        {
+          "emoji": "🧦",
+          "title": "Stocking Surprise",
+          "prompt": "A child hangs a stocking by the fireplace and wakes to find it filled with tiny wonderful things"
+        },
+        {
+          "emoji": "✨",
+          "title": "Lights Walk",
+          "prompt": "A family takes an evening walk through the neighborhood to admire the twinkling Christmas lights on every house"
+        },
+        {
+          "emoji": "🎶",
+          "title": "Carol Singing",
+          "prompt": "A child feels nervous about singing carols with the class but finds courage when the whole room joins in"
+        },
+        {
+          "emoji": "❄️",
+          "title": "First Snowflake",
+          "prompt": "A child catches the very first snowflake of winter on a mitten and studies its tiny perfect shape"
+        },
+        {
+          "emoji": "🛷",
+          "title": "Sled Ride",
+          "prompt": "A child rides a sled down the gentle hill behind the house, cheeks pink and heart happy, with papa waiting at the bottom"
+        },
+        {
+          "emoji": "🕯️",
+          "title": "Advent Evening",
+          "prompt": "A cozy evening when the family lights a candle, drinks warm tea, and each person shares their favorite moment of the day"
+        },
+        {
+          "emoji": "👵",
+          "title": "Grandma's Ornament",
+          "prompt": "Grandma shows a child a very old glass ornament and tells the warm story of the Christmases it has seen"
+        },
+        {
+          "emoji": "🥛",
+          "title": "Hot Cocoa Night",
+          "prompt": "A child makes hot cocoa with extra marshmallows for the whole family after an afternoon of playing in the snow"
+        },
+        {
+          "emoji": "🌟",
+          "title": "Star on Top",
+          "prompt": "A child gets lifted high on papa's shoulders to place the golden star on the very top of the tree"
+        },
+        {
+          "emoji": "🎅",
+          "title": "Thank-You Note",
+          "prompt": "A child writes a thank-you note for Santa and receives a tiny sparkling reply on Christmas morning"
+        }
+      ]
+    },
+    {
+      "key": "newyears",
+      "title": "New Year Sparkle",
+      "icon": "🎆",
+      "theme": {
+        "colors": [
+          "#141335",
+          "#342A54",
+          "#533850"
+        ],
+        "particle": "#E7B35A",
+        "drift": "rise",
+        "accent": [
+          "#4A3B82",
+          "#E7B35A"
+        ],
+        "image": "bg_newyears"
+      },
+      "seeds": [
+        {
+          "emoji": "🎆",
+          "title": "Fireworks from the Window",
+          "prompt": "A child watches colorful fireworks bloom over the town from a cozy window seat wrapped in a blanket with mama"
+        },
+        {
+          "emoji": "🎈",
+          "title": "Balloon Countdown",
+          "prompt": "A family pops one balloon every hour on New Year's Eve, each one holding a little note with a fun mini-game inside"
+        },
+        {
+          "emoji": "📝",
+          "title": "Paper Wishes",
+          "prompt": "A child draws wishes for the new year on colorful paper stars and hangs them on a branch by the window"
+        },
+        {
+          "emoji": "🕛",
+          "title": "Almost Midnight",
+          "prompt": "A child tries very hard to stay awake until midnight and falls asleep smiling to the soft sound of celebration"
+        },
+        {
+          "emoji": "🗓️",
+          "title": "The New Calendar",
+          "prompt": "A child and papa hang the brand-new calendar and draw tiny pictures on all the days they are excited about"
+        },
+        {
+          "emoji": "🥂",
+          "title": "Sparkly Juice Toast",
+          "prompt": "A child raises a glass of sparkly apple juice at the family dinner and makes the sweetest toast of the evening"
+        },
+        {
+          "emoji": "🎊",
+          "title": "Confetti Craft",
+          "prompt": "A child makes homemade confetti from colorful paper and throws it high when the clock strikes an early kid-midnight"
+        },
+        {
+          "emoji": "🫙",
+          "title": "The Wish Jar",
+          "prompt": "A family fills a jar with little notes of happy moments all year and reads them together on New Year's Eve"
+        },
+        {
+          "emoji": "💃",
+          "title": "Kitchen Dance Party",
+          "prompt": "A family turns the kitchen into a dance floor on New Year's Eve with silly moves and lots of laughing"
+        },
+        {
+          "emoji": "🌅",
+          "title": "First Morning Walk",
+          "prompt": "A child takes the very first walk of the new year with grandpa and they greet everyone they meet with a happy new year"
+        },
+        {
+          "emoji": "🤝",
+          "title": "Kind Promises",
+          "prompt": "A child thinks of three kind promises for the new year, like sharing toys and helping water the plants"
+        },
+        {
+          "emoji": "⏳",
+          "title": "Time Capsule",
+          "prompt": "A child fills a small box with drawings and treasures to open next New Year's Eve and buries it in the toy chest"
+        },
+        {
+          "emoji": "👴",
+          "title": "Grandpa's Year of Stories",
+          "prompt": "Grandpa tells a child the funniest things that happened this year while they share the last cookies of December"
+        },
+        {
+          "emoji": "💌",
+          "title": "Thank You, Old Year",
+          "prompt": "A child writes a goodbye letter to the old year, thanking it for the best adventures and favorite new friends"
+        },
+        {
+          "emoji": "🔔",
+          "title": "Midnight Bells",
+          "prompt": "A child hears the far-away midnight bells while snuggled in bed and imagines them ringing in a year full of wonder"
+        }
+      ]
+    },
+    {
+      "key": "easter",
+      "title": "Easter Morning",
+      "icon": "🐰",
+      "theme": {
+        "colors": [
+          "#B3D6D7",
+          "#F7EFCE",
+          "#B2A358"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "rise",
+        "accent": [
+          "#8FCFC9",
+          "#D9C36A"
+        ],
+        "image": "bg_easter"
+      },
+      "seeds": [
+        {
+          "emoji": "🥚",
+          "title": "The Great Egg Hunt",
+          "prompt": "A child hunts for painted eggs hidden all over the garden and helps a little cousin find her very first one"
+        },
+        {
+          "emoji": "🎨",
+          "title": "Painting Eggs",
+          "prompt": "A child and mama paint eggs in every color and one accidental splotch turns into the most beautiful design"
+        },
+        {
+          "emoji": "🐰",
+          "title": "Bunny Footprints",
+          "prompt": "A child finds tiny flour footprints on the doorstep on Easter morning and follows them to a basket of surprises"
+        },
+        {
+          "emoji": "🐥",
+          "title": "The Fluffy Chick",
+          "prompt": "A child meets a fluffy yellow chick at the farm and learns to hold it gently like a tiny cloud"
+        },
+        {
+          "emoji": "🧺",
+          "title": "Basket Weaving",
+          "prompt": "A child decorates an Easter basket with ribbons and grass and makes it the coziest nest for chocolate eggs"
+        },
+        {
+          "emoji": "🍫",
+          "title": "Sharing the Chocolate Bunny",
+          "prompt": "A child gets a big chocolate bunny and decides the sweetest part is sharing an ear with a best friend"
+        },
+        {
+          "emoji": "🌷",
+          "title": "Planting Spring Flowers",
+          "prompt": "A child and grandma plant tulip bulbs by the fence and imagine the colors that will pop up"
+        },
+        {
+          "emoji": "🥞",
+          "title": "Easter Brunch",
+          "prompt": "The whole family gathers for a sunny Easter brunch and a child helps carry the fruit to the big table"
+        },
+        {
+          "emoji": "🦆",
+          "title": "Ducklings at the Pond",
+          "prompt": "A child watches a line of new ducklings wobble to the pond and cheers softly when the littlest one finally swims"
+        },
+        {
+          "emoji": "🥕",
+          "title": "Carrot Cake Helper",
+          "prompt": "A child helps grandpa grate carrots for a carrot cake and licks the spoon as the kitchen fills with sweet smells"
+        },
+        {
+          "emoji": "🔄",
+          "title": "Hiding Eggs for the Grown-Ups",
+          "prompt": "A child hides eggs for mama and papa to find and giggles behind the curtain at their silly guesses"
+        },
+        {
+          "emoji": "💌",
+          "title": "The Kindness Egg",
+          "prompt": "A child fills a special egg with tiny kind notes and leaves it on a neighbor's doorstep as a surprise"
+        },
+        {
+          "emoji": "🏁",
+          "title": "Egg and Spoon Race",
+          "prompt": "A child joins the egg-and-spoon race at the spring fair, wobbles bravely, and everyone cheers at the finish line"
+        },
+        {
+          "emoji": "👒",
+          "title": "Spring Bonnet Parade",
+          "prompt": "A child decorates a paper hat with flowers and joins the neighborhood bonnet parade around the park"
+        },
+        {
+          "emoji": "🌈",
+          "title": "Rainbow Egg",
+          "prompt": "A child finds one mysterious rainbow-striped egg in the garden and wonders which color the surprise inside will be"
+        }
+      ]
+    },
+    {
+      "key": "mothersday",
+      "title": "For Mama",
+      "icon": "💐",
+      "theme": {
+        "colors": [
+          "#C58374",
+          "#AF7D5B",
+          "#965A46"
+        ],
+        "particle": "#F6F2D3",
+        "drift": "rise",
+        "accent": [
+          "#D98E7E",
+          "#F6E0C0"
+        ],
+        "image": "bg_mothersday"
+      },
+      "seeds": [
+        {
+          "emoji": "🥐",
+          "title": "Breakfast in Bed",
+          "prompt": "A child and papa make a surprise breakfast tray with toast, berries, and a tiny flower for mama's special morning"
+        },
+        {
+          "emoji": "💌",
+          "title": "The Handmade Card",
+          "prompt": "A child makes mama a card with glitter and a drawing of them holding hands, and hides it under her pillow"
+        },
+        {
+          "emoji": "🌼",
+          "title": "Picking Flowers",
+          "prompt": "A child picks the prettiest wildflowers on a walk and arranges them in a jar for the kitchen table"
+        },
+        {
+          "emoji": "🫖",
+          "title": "Tea Party for Mama",
+          "prompt": "A child hosts a fancy pretend tea party where mama is the guest of honor with the biggest cushion"
+        },
+        {
+          "emoji": "🖼️",
+          "title": "Mama's Portrait",
+          "prompt": "A child paints a portrait of mama with a huge smile and purple hair, and she loves it more than anything"
+        },
+        {
+          "emoji": "🎵",
+          "title": "Mama's Favorite Song",
+          "prompt": "A child secretly practices mama's favorite song and performs it after dinner with a wooden-spoon microphone"
+        },
+        {
+          "emoji": "🌱",
+          "title": "Planting Together",
+          "prompt": "A child and mama plant a little rose bush in the garden that will bloom every year on her special day"
+        },
+        {
+          "emoji": "🧹",
+          "title": "The Tidy Surprise",
+          "prompt": "A child quietly tidies the living room while mama naps and watches her happy surprised face from behind the sofa"
+        },
+        {
+          "emoji": "🎟️",
+          "title": "Hug Coupons",
+          "prompt": "A child makes a booklet of coupons for hugs, kisses, and helping hands that mama can use any day"
+        },
+        {
+          "emoji": "🍰",
+          "title": "Baking Her Favorite Cake",
+          "prompt": "A child helps grandma bake mama's favorite lemon cake and carries it to the table very, very carefully"
+        },
+        {
+          "emoji": "👧",
+          "title": "When Mama Was Little",
+          "prompt": "Mama shows a child her old photo album and tells stories about when she was small and loved puddles too"
+        },
+        {
+          "emoji": "🤲",
+          "title": "Helper for a Day",
+          "prompt": "A child becomes mama's little helper for one whole day, from watering plants to folding the warm laundry"
+        },
+        {
+          "emoji": "💆",
+          "title": "The Relaxing Day",
+          "prompt": "A child and papa plan a quiet cozy day for mama with her favorite book, warm socks, and peaceful tea"
+        },
+        {
+          "emoji": "🚶",
+          "title": "A Walk Holding Hands",
+          "prompt": "A child and mama take a slow walk to the park, holding hands and talking about clouds and dreams"
+        },
+        {
+          "emoji": "📜",
+          "title": "Why I Love Mama",
+          "prompt": "A child makes a long list of all the reasons they love mama and reads it aloud at bedtime"
+        }
+      ]
+    },
+    {
+      "key": "fathersday",
+      "title": "For Papa",
+      "icon": "🧰",
+      "theme": {
+        "colors": [
+          "#6D533F",
+          "#47311A",
+          "#251A11"
+        ],
+        "particle": "#FDE786",
+        "drift": "float",
+        "accent": [
+          "#8A6A4E",
+          "#FDE786"
+        ],
+        "image": "bg_fathersday"
+      },
+      "seeds": [
+        {
+          "emoji": "🐦",
+          "title": "Building a Birdhouse",
+          "prompt": "A child and papa build a little wooden birdhouse and wait quietly by the window for the first feathered visitor"
+        },
+        {
+          "emoji": "🥞",
+          "title": "Pancake Surprise",
+          "prompt": "A child makes silly-face pancakes for papa's breakfast with berry eyes and a banana smile"
+        },
+        {
+          "emoji": "🎣",
+          "title": "Quiet Fishing Morning",
+          "prompt": "A child and papa sit by the calm lake with fishing rods, sharing sandwiches and whispering so the fish can nap"
+        },
+        {
+          "emoji": "🔧",
+          "title": "Papa's Little Helper",
+          "prompt": "A child helps papa fix a squeaky wheel by passing the right tools and feels like a real mechanic"
+        },
+        {
+          "emoji": "🚲",
+          "title": "The Big Bike Ride",
+          "prompt": "A child and papa ride bikes along the river path and stop for ice cream at the halfway bench"
+        },
+        {
+          "emoji": "🦸",
+          "title": "Papa the Superhero",
+          "prompt": "A child draws papa as a superhero whose powers are giant hugs, finding lost toys, and making the best spaghetti"
+        },
+        {
+          "emoji": "⛺",
+          "title": "Backyard Camping",
+          "prompt": "A child and papa pitch a tent in the backyard, count stars, and tell cozy stories by flashlight"
+        },
+        {
+          "emoji": "🚗",
+          "title": "Car Wash Bubbles",
+          "prompt": "A child helps papa wash the car and the afternoon turns into the world's bubbliest water game"
+        },
+        {
+          "emoji": "🧸",
+          "title": "Papa's Old Teddy",
+          "prompt": "Papa shows a child the worn teddy bear he loved as a boy and the two bears become bunk-bed neighbors"
+        },
+        {
+          "emoji": "⚽",
+          "title": "Park Champions",
+          "prompt": "A child and papa play ball in the park until sunset and invent a victory dance for every goal"
+        },
+        {
+          "emoji": "👔",
+          "title": "The Painted Tie",
+          "prompt": "A child paints a paper tie with rockets and stars and papa proudly wears it all day, even to the bakery"
+        },
+        {
+          "emoji": "📖",
+          "title": "Reading to Papa",
+          "prompt": "For one special bedtime the child gets to read the story while papa listens and does all the animal sounds"
+        },
+        {
+          "emoji": "🌻",
+          "title": "The Garden Project",
+          "prompt": "A child and papa build a little vegetable patch and name every tomato plant after someone in the family"
+        },
+        {
+          "emoji": "🧺",
+          "title": "Breakfast Picnic",
+          "prompt": "A child and papa sneak out early for a surprise breakfast picnic on the hill and watch the town wake up"
+        },
+        {
+          "emoji": "🌤️",
+          "title": "Up to the Sky",
+          "prompt": "A child gets papa's famous flying hug that lifts them high enough to almost touch the clouds"
+        }
+      ]
+    },
+    {
+      "key": "thanksgiving",
+      "title": "Giving Thanks",
+      "icon": "🦃",
+      "theme": {
+        "colors": [
+          "#763D3C",
+          "#9E5927",
+          "#5F250B"
+        ],
+        "particle": "#FEDF74",
+        "drift": "float",
+        "accent": [
+          "#9E5927",
+          "#FEDF74"
+        ],
+        "image": "bg_thanksgiving"
+      },
+      "seeds": [
+        {
+          "emoji": "🦃",
+          "title": "Paper Turkey Hands",
+          "prompt": "A child traces everyone's hands to craft a big paper turkey where every feather says something the family is thankful for"
+        },
+        {
+          "emoji": "🥧",
+          "title": "Pie for the Neighbors",
+          "prompt": "A child helps bake an extra pumpkin pie and delivers it warm to the kind neighbors next door"
+        },
+        {
+          "emoji": "🍽️",
+          "title": "Setting the Big Table",
+          "prompt": "A child gets the important job of setting the long holiday table and folds every napkin into a funny shape"
+        },
+        {
+          "emoji": "🫙",
+          "title": "The Thankful Jar",
+          "prompt": "A family fills a jar with notes of thanks all week and reads them out loud between dinner and dessert"
+        },
+        {
+          "emoji": "👵",
+          "title": "Grandma's Secret Recipe",
+          "prompt": "Grandma finally shows a child the secret ingredient in her famous stuffing, and it turns out to be a silly song"
+        },
+        {
+          "emoji": "🍂",
+          "title": "Harvest Walk",
+          "prompt": "A child takes a golden afternoon walk with the family, collecting the prettiest leaves for the table centerpiece"
+        },
+        {
+          "emoji": "🚪",
+          "title": "Room for One More",
+          "prompt": "A family invites a new neighbor who is far from home to join their Thanksgiving dinner and makes a new friend"
+        },
+        {
+          "emoji": "🧑‍🍳",
+          "title": "Littlest Chef",
+          "prompt": "A child becomes the kitchen's littlest chef, mashing potatoes and taste-testing everything twice"
+        },
+        {
+          "emoji": "📮",
+          "title": "Thanks to Our Helpers",
+          "prompt": "A child draws thank-you cards for the mail carrier, the bus driver, and the crossing guard who help every day"
+        },
+        {
+          "emoji": "🥪",
+          "title": "Leftover Picnic",
+          "prompt": "The day after the feast, a child builds the tallest leftover sandwich and shares a blanket picnic with cousins"
+        },
+        {
+          "emoji": "🕯️",
+          "title": "Stories at the Table",
+          "prompt": "After dinner the lights go soft and everyone tells their favorite family story while sharing the last slice of pie"
+        },
+        {
+          "emoji": "🌽",
+          "title": "Corn Husk Dolls",
+          "prompt": "A child learns to make little corn husk dolls with grandpa and gives each one a name and a home on the shelf"
+        },
+        {
+          "emoji": "❄️",
+          "title": "First Frost Morning",
+          "prompt": "A child wakes to the first sparkly frost, breathes dragon clouds in the cold air, and runs back inside for cocoa"
+        },
+        {
+          "emoji": "🤗",
+          "title": "The Gratitude Game",
+          "prompt": "A family plays a game where each person names something they are thankful for, from rainbows to squeaky shoes"
+        },
+        {
+          "emoji": "🍞",
+          "title": "Warm Bread Helper",
+          "prompt": "A child helps knead the holiday bread and watches through the oven window as it grows golden and round"
+        }
+      ]
+    },
+    {
+      "key": "autumn",
+      "title": "Autumn Leaves",
+      "icon": "🍂",
+      "theme": {
+        "colors": [
+          "#A05732",
+          "#7E4214",
+          "#652E0F"
+        ],
+        "particle": "#FEE276",
+        "drift": "float",
+        "accent": [
+          "#C97A3D",
+          "#FEE276"
+        ],
+        "image": "bg_autumn"
+      },
+      "seeds": [
+        {
+          "emoji": "🍁",
+          "title": "The Biggest Leaf Pile",
+          "prompt": "A child rakes leaves with papa into a giant golden mountain and takes the world's crunchiest jump"
+        },
+        {
+          "emoji": "🌰",
+          "title": "Acorn Treasure",
+          "prompt": "A child collects shiny acorns in a little basket and leaves the best ones by the oak tree for the squirrels"
+        },
+        {
+          "emoji": "🌧️",
+          "title": "Puddle Boots",
+          "prompt": "A child puts on red rain boots and finds the most splashable puddles on the way home from kindergarten"
+        },
+        {
+          "emoji": "🍎",
+          "title": "Apple Picking Day",
+          "prompt": "A family visits the orchard where a child reaches the rosiest apple with a little help from papa's shoulders"
+        },
+        {
+          "emoji": "🪁",
+          "title": "Kite in the Wind",
+          "prompt": "A child flies a homemade kite in the gusty autumn wind and it dances like a happy dragon above the field"
+        },
+        {
+          "emoji": "🧶",
+          "title": "The Cozy Sweater",
+          "prompt": "Grandma knits a child a pumpkin-orange sweater and its first adventure is a walk through the falling leaves"
+        },
+        {
+          "emoji": "🐿️",
+          "title": "Helping the Squirrel",
+          "prompt": "A child watches a busy squirrel hide nuts for winter and quietly leaves a few extra ones near its tree"
+        },
+        {
+          "emoji": "🍄",
+          "title": "Mushroom Spotting",
+          "prompt": "A child and grandpa walk in the forest counting funny mushroom hats, looking closely but never touching"
+        },
+        {
+          "emoji": "🦢",
+          "title": "Goodbye, Geese",
+          "prompt": "A child waves goodbye to the geese flying south in a big V and wonders about their long journey"
+        },
+        {
+          "emoji": "🌫️",
+          "title": "The Foggy Morning",
+          "prompt": "A child walks to school through soft morning fog where lampposts glow like little moons and everything feels gentle"
+        },
+        {
+          "emoji": "🌲",
+          "title": "Pinecone Creatures",
+          "prompt": "A child collects pinecones and turns them into tiny owls and hedgehogs with felt and glue"
+        },
+        {
+          "emoji": "🍲",
+          "title": "Harvest Soup",
+          "prompt": "A child helps mama chop soft vegetables for a big pot of harvest soup that warms the whole rainy evening"
+        },
+        {
+          "emoji": "🎨",
+          "title": "Leaf Painting",
+          "prompt": "A child presses colorful leaves onto paper to print a forest of reds and golds for the fridge gallery"
+        },
+        {
+          "emoji": "🛏️",
+          "title": "Blanket Fort Evening",
+          "prompt": "On the first chilly night a child builds a blanket fort and reads picture books inside with a flashlight"
+        },
+        {
+          "emoji": "🌳",
+          "title": "The Talking Oak",
+          "prompt": "A child visits the old oak in the park every day and tells it secrets while its leaves slowly turn to gold"
+        }
+      ]
+    },
+    {
+      "key": "winter",
+      "title": "Winter Wonder",
+      "icon": "⛄",
+      "theme": {
+        "colors": [
+          "#58506F",
+          "#776676",
+          "#524755"
+        ],
+        "particle": "#FFFFFF",
+        "drift": "float",
+        "accent": [
+          "#8A7FA8",
+          "#FFEDC3"
+        ],
+        "image": "bg_winter"
+      },
+      "seeds": [
+        {
+          "emoji": "❄️",
+          "title": "First Snow Morning",
+          "prompt": "A child wakes up to a world turned white and quiet, and makes the very first footprints in the fresh snow"
+        },
+        {
+          "emoji": "🧤",
+          "title": "The Lost Mitten",
+          "prompt": "A child loses one red mitten on the way home and a kind chain of neighbors helps it find its way back"
+        },
+        {
+          "emoji": "🐦",
+          "title": "Feeding Winter Birds",
+          "prompt": "A child hangs a pinecone feeder in the garden and learns the names of every little bird that visits"
+        },
+        {
+          "emoji": "🪟",
+          "title": "Ice Flowers",
+          "prompt": "A child discovers frost has painted flowers on the window and traces the sparkling patterns with a warm finger"
+        },
+        {
+          "emoji": "🏰",
+          "title": "The Snow Den",
+          "prompt": "A child and friends build a snug snow den in the yard and serve pretend snow-tea to everyone who crawls in"
+        },
+        {
+          "emoji": "😇",
+          "title": "Snow Angels",
+          "prompt": "A child and mama flop into the soft snow to make a whole family of snow angels, even a tiny one for the cat"
+        },
+        {
+          "emoji": "🔥",
+          "title": "Fireside Stories",
+          "prompt": "A family gathers by the warm fire with blankets while grandpa tells stories and the snow falls softly outside"
+        },
+        {
+          "emoji": "🫂",
+          "title": "Shoveling for Mrs. Rose",
+          "prompt": "A child helps papa shovel the path of an elderly neighbor and gets warm cookies and a warmer smile in return"
+        },
+        {
+          "emoji": "⭐",
+          "title": "Winter Stars",
+          "prompt": "On the clearest cold night a child and papa bundle up to count the bright winter stars and find the sparkliest one"
+        },
+        {
+          "emoji": "🐾",
+          "title": "Footprints in the Snow",
+          "prompt": "A child follows mysterious little footprints through the garden and discovers a rabbit's cozy hiding spot"
+        },
+        {
+          "emoji": "🍜",
+          "title": "Hot Soup Day",
+          "prompt": "A child comes in from the cold with pink cheeks and helps mama make noodle soup that steams up all the windows"
+        },
+        {
+          "emoji": "🐧",
+          "title": "Penguin Games",
+          "prompt": "A child pretends to be a penguin all afternoon, waddling and sliding on socks with a stuffed-animal penguin colony"
+        },
+        {
+          "emoji": "💎",
+          "title": "Icicle Sparkle Walk",
+          "prompt": "A child walks through the park where icicles hang like crystal decorations and picks the prettiest one to admire"
+        },
+        {
+          "emoji": "🛖",
+          "title": "The Blanket Cave",
+          "prompt": "On a snowy day too cold for outside, a child builds a blanket cave and hibernates with books and a bear"
+        },
+        {
+          "emoji": "🌙",
+          "title": "Snowlight Evening",
+          "prompt": "A child notices how the snow makes the evening glow soft and blue, and watches the quiet street from a warm window"
+        }
+      ]
+    },
+    {
+      "key": "spring",
+      "title": "Spring Blossoms",
+      "icon": "🌷",
+      "theme": {
+        "colors": [
+          "#AC7B66",
+          "#886846",
+          "#8E6C55"
+        ],
+        "particle": "#FDFEE5",
+        "drift": "rise",
+        "accent": [
+          "#B98C6F",
+          "#FDFEE5"
+        ],
+        "image": "bg_spring"
+      },
+      "seeds": [
+        {
+          "emoji": "🌱",
+          "title": "The First Seeds",
+          "prompt": "A child plants tiny seeds in little pots on the windowsill and greets them every morning until green tips appear"
+        },
+        {
+          "emoji": "🦋",
+          "title": "The First Butterfly",
+          "prompt": "A child spots the very first butterfly of spring and follows it gently through the blooming garden"
+        },
+        {
+          "emoji": "🐣",
+          "title": "The Nest by the Window",
+          "prompt": "A child watches a bird family build a nest outside the window and keeps their secret safe until the chicks hatch"
+        },
+        {
+          "emoji": "💃",
+          "title": "Puddle Dance",
+          "prompt": "A warm spring rain ends and a child dances through the puddles in shiny boots, making the biggest happy splashes"
+        },
+        {
+          "emoji": "🌸",
+          "title": "Blossom Picnic",
+          "prompt": "A family spreads a blanket under the blooming cherry tree and pink petals fall into the lemonade like confetti"
+        },
+        {
+          "emoji": "🧤",
+          "title": "Waking Up the Garden",
+          "prompt": "A child helps grandma tidy the winter garden, sweeping leaves away so the sleepy flowers can stretch"
+        },
+        {
+          "emoji": "🐞",
+          "title": "The Ladybug Visitor",
+          "prompt": "A ladybug lands on a child's finger and gets a grand tour of the garden before flying home"
+        },
+        {
+          "emoji": "🌻",
+          "title": "The Sunflower Race",
+          "prompt": "A child and a best friend each plant a sunflower and cheer for both as they race slowly toward the sky"
+        },
+        {
+          "emoji": "🧹",
+          "title": "Spring Cleaning Treasure",
+          "prompt": "During spring cleaning a child finds a long-lost toy behind the shelf and gives it a joyful bubbly bath"
+        },
+        {
+          "emoji": "🐸",
+          "title": "Tadpole Watching",
+          "prompt": "A child visits the pond every week to watch the tadpoles grow legs and cheers the day the first tiny frog hops"
+        },
+        {
+          "emoji": "👑",
+          "title": "The Flower Crown",
+          "prompt": "A child learns to braid daisies into a flower crown with mama and wears it home like garden royalty"
+        },
+        {
+          "emoji": "🪟",
+          "title": "Fresh Air Day",
+          "prompt": "The family opens all the windows on the first warm day and the spring breeze plays with the curtains"
+        },
+        {
+          "emoji": "🐝",
+          "title": "Watching the Bees",
+          "prompt": "A child watches fuzzy bees visit the tulips from a respectful step away and learns how they help flowers grow"
+        },
+        {
+          "emoji": "🥕",
+          "title": "Muddy Hands Day",
+          "prompt": "A child spends the whole morning planting carrots with papa and wears the garden mud like a badge of honor"
+        },
+        {
+          "emoji": "🌈",
+          "title": "After the Rain",
+          "prompt": "A spring shower passes and a child finds a whole rainbow stretched over the park like a bridge of colors"
+        }
+      ]
+    },
+    {
+      "key": "summer",
+      "title": "Summer Days",
+      "icon": "☀️",
+      "theme": {
+        "colors": [
+          "#708975",
+          "#8B804A",
+          "#7B5E37"
+        ],
+        "particle": "#FDF9C3",
+        "drift": "float",
+        "accent": [
+          "#8FAE8C",
+          "#FDF9C3"
+        ],
+        "image": "bg_summer"
+      },
+      "seeds": [
+        {
+          "emoji": "🏖️",
+          "title": "The Sandcastle Kingdom",
+          "prompt": "A child builds a grand sandcastle with a moat and seashell windows, and invites the whole beach to admire it"
+        },
+        {
+          "emoji": "🍋",
+          "title": "The Lemonade Stand",
+          "prompt": "A child opens a little lemonade stand with a hand-painted sign and the first customer is the friendly mail carrier"
+        },
+        {
+          "emoji": "✨",
+          "title": "Firefly Evening",
+          "prompt": "On a warm night a child gently catches fireflies in cupped hands, makes a wish on each one, and lets them all glow away"
+        },
+        {
+          "emoji": "🧺",
+          "title": "Picnic Under the Tree",
+          "prompt": "A family picnics in the shade of the big oak and a cheeky duck waddles over hoping for a bread corner"
+        },
+        {
+          "emoji": "💦",
+          "title": "Sprinkler Rainbow",
+          "prompt": "A child dances through the garden sprinkler on the hottest day and discovers it makes tiny rainbows in the air"
+        },
+        {
+          "emoji": "🍦",
+          "title": "The Ice Cream Race",
+          "prompt": "A child tries to finish an ice cream cone before the sun melts it and ends up with the happiest sticky smile"
+        },
+        {
+          "emoji": "🫐",
+          "title": "Berry Picking",
+          "prompt": "A child picks blueberries with grandma at the farm, one for the basket and one for the mouth, all morning long"
+        },
+        {
+          "emoji": "🏊",
+          "title": "Brave Little Swimmer",
+          "prompt": "A child feels nervous at swimming lessons but blows brave bubbles and floats for the very first time"
+        },
+        {
+          "emoji": "☁️",
+          "title": "Cloud Shapes",
+          "prompt": "A child and a best friend lie in the grass finding dragons, bunnies, and ice cream cones in the drifting clouds"
+        },
+        {
+          "emoji": "⛺",
+          "title": "Stars Above the Tent",
+          "prompt": "On a family camping night a child falls asleep to cricket songs after counting shooting stars through the tent window"
+        },
+        {
+          "emoji": "🐚",
+          "title": "Seashell Collection",
+          "prompt": "A child walks the beach at low tide collecting seashells and finds one that whispers like the whole ocean"
+        },
+        {
+          "emoji": "🍉",
+          "title": "Watermelon Afternoon",
+          "prompt": "A child shares a giant watermelon with cousins in the backyard and everyone counts their seeds for a silly contest"
+        },
+        {
+          "emoji": "👣",
+          "title": "Barefoot in the Grass",
+          "prompt": "A child spends a whole afternoon barefoot, feeling warm grass, cool soil, and one very surprised ticklish worm"
+        },
+        {
+          "emoji": "🌦️",
+          "title": "Warm Summer Rain",
+          "prompt": "A sudden warm rain surprises the playground and a child twirls in it laughing before the sun peeks back out"
+        },
+        {
+          "emoji": "🚲",
+          "title": "Sunset Bike Ride",
+          "prompt": "A child rides bikes with papa in the golden evening light, past sleepy gardens that smell like flowers and dinner"
         }
       ]
     }
