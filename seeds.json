@@ -9,77 +9,212 @@
         {
           "emoji": "😤",
           "title": "When I Feel Angry",
-          "prompt": "A child who feels very angry and learns to calm down by taking deep breaths and talking about feelings"
+          "prompt": "A child who feels very angry and learns to calm down by taking deep breaths and talking about feelings",
+          "id": "emotions-when-i-feel-angry",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels very angry and learns to calm down by taking deep breaths and talking about feelings",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😢",
           "title": "It Is Okay to Cry",
-          "prompt": "A child who feels sad and learns that it is perfectly fine to cry and that feelings always get better"
+          "prompt": "A child who feels sad and learns that it is perfectly fine to cry and that feelings always get better",
+          "id": "emotions-it-is-okay-to-cry",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels sad and learns that it is perfectly fine to cry and that feelings always get better",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😨",
           "title": "When I Feel Worried",
-          "prompt": "A child who feels anxious and scared about something new and learns that talking to someone kind always helps"
+          "prompt": "A child who feels anxious and scared about something new and learns that talking to someone kind always helps",
+          "id": "emotions-when-i-feel-worried",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels anxious and scared about something new and learns that talking to someone kind always helps",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😒",
           "title": "When Things Are Not Fair",
-          "prompt": "A child who feels jealous when a friend gets something they want, and learns to be happy for others"
+          "prompt": "A child who feels jealous when a friend gets something they want, and learns to be happy for others",
+          "id": "emotions-when-things-are-not-fair",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels jealous when a friend gets something they want, and learns to be happy for others",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🥺",
           "title": "I Miss You So Much",
-          "prompt": "A child who misses grandma very much and learns that love keeps us close even when people are far away"
+          "prompt": "A child who misses grandma very much and learns that love keeps us close even when people are far away",
+          "id": "emotions-i-miss-you-so-much",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who misses grandma very much and learns that love keeps us close even when people are far away",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😳",
           "title": "When I Made a Mistake",
-          "prompt": "A child who makes a mistake and feels bad, and learns that saying sorry and trying again is what matters"
+          "prompt": "A child who makes a mistake and feels bad, and learns that saying sorry and trying again is what matters",
+          "id": "emotions-when-i-made-a-mistake",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who makes a mistake and feels bad, and learns that saying sorry and trying again is what matters",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😞",
           "title": "When I Feel Left Out",
-          "prompt": "A child who feels left out when friends play without them, and finds the courage to join in gently"
+          "prompt": "A child who feels left out when friends play without them, and finds the courage to join in gently",
+          "id": "emotions-when-i-feel-left-out",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels left out when friends play without them, and finds the courage to join in gently",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😟",
           "title": "The Dark Is Okay",
-          "prompt": "A child who is afraid of the dark at bedtime and learns that nighttime is safe, cozy, and full of rest"
+          "prompt": "A child who is afraid of the dark at bedtime and learns that nighttime is safe, cozy, and full of rest",
+          "id": "emotions-the-dark-is-okay",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who is afraid of the dark at bedtime and learns that nighttime is safe, cozy, and full of rest",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😔",
           "title": "When I Am Disappointed",
-          "prompt": "A child who is very disappointed when plans change, and learns that new plans can bring new surprises"
+          "prompt": "A child who is very disappointed when plans change, and learns that new plans can bring new surprises",
+          "id": "emotions-when-i-am-disappointed",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who is very disappointed when plans change, and learns that new plans can bring new surprises",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😬",
           "title": "I Feel So Embarrassed",
-          "prompt": "A child who feels embarrassed after a small mishap, and learns that everyone makes funny mistakes sometimes"
+          "prompt": "A child who feels embarrassed after a small mishap, and learns that everyone makes funny mistakes sometimes",
+          "id": "emotions-i-feel-so-embarrassed",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels embarrassed after a small mishap, and learns that everyone makes funny mistakes sometimes",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🤒",
           "title": "When I Feel Sick",
-          "prompt": "A child who feels poorly and a little scared, and learns that rest, kindness, and warm soup make everything better"
+          "prompt": "A child who feels poorly and a little scared, and learns that rest, kindness, and warm soup make everything better",
+          "id": "emotions-when-i-feel-sick",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels poorly and a little scared, and learns that rest, kindness, and warm soup make everything better",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😣",
           "title": "I Cannot Wait",
-          "prompt": "A child who feels very impatient waiting for something exciting, and learns that good things are worth waiting for"
+          "prompt": "A child who feels very impatient waiting for something exciting, and learns that good things are worth waiting for",
+          "id": "emotions-i-cannot-wait",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels very impatient waiting for something exciting, and learns that good things are worth waiting for",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😰",
           "title": "Too Many Feelings",
-          "prompt": "A child who feels overwhelmed and does not understand all their big feelings at once, and learns to slow down and breathe"
+          "prompt": "A child who feels overwhelmed and does not understand all their big feelings at once, and learns to slow down and breathe",
+          "id": "emotions-too-many-feelings",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who feels overwhelmed and does not understand all their big feelings at once, and learns to slow down and breathe",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🥹",
           "title": "Sharing Feels Good",
-          "prompt": "A child who does not want to share at first but discovers that sharing brings more happiness than keeping things alone"
+          "prompt": "A child who does not want to share at first but discovers that sharing brings more happiness than keeping things alone",
+          "id": "emotions-sharing-feels-good",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who does not want to share at first but discovers that sharing brings more happiness than keeping things alone",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "😴",
           "title": "Worried at Bedtime",
-          "prompt": "A child who lies awake with worried thoughts and learns a gentle breathing trick to let worries float away like clouds"
+          "prompt": "A child who lies awake with worried thoughts and learns a gentle breathing trick to let worries float away like clouds",
+          "id": "emotions-worried-at-bedtime",
+          "enabled": true,
+          "story": {
+            "theme": "understanding and calming big feelings",
+            "location": "a familiar cozy everyday place",
+            "goal": "A child who lies awake with worried thoughts and learns a gentle breathing trick to let worries float away like clouds",
+            "lesson": "feelings become easier when Glimsi names them and accepts help",
+            "mood": "warm, reassuring, and gently curious"
+          }
         }
       ],
       "theme": {
@@ -88,8 +223,6 @@
           "#C9E6F7",
           "#FFE2C2"
         ],
-        "particle": "#FFFFFF",
-        "drift": "float",
         "accent": [
           "#8FC7F2",
           "#FFE2C2"
@@ -105,77 +238,212 @@
         {
           "emoji": "🎨",
           "title": "Painting Day",
-          "prompt": "A child who paints a big colorful picture at kindergarten and proudly shows the teacher"
+          "prompt": "A child who paints a big colorful picture at kindergarten and proudly shows the teacher",
+          "id": "kindergarten-painting-day",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A child who paints a big colorful picture at kindergarten and proudly shows the teacher",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🧩",
           "title": "The Puzzle Friends",
-          "prompt": "Two kindergarten friends who work together to finish a giant floor puzzle"
+          "prompt": "Two kindergarten friends who work together to finish a giant floor puzzle",
+          "id": "kindergarten-the-puzzle-friends",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "Two kindergarten friends who work together to finish a giant floor puzzle",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🍎",
           "title": "Snack Time",
-          "prompt": "A child who happily shares apple slices with new friends at snack time"
+          "prompt": "A child who happily shares apple slices with new friends at snack time",
+          "id": "kindergarten-snack-time",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A child who happily shares apple slices with new friends at snack time",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎵",
           "title": "The Music Circle",
-          "prompt": "A class of little ones who sing and clap together in a happy morning music circle"
+          "prompt": "A class of little ones who sing and clap together in a happy morning music circle",
+          "id": "kindergarten-the-music-circle",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A class of little ones who sing and clap together in a happy morning music circle",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🧸",
           "title": "The Lost Teddy",
-          "prompt": "A child who kindly helps a friend find a teddy bear left behind at kindergarten"
+          "prompt": "A child who kindly helps a friend find a teddy bear left behind at kindergarten",
+          "id": "kindergarten-the-lost-teddy",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A child who kindly helps a friend find a teddy bear left behind at kindergarten",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🌱",
           "title": "The Tiny Seed",
-          "prompt": "A class who plant little seeds in cups and watch them grow on the sunny windowsill"
+          "prompt": "A class who plant little seeds in cups and watch them grow on the sunny windowsill",
+          "id": "kindergarten-the-tiny-seed",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A class who plant little seeds in cups and watch them grow on the sunny windowsill",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🤝",
           "title": "Taking Turns",
-          "prompt": "A child who learns the happy joy of taking turns on the kindergarten slide"
+          "prompt": "A child who learns the happy joy of taking turns on the kindergarten slide",
+          "id": "kindergarten-taking-turns",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A child who learns the happy joy of taking turns on the kindergarten slide",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "📚",
           "title": "Story Corner",
-          "prompt": "Little ones who gather on a soft rug for a cozy story with their gentle teacher"
+          "prompt": "Little ones who gather on a soft rug for a cozy story with their gentle teacher",
+          "id": "kindergarten-story-corner",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "Little ones who gather on a soft rug for a cozy story with their gentle teacher",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🖍️",
           "title": "My Own Name",
-          "prompt": "A shy child who learns to write their very own name for the first time"
+          "prompt": "A shy child who learns to write their very own name for the first time",
+          "id": "kindergarten-my-own-name",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A shy child who learns to write their very own name for the first time",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎉",
           "title": "The Class Party",
-          "prompt": "A kindergarten class who decorate the room together for a gentle little celebration"
+          "prompt": "A kindergarten class who decorate the room together for a gentle little celebration",
+          "id": "kindergarten-the-class-party",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A kindergarten class who decorate the room together for a gentle little celebration",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🫧",
           "title": "Bubbly Hands",
-          "prompt": "A child who discovers the splashy, bubbly fun of washing hands before lunch"
+          "prompt": "A child who discovers the splashy, bubbly fun of washing hands before lunch",
+          "id": "kindergarten-bubbly-hands",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A child who discovers the splashy, bubbly fun of washing hands before lunch",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🦸",
           "title": "Dress-Up Day",
-          "prompt": "Children who play dress-up and become gentle, kind little heroes for an afternoon"
+          "prompt": "Children who play dress-up and become gentle, kind little heroes for an afternoon",
+          "id": "kindergarten-dress-up-day",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "Children who play dress-up and become gentle, kind little heroes for an afternoon",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🐛",
           "title": "The Garden Visitor",
-          "prompt": "A class who gently watch a little caterpillar visit their play garden"
+          "prompt": "A class who gently watch a little caterpillar visit their play garden",
+          "id": "kindergarten-the-garden-visitor",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A class who gently watch a little caterpillar visit their play garden",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🛌",
           "title": "Nap Time",
-          "prompt": "A child who settles down for a calm, cozy nap on a soft mat at kindergarten"
+          "prompt": "A child who settles down for a calm, cozy nap on a soft mat at kindergarten",
+          "id": "kindergarten-nap-time",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A child who settles down for a calm, cozy nap on a soft mat at kindergarten",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "👋",
           "title": "See You Tomorrow",
-          "prompt": "A child who waves a happy goodbye to friends at the end of a kindergarten day"
+          "prompt": "A child who waves a happy goodbye to friends at the end of a kindergarten day",
+          "id": "kindergarten-see-you-tomorrow",
+          "enabled": true,
+          "story": {
+            "theme": "friendship, confidence, and kind classroom routines",
+            "location": "kindergarten",
+            "goal": "A child who waves a happy goodbye to friends at the end of a kindergarten day",
+            "lesson": "small brave steps and kindness help new routines feel safe",
+            "mood": "warm, reassuring, and gently curious"
+          }
         }
       ],
       "theme": {
@@ -184,8 +452,6 @@
           "#BDEFD6",
           "#FFF3C4"
         ],
-        "particle": "#FFFFFF",
-        "drift": "rise",
         "accent": [
           "#7FD8E8",
           "#FFF3C4"
@@ -201,77 +467,212 @@
         {
           "emoji": "⚽",
           "title": "The Friendly Match",
-          "prompt": "Children who play a gentle game of ball together on the soft green grass"
+          "prompt": "Children who play a gentle game of ball together on the soft green grass",
+          "id": "park-the-friendly-match",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Children who play a gentle game of ball together on the soft green grass",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🛝",
           "title": "The Big Slide",
-          "prompt": "A child who makes a new friend at the top of the tallest, fastest slide"
+          "prompt": "A child who makes a new friend at the top of the tallest, fastest slide",
+          "id": "park-the-big-slide",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "A child who makes a new friend at the top of the tallest, fastest slide",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🪁",
           "title": "Flying a Kite",
-          "prompt": "Two friends who fly a colorful kite together on a gentle breezy afternoon"
+          "prompt": "Two friends who fly a colorful kite together on a gentle breezy afternoon",
+          "id": "park-flying-a-kite",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Two friends who fly a colorful kite together on a gentle breezy afternoon",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🤸",
           "title": "The Cartwheel",
-          "prompt": "A child who cheers on a friend learning to tumble softly on the grass"
+          "prompt": "A child who cheers on a friend learning to tumble softly on the grass",
+          "id": "park-the-cartwheel",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "A child who cheers on a friend learning to tumble softly on the grass",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🦆",
           "title": "Feeding the Ducks",
-          "prompt": "Children who toss gentle crumbs to happy ducks at the calm park pond"
+          "prompt": "Children who toss gentle crumbs to happy ducks at the calm park pond",
+          "id": "park-feeding-the-ducks",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Children who toss gentle crumbs to happy ducks at the calm park pond",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🌼",
           "title": "The Flower Crown",
-          "prompt": "Friends who weave a pretty crown of daisies together in a sunny meadow"
+          "prompt": "Friends who weave a pretty crown of daisies together in a sunny meadow",
+          "id": "park-the-flower-crown",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Friends who weave a pretty crown of daisies together in a sunny meadow",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🧺",
           "title": "The Shared Picnic",
-          "prompt": "Children who share a cozy picnic blanket and kindly trade tasty treats"
+          "prompt": "Children who share a cozy picnic blanket and kindly trade tasty treats",
+          "id": "park-the-shared-picnic",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Children who share a cozy picnic blanket and kindly trade tasty treats",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🏃",
           "title": "The Gentle Race",
-          "prompt": "Little ones who run a giggly, friendly race to the big old oak tree"
+          "prompt": "Little ones who run a giggly, friendly race to the big old oak tree",
+          "id": "park-the-gentle-race",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Little ones who run a giggly, friendly race to the big old oak tree",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🫧",
           "title": "Chasing Bubbles",
-          "prompt": "Children who chase and pop shimmering soap bubbles together in the park"
+          "prompt": "Children who chase and pop shimmering soap bubbles together in the park",
+          "id": "park-chasing-bubbles",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Children who chase and pop shimmering soap bubbles together in the park",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🐿️",
           "title": "The Little Squirrel",
-          "prompt": "Friends who quietly watch a playful squirrel gather acorns in the trees"
+          "prompt": "Friends who quietly watch a playful squirrel gather acorns in the trees",
+          "id": "park-the-little-squirrel",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Friends who quietly watch a playful squirrel gather acorns in the trees",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🛼",
           "title": "Learning to Roll",
-          "prompt": "A child who holds a friend's hand while learning to roll gently along the path"
+          "prompt": "A child who holds a friend's hand while learning to roll gently along the path",
+          "id": "park-learning-to-roll",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "A child who holds a friend's hand while learning to roll gently along the path",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🏰",
           "title": "The Sandbox Castle",
-          "prompt": "Friends who build a grand, gentle sandcastle together in the park sandbox"
+          "prompt": "Friends who build a grand, gentle sandcastle together in the park sandbox",
+          "id": "park-the-sandbox-castle",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Friends who build a grand, gentle sandcastle together in the park sandbox",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎠",
           "title": "The Carousel",
-          "prompt": "Children who ride a gentle carousel round and round on a happy afternoon"
+          "prompt": "Children who ride a gentle carousel round and round on a happy afternoon",
+          "id": "park-the-carousel",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Children who ride a gentle carousel round and round on a happy afternoon",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🌈",
           "title": "After the Rain",
-          "prompt": "Friends who softly splash in little puddles and spot a rainbow together"
+          "prompt": "Friends who softly splash in little puddles and spot a rainbow together",
+          "id": "park-after-the-rain",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "Friends who softly splash in little puddles and spot a rainbow together",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🤹",
           "title": "The Clapping Game",
-          "prompt": "A child who teaches a new friend a fun, gentle clapping game in the park"
+          "prompt": "A child who teaches a new friend a fun, gentle clapping game in the park",
+          "id": "park-the-clapping-game",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity, outdoor play, and gentle discovery",
+            "location": "a friendly park",
+            "goal": "A child who teaches a new friend a fun, gentle clapping game in the park",
+            "lesson": "curiosity and care make everyday adventures special",
+            "mood": "warm, reassuring, and gently curious"
+          }
         }
       ],
       "theme": {
@@ -280,8 +681,6 @@
           "#AEE3B0",
           "#7FB86B"
         ],
-        "particle": "#FFFFFF",
-        "drift": "float",
         "accent": [
           "#86C5F0",
           "#7FB86B"
@@ -297,77 +696,212 @@
         {
           "emoji": "🍪",
           "title": "Baking Cookies",
-          "prompt": "A child who bakes warm, sweet cookies with family on a cozy afternoon"
+          "prompt": "A child who bakes warm, sweet cookies with family on a cozy afternoon",
+          "id": "family-baking-cookies",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child who bakes warm, sweet cookies with family on a cozy afternoon",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎲",
           "title": "Game Night",
-          "prompt": "A family who gather for a gentle, giggly board game evening together"
+          "prompt": "A family who gather for a gentle, giggly board game evening together",
+          "id": "family-game-night",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A family who gather for a gentle, giggly board game evening together",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🏕️",
           "title": "Backyard Camp",
-          "prompt": "A family who pitch a little tent and tell soft stories in the backyard"
+          "prompt": "A family who pitch a little tent and tell soft stories in the backyard",
+          "id": "family-backyard-camp",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A family who pitch a little tent and tell soft stories in the backyard",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎬",
           "title": "Movie Night",
-          "prompt": "A child who snuggles under a soft blanket for a cozy family movie night"
+          "prompt": "A child who snuggles under a soft blanket for a cozy family movie night",
+          "id": "family-movie-night",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child who snuggles under a soft blanket for a cozy family movie night",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🌻",
           "title": "Gardening Together",
-          "prompt": "A child who plants bright, cheerful flowers with grandma in the garden"
+          "prompt": "A child who plants bright, cheerful flowers with grandma in the garden",
+          "id": "family-gardening-together",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child who plants bright, cheerful flowers with grandma in the garden",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🍲",
           "title": "Making Soup",
-          "prompt": "A family who stir a warm, tasty pot of soup together on a chilly day"
+          "prompt": "A family who stir a warm, tasty pot of soup together on a chilly day",
+          "id": "family-making-soup",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A family who stir a warm, tasty pot of soup together on a chilly day",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "📖",
           "title": "Grandpa's Story",
-          "prompt": "A child who listens to a gentle tale from grandpa by the sunny window"
+          "prompt": "A child who listens to a gentle tale from grandpa by the sunny window",
+          "id": "family-grandpa-s-story",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child who listens to a gentle tale from grandpa by the sunny window",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🧶",
           "title": "By the Fire",
-          "prompt": "A child who learns to wind soft yarn beside a warm, crackling fireplace"
+          "prompt": "A child who learns to wind soft yarn beside a warm, crackling fireplace",
+          "id": "family-by-the-fire",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child who learns to wind soft yarn beside a warm, crackling fireplace",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🚗",
           "title": "The Sunday Drive",
-          "prompt": "A family who take a calm, happy drive to see the rolling green hills"
+          "prompt": "A family who take a calm, happy drive to see the rolling green hills",
+          "id": "family-the-sunday-drive",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A family who take a calm, happy drive to see the rolling green hills",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🐱",
           "title": "The Family Cat",
-          "prompt": "A child and family who lovingly care for a soft, sleepy family cat"
+          "prompt": "A child and family who lovingly care for a soft, sleepy family cat",
+          "id": "family-the-family-cat",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child and family who lovingly care for a soft, sleepy family cat",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎂",
           "title": "Grandma's Birthday",
-          "prompt": "A family who surprise grandma with a gentle, warm birthday tea"
+          "prompt": "A family who surprise grandma with a gentle, warm birthday tea",
+          "id": "family-grandma-s-birthday",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A family who surprise grandma with a gentle, warm birthday tea",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🧹",
           "title": "The Tidy-Up Song",
-          "prompt": "A family who sing a happy song while tidying the cozy house together"
+          "prompt": "A family who sing a happy song while tidying the cozy house together",
+          "id": "family-the-tidy-up-song",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A family who sing a happy song while tidying the cozy house together",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🥞",
           "title": "Pancake Morning",
-          "prompt": "A child who flips fluffy pancakes with dad on a slow, sunny Sunday morning"
+          "prompt": "A child who flips fluffy pancakes with dad on a slow, sunny Sunday morning",
+          "id": "family-pancake-morning",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child who flips fluffy pancakes with dad on a slow, sunny Sunday morning",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🤗",
           "title": "Goodnight Hugs",
-          "prompt": "A child who gives warm goodnight hugs to everyone in the family"
+          "prompt": "A child who gives warm goodnight hugs to everyone in the family",
+          "id": "family-goodnight-hugs",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A child who gives warm goodnight hugs to everyone in the family",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "📸",
           "title": "The Photo Album",
-          "prompt": "A family who look through a warm album of happy memories together"
+          "prompt": "A family who look through a warm album of happy memories together",
+          "id": "family-the-photo-album",
+          "enabled": true,
+          "story": {
+            "theme": "family warmth, helping, and feeling loved",
+            "location": "a warm family home or nearby everyday place",
+            "goal": "A family who look through a warm album of happy memories together",
+            "lesson": "love grows through helping, listening, and spending time together",
+            "mood": "warm, reassuring, and gently curious"
+          }
         }
       ],
       "theme": {
@@ -376,8 +910,6 @@
           "#7A4E6E",
           "#E8A06A"
         ],
-        "particle": "#FFD9A0",
-        "drift": "float",
         "accent": [
           "#7A4E6E",
           "#E8A06A"
@@ -393,77 +925,212 @@
         {
           "emoji": "🛁",
           "title": "Bath Time",
-          "prompt": "A child who has to stop playing and take a bath before bed, even though they are not ready to stop, and discovers that bath time can actually be fun"
+          "prompt": "A child who has to stop playing and take a bath before bed, even though they are not ready to stop, and discovers that bath time can actually be fun",
+          "id": "bedtime-bath-time",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who has to stop playing and take a bath before bed, even though they are not ready to stop, and discovers that bath time can actually be fun",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "🦷",
           "title": "Clean Teeth",
-          "prompt": "A child who feels too tired to brush their teeth before bed but learns why clean teeth matter, and finds a way to make brushing feel like less of a chore"
+          "prompt": "A child who feels too tired to brush their teeth before bed but learns why clean teeth matter, and finds a way to make brushing feel like less of a chore",
+          "id": "bedtime-clean-teeth",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who feels too tired to brush their teeth before bed but learns why clean teeth matter, and finds a way to make brushing feel like less of a chore",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "🧸",
           "title": "Where Is Bear?",
-          "prompt": "A child who cannot find their beloved stuffed bear at bedtime and the whole family helps search the house until it turns up in a funny hiding place"
+          "prompt": "A child who cannot find their beloved stuffed bear at bedtime and the whole family helps search the house until it turns up in a funny hiding place",
+          "id": "bedtime-where-is-bear",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who cannot find their beloved stuffed bear at bedtime and the whole family helps search the house until it turns up in a funny hiding place",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "🌛",
           "title": "One More Hug",
-          "prompt": "A child who keeps coming back downstairs for one more hug, one more drink of water, and one more question, and mum gently helps them settle for the night"
+          "prompt": "A child who keeps coming back downstairs for one more hug, one more drink of water, and one more question, and mum gently helps them settle for the night",
+          "id": "bedtime-one-more-hug",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who keeps coming back downstairs for one more hug, one more drink of water, and one more question, and mum gently helps them settle for the night",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "💡",
           "title": "My Night Light",
-          "prompt": "A child who feels a little nervous going to sleep in the dark and gets to choose their very first night light, which makes bedtime feel much cosier"
+          "prompt": "A child who feels a little nervous going to sleep in the dark and gets to choose their very first night light, which makes bedtime feel much cosier",
+          "id": "bedtime-my-night-light",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who feels a little nervous going to sleep in the dark and gets to choose their very first night light, which makes bedtime feel much cosier",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "😴",
           "title": "Too Excited to Sleep",
-          "prompt": "A child who cannot stop wriggling in bed the night before their birthday because they are so excited, and slowly learns to calm down and rest"
+          "prompt": "A child who cannot stop wriggling in bed the night before their birthday because they are so excited, and slowly learns to calm down and rest",
+          "id": "bedtime-too-excited-to-sleep",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who cannot stop wriggling in bed the night before their birthday because they are so excited, and slowly learns to calm down and rest",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "⛈️",
           "title": "The Loud Thunder",
-          "prompt": "A child who is woken by a thunderstorm and feels scared, and mum explains what thunder is while they snuggle up safe together until the storm passes"
+          "prompt": "A child who is woken by a thunderstorm and feels scared, and mum explains what thunder is while they snuggle up safe together until the storm passes",
+          "id": "bedtime-the-loud-thunder",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who is woken by a thunderstorm and feels scared, and mum explains what thunder is while they snuggle up safe together until the storm passes",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "🛏️",
           "title": "My Big Kid Bed",
-          "prompt": "A child who moves from their cot to their very first big-kid bed and feels proud but also a tiny bit wobbly about the change"
+          "prompt": "A child who moves from their cot to their very first big-kid bed and feels proud but also a tiny bit wobbly about the change",
+          "id": "bedtime-my-big-kid-bed",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who moves from their cot to their very first big-kid bed and feels proud but also a tiny bit wobbly about the change",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "😬",
           "title": "After a Bad Dream",
-          "prompt": "A child who has a frightening dream and calls for dad, who comes straight away and gently explains that dreams are not real and helps them feel safe again"
+          "prompt": "A child who has a frightening dream and calls for dad, who comes straight away and gently explains that dreams are not real and helps them feel safe again",
+          "id": "bedtime-after-a-bad-dream",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who has a frightening dream and calls for dad, who comes straight away and gently explains that dreams are not real and helps them feel safe again",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "🌙",
           "title": "Sleeping at Grandma's",
-          "prompt": "A child who sleeps at grandma's house for the very first time with their own pillow from home, and realises that grandma's house is actually very cosy"
+          "prompt": "A child who sleeps at grandma's house for the very first time with their own pillow from home, and realises that grandma's house is actually very cosy",
+          "id": "bedtime-sleeping-at-grandma-s",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who sleeps at grandma's house for the very first time with their own pillow from home, and realises that grandma's house is actually very cosy",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "☀️",
           "title": "Too Early!",
-          "prompt": "A child who wakes up when it is still dark outside and wants to get up but learns that everyone needs to rest a little longer, and finds quiet ways to wait"
+          "prompt": "A child who wakes up when it is still dark outside and wants to get up but learns that everyone needs to rest a little longer, and finds quiet ways to wait",
+          "id": "bedtime-too-early",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who wakes up when it is still dark outside and wants to get up but learns that everyone needs to rest a little longer, and finds quiet ways to wait",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "📚",
           "title": "My Bedtime Routine",
-          "prompt": "A child who does their whole bedtime routine completely by themselves for the very first time: bath, teeth, pyjamas, and story, feeling very grown-up at the end"
+          "prompt": "A child who does their whole bedtime routine completely by themselves for the very first time: bath, teeth, pyjamas, and story, feeling very grown-up at the end",
+          "id": "bedtime-my-bedtime-routine",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who does their whole bedtime routine completely by themselves for the very first time: bath, teeth, pyjamas, and story, feeling very grown-up at the end",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "👕",
           "title": "Pyjama Night",
-          "prompt": "A child who gets to choose their favourite pyjamas and accidentally puts them on inside-out, making the whole family laugh at bedtime"
+          "prompt": "A child who gets to choose their favourite pyjamas and accidentally puts them on inside-out, making the whole family laugh at bedtime",
+          "id": "bedtime-pyjama-night",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who gets to choose their favourite pyjamas and accidentally puts them on inside-out, making the whole family laugh at bedtime",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "🌟",
           "title": "Goodnight Everyone",
-          "prompt": "A child who says a very thorough goodnight to every person, every toy, and every corner of their room before they can finally settle down to sleep"
+          "prompt": "A child who says a very thorough goodnight to every person, every toy, and every corner of their room before they can finally settle down to sleep",
+          "id": "bedtime-goodnight-everyone",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who says a very thorough goodnight to every person, every toy, and every corner of their room before they can finally settle down to sleep",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         },
         {
           "emoji": "🐾",
           "title": "The Dog on the Bed",
-          "prompt": "A child who quietly lets the family dog sneak onto the bed for company at night and wonders if mum and dad will notice in the morning"
+          "prompt": "A child who quietly lets the family dog sneak onto the bed for company at night and wonders if mum and dad will notice in the morning",
+          "id": "bedtime-the-dog-on-the-bed",
+          "enabled": true,
+          "story": {
+            "theme": "rest, comfort, and peaceful imagination",
+            "location": "a cozy bedtime setting",
+            "goal": "A child who quietly lets the family dog sneak onto the bed for company at night and wonders if mum and dad will notice in the morning",
+            "lesson": "rest feels safe when the day ends softly",
+            "mood": "slow, soft, and sleepy"
+          }
         }
       ],
       "theme": {
@@ -472,8 +1139,6 @@
           "#111036",
           "#1B1B3A"
         ],
-        "particle": "#FFFFFF",
-        "drift": "float",
         "accent": [
           "#1B1B3A",
           "#4A3B82"
@@ -489,77 +1154,212 @@
         {
           "emoji": "🧺",
           "title": "The Picnic Plan",
-          "prompt": "Three friends who plan a garden picnic together and chat about what each one will bring"
+          "prompt": "Three friends who plan a garden picnic together and chat about what each one will bring",
+          "id": "theater-the-picnic-plan",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Three friends who plan a garden picnic together and chat about what each one will bring",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "⛵",
           "title": "The Little Boat",
-          "prompt": "Two friends and a friendly duck who chat together while sailing a toy boat across a pond"
+          "prompt": "Two friends and a friendly duck who chat together while sailing a toy boat across a pond",
+          "id": "theater-the-little-boat",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Two friends and a friendly duck who chat together while sailing a toy boat across a pond",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🐻",
           "title": "Teddy's Tea Party",
-          "prompt": "A child whose teddy bear and rabbit toy come alive for a cozy tea party and chat politely about cakes"
+          "prompt": "A child whose teddy bear and rabbit toy come alive for a cozy tea party and chat politely about cakes",
+          "id": "theater-teddy-s-tea-party",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "A child whose teddy bear and rabbit toy come alive for a cozy tea party and chat politely about cakes",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🎪",
           "title": "The Backyard Show",
-          "prompt": "Three friends who put on a little backyard talent show and cheer for each other"
+          "prompt": "Three friends who put on a little backyard talent show and cheer for each other",
+          "id": "theater-the-backyard-show",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Three friends who put on a little backyard talent show and cheer for each other",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🐦",
           "title": "The Lost Acorn",
-          "prompt": "A squirrel and a wise old owl and a small bird who talk together to find a lost acorn"
+          "prompt": "A squirrel and a wise old owl and a small bird who talk together to find a lost acorn",
+          "id": "theater-the-lost-acorn",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "A squirrel and a wise old owl and a small bird who talk together to find a lost acorn",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🍪",
           "title": "The Baking Team",
-          "prompt": "A child and grandma and a cheeky talking cat who chat while baking cookies together"
+          "prompt": "A child and grandma and a cheeky talking cat who chat while baking cookies together",
+          "id": "theater-the-baking-team",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "A child and grandma and a cheeky talking cat who chat while baking cookies together",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🚂",
           "title": "The Toy Train Trip",
-          "prompt": "Toy passengers who chat about the sights as their little train rides around the playroom"
+          "prompt": "Toy passengers who chat about the sights as their little train rides around the playroom",
+          "id": "theater-the-toy-train-trip",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Toy passengers who chat about the sights as their little train rides around the playroom",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🌈",
           "title": "After the Rain",
-          "prompt": "Two friends and a garden snail who talk about the rainbow after warm summer rain"
+          "prompt": "Two friends and a garden snail who talk about the rainbow after warm summer rain",
+          "id": "theater-after-the-rain",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Two friends and a garden snail who talk about the rainbow after warm summer rain",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🏰",
           "title": "The Pillow Castle",
-          "prompt": "Three siblings who build a pillow castle and chat about who guards which tower"
+          "prompt": "Three siblings who build a pillow castle and chat about who guards which tower",
+          "id": "theater-the-pillow-castle",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Three siblings who build a pillow castle and chat about who guards which tower",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🐠",
           "title": "The Aquarium Visit",
-          "prompt": "Two friends visiting an aquarium who imagine the fish chatting back to them"
+          "prompt": "Two friends visiting an aquarium who imagine the fish chatting back to them",
+          "id": "theater-the-aquarium-visit",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Two friends visiting an aquarium who imagine the fish chatting back to them",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🌻",
           "title": "The Garden Friends",
-          "prompt": "A ladybug and a bee and a butterfly who chat while helping the garden flowers"
+          "prompt": "A ladybug and a bee and a butterfly who chat while helping the garden flowers",
+          "id": "theater-the-garden-friends",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "A ladybug and a bee and a butterfly who chat while helping the garden flowers",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🎈",
           "title": "The Balloon Ride",
-          "prompt": "A child and a gentle talking fox who imagine floating over town in a balloon and describe what they see to each other"
+          "prompt": "A child and a gentle talking fox who imagine floating over town in a balloon and describe what they see to each other",
+          "id": "theater-the-balloon-ride",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "A child and a gentle talking fox who imagine floating over town in a balloon and describe what they see to each other",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🐕",
           "title": "The Morning Walk",
-          "prompt": "A child and grandpa and a bouncy puppy who chat and greet the neighbours on a gentle sunny morning walk"
+          "prompt": "A child and grandpa and a bouncy puppy who chat and greet the neighbours on a gentle sunny morning walk",
+          "id": "theater-the-morning-walk",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "A child and grandpa and a bouncy puppy who chat and greet the neighbours on a gentle sunny morning walk",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🚀",
           "title": "The Toy Rocket",
-          "prompt": "Three toy astronauts who chat excitedly about the planets they pass as they blast off on a playroom adventure"
+          "prompt": "Three toy astronauts who chat excitedly about the planets they pass as they blast off on a playroom adventure",
+          "id": "theater-the-toy-rocket",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "Three toy astronauts who chat excitedly about the planets they pass as they blast off on a playroom adventure",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         },
         {
           "emoji": "🎭",
           "title": "The Puppet Show",
-          "prompt": "A child who puts on a little puppet show for their toys and gives each puppet a different funny voice for the audience"
+          "prompt": "A child who puts on a little puppet show for their toys and gives each puppet a different funny voice for the audience",
+          "id": "theater-the-puppet-show",
+          "enabled": true,
+          "story": {
+            "theme": "teamwork, playful conversation, and shared discovery",
+            "location": "a simple story-theater scene",
+            "goal": "A child who puts on a little puppet show for their toys and gives each puppet a different funny voice for the audience",
+            "lesson": "friends solve things best when everyone has a voice",
+            "mood": "playful, warm, and clear for different voices"
+          }
         }
       ],
       "theme": {
@@ -568,8 +1368,6 @@
           "#8E3B5C",
           "#E8B04B"
         ],
-        "particle": "#FFE3A0",
-        "drift": "rise",
         "accent": [
           "#8E3B5C",
           "#E8B04B"
@@ -585,42 +1383,114 @@
         {
           "emoji": "🦷",
           "title": "Dentist",
-          "prompt": "a reassuring story where a little hero visits the dentist, feels a bit nervous in the big chair, is gently helped, and leaves proud with a sparkling smile"
+          "prompt": "a reassuring story where a little hero visits the dentist, feels a bit nervous in the big chair, is gently helped, and leaves proud with a sparkling smile",
+          "id": "tomorrow-dentist",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a reassuring story where a little hero visits the dentist, feels a bit nervous in the big chair, is gently helped, and leaves proud with a sparkling smile",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "💉",
           "title": "Doctor visit",
-          "prompt": "a gentle story where a little hero gets a quick check-up and a tiny vaccine, squeezes a grown-up's hand, and feels brave and fine right after"
+          "prompt": "a gentle story where a little hero gets a quick check-up and a tiny vaccine, squeezes a grown-up's hand, and feels brave and fine right after",
+          "id": "tomorrow-doctor-visit",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a gentle story where a little hero gets a quick check-up and a tiny vaccine, squeezes a grown-up's hand, and feels brave and fine right after",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎒",
           "title": "Kindergarten",
-          "prompt": "a warm story where a little hero spends a day at kindergarten, misses home a little, plays with a friend, and can't wait to go back tomorrow"
+          "prompt": "a warm story where a little hero spends a day at kindergarten, misses home a little, plays with a friend, and can't wait to go back tomorrow",
+          "id": "tomorrow-kindergarten",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a warm story where a little hero spends a day at kindergarten, misses home a little, plays with a friend, and can't wait to go back tomorrow",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🎂",
           "title": "Birthday party",
-          "prompt": "a joyful story where a little hero feels a little shy walking into a birthday party, but sings, plays games, and has the most wonderful time"
+          "prompt": "a joyful story where a little hero feels a little shy walking into a birthday party, but sings, plays games, and has the most wonderful time",
+          "id": "tomorrow-birthday-party",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a joyful story where a little hero feels a little shy walking into a birthday party, but sings, plays games, and has the most wonderful time",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "✂️",
           "title": "Haircut",
-          "prompt": "a playful story where a little hero gets a haircut, hears the funny snip-snip sounds, and loves how they look after"
+          "prompt": "a playful story where a little hero gets a haircut, hears the funny snip-snip sounds, and loves how they look after",
+          "id": "tomorrow-haircut",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a playful story where a little hero gets a haircut, hears the funny snip-snip sounds, and loves how they look after",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "✈️",
           "title": "Airplane",
-          "prompt": "a cozy story where a little hero takes an airplane ride, watches the clouds go by, and lands happy with popping ears and a big smile"
+          "prompt": "a cozy story where a little hero takes an airplane ride, watches the clouds go by, and lands happy with popping ears and a big smile",
+          "id": "tomorrow-airplane",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a cozy story where a little hero takes an airplane ride, watches the clouds go by, and lands happy with popping ears and a big smile",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🚗",
           "title": "Car trip",
-          "prompt": "a cheerful story where a little hero feels restless on a long car ride, plays fun games along the way, and arrives happy and excited"
+          "prompt": "a cheerful story where a little hero feels restless on a long car ride, plays fun games along the way, and arrives happy and excited",
+          "id": "tomorrow-car-trip",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a cheerful story where a little hero feels restless on a long car ride, plays fun games along the way, and arrives happy and excited",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         },
         {
           "emoji": "🌙",
           "title": "Sleepover",
-          "prompt": "a snug story where a little hero sleeps over at grandma's, feels a flutter of missing home, and wakes up proud and happy"
+          "prompt": "a snug story where a little hero sleeps over at grandma's, feels a flutter of missing home, and wakes up proud and happy",
+          "id": "tomorrow-sleepover",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a snug story where a little hero sleeps over at grandma's, feels a flutter of missing home, and wakes up proud and happy",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         }
       ],
       "theme": {
@@ -629,8 +1499,6 @@
           "#C9E6F7",
           "#FFE2C2"
         ],
-        "particle": "#FFFFFF",
-        "drift": "float",
         "accent": [
           "#8FC7F2",
           "#FFE2C2"
@@ -648,8 +1516,6 @@
           "#924267",
           "#E8742C"
         ],
-        "particle": "#FFB347",
-        "drift": "float",
         "accent": [
           "#8E44EC",
           "#FF9F1C"
@@ -660,77 +1526,212 @@
         {
           "emoji": "🎃",
           "title": "Pumpkin Patch",
-          "prompt": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together"
+          "prompt": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together",
+          "id": "halloween-pumpkin-patch",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "👗",
           "title": "Costume Day",
-          "prompt": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears"
+          "prompt": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears",
+          "id": "halloween-costume-day",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🍬",
           "title": "Sweet Sharing",
-          "prompt": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother"
+          "prompt": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother",
+          "id": "halloween-sweet-sharing",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🕯️",
           "title": "Leaf Lanterns",
-          "prompt": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors"
+          "prompt": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors",
+          "id": "halloween-leaf-lanterns",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "👻",
           "title": "Shy Little Ghost",
-          "prompt": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies"
+          "prompt": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies",
+          "id": "halloween-shy-little-ghost",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🧁",
           "title": "Pumpkin Muffins",
-          "prompt": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn"
+          "prompt": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn",
+          "id": "halloween-pumpkin-muffins",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🐈‍⬛",
           "title": "Black Cat Friend",
-          "prompt": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family"
+          "prompt": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
+          "id": "halloween-black-cat-friend",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🍎",
           "title": "Apple Bobbing",
-          "prompt": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple"
+          "prompt": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple",
+          "id": "halloween-apple-bobbing",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🌕",
           "title": "Orange Moon Walk",
-          "prompt": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites"
+          "prompt": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites",
+          "id": "halloween-orange-moon-walk",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🕷️",
           "title": "Spider's Lace",
-          "prompt": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew"
+          "prompt": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew",
+          "id": "halloween-spider-s-lace",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🏮",
           "title": "Trick-or-Treat Buddy",
-          "prompt": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street"
+          "prompt": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street",
+          "id": "halloween-trick-or-treat-buddy",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🎭",
           "title": "Silly Spooky Party",
-          "prompt": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet"
+          "prompt": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet",
+          "id": "halloween-silly-spooky-party",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🧣",
           "title": "Scarecrow's Scarf",
-          "prompt": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village"
+          "prompt": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village",
+          "id": "halloween-scarecrow-s-scarf",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🍂",
           "title": "Crunchy Leaf Trail",
-          "prompt": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure"
+          "prompt": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure",
+          "id": "halloween-crunchy-leaf-trail",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         },
         {
           "emoji": "🏰",
           "title": "Cobweb Castle",
-          "prompt": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast"
+          "prompt": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast",
+          "id": "halloween-cobweb-castle",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         }
       ]
     }
@@ -746,8 +1747,6 @@
           "#283D71",
           "#5C5066"
         ],
-        "particle": "#FFFFFF",
-        "drift": "float",
         "accent": [
           "#C0392B",
           "#E8B04B"
@@ -842,8 +1841,6 @@
           "#342A54",
           "#533850"
         ],
-        "particle": "#E7B35A",
-        "drift": "rise",
         "accent": [
           "#4A3B82",
           "#E7B35A"
@@ -938,8 +1935,6 @@
           "#F7EFCE",
           "#B2A358"
         ],
-        "particle": "#FFFFFF",
-        "drift": "rise",
         "accent": [
           "#8FCFC9",
           "#D9C36A"
@@ -1034,8 +2029,6 @@
           "#AF7D5B",
           "#965A46"
         ],
-        "particle": "#F6F2D3",
-        "drift": "rise",
         "accent": [
           "#D98E7E",
           "#F6E0C0"
@@ -1130,8 +2123,6 @@
           "#47311A",
           "#251A11"
         ],
-        "particle": "#FDE786",
-        "drift": "float",
         "accent": [
           "#8A6A4E",
           "#FDE786"
@@ -1226,8 +2217,6 @@
           "#9E5927",
           "#5F250B"
         ],
-        "particle": "#FEDF74",
-        "drift": "float",
         "accent": [
           "#9E5927",
           "#FEDF74"
@@ -1322,8 +2311,6 @@
           "#7E4214",
           "#652E0F"
         ],
-        "particle": "#FEE276",
-        "drift": "float",
         "accent": [
           "#C97A3D",
           "#FEE276"
@@ -1418,8 +2405,6 @@
           "#776676",
           "#524755"
         ],
-        "particle": "#FFFFFF",
-        "drift": "float",
         "accent": [
           "#8A7FA8",
           "#FFEDC3"
@@ -1514,8 +2499,6 @@
           "#886846",
           "#8E6C55"
         ],
-        "particle": "#FDFEE5",
-        "drift": "rise",
         "accent": [
           "#B98C6F",
           "#FDFEE5"
@@ -1610,8 +2593,6 @@
           "#8B804A",
           "#7B5E37"
         ],
-        "particle": "#FDF9C3",
-        "drift": "float",
         "accent": [
           "#8FAE8C",
           "#FDF9C3"
