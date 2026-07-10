@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "customPromptSafety": {
     "blockedWords": [
       "kill",
@@ -86,84 +86,58 @@
     "finalCleanupUser": "Lightly clean this stitched story.\n\nStory contract:\n{{CONTRACT}}\n\nStory:\n{{STORY}}\n\nOnly fix obvious problems: repeated phrases or sentences, near-identical lines of dialogue said twice, characters saying a listener's own name back to them or using names in almost every spoken line, rough transitions between acts, unclosed quotation marks, accidental headings, spacing, or broken endings. Return the full cleaned story text only.",
     "proseActs": [
       {
-        "key": "welcome",
-        "title": "Welcome",
-        "targetWords": 90,
-        "purpose": "Open the story: show the location from the contract, Glimsi's mood, and the two supporting characters doing one small everyday thing together. End on the first hint of the story goal — but the goal activity itself must not begin yet."
-      },
-      {
-        "key": "curiosity",
-        "title": "Small Curiosity",
-        "targetWords": 115,
-        "purpose": "One concrete new thing happens that points straight at the goal from the contract — an announcement, an invitation, an object appearing. Glimsi wants it but has not acted yet. Do not solve anything."
+        "key": "opening",
+        "title": "Opening",
+        "targetWords": 190,
+        "purpose": "Open the story: show the location from the contract, Glimsi's mood, and the two supporting characters doing one small everyday thing together. Then one concrete new thing happens that points straight at the goal from the contract — an announcement, an invitation, an object appearing. Glimsi wants it but has not acted on it yet. Do not solve anything."
       },
       {
         "key": "exploration",
         "title": "Exploration",
-        "targetWords": 145,
-        "purpose": "Glimsi and the friends act on the goal: they move, try things, and discover. By the end of this act the scene has visibly changed from where it started."
+        "targetWords": 205,
+        "purpose": "Glimsi and the friends act on the goal: they move, try things, and discover. By the end of this act the scene has visibly changed from where it started. The goal is not reached yet — something small is still missing."
       },
       {
         "key": "obstacle",
         "title": "Small Obstacle",
-        "targetWords": 145,
-        "purpose": "The gentle obstacle named in the contract now stands directly between Glimsi and the goal. Show it through Glimsi's feelings and one small concrete setback; the friends notice and offer support. Emotional peak, still safe."
+        "targetWords": 200,
+        "purpose": "The gentle obstacle named in the contract now stands directly between Glimsi and the goal. Show it through Glimsi's feelings and one small concrete setback; the friends notice and offer support. Emotional peak, still safe. Do not resolve it yet."
       },
       {
-        "key": "solution",
-        "title": "Kind Solution",
-        "targetWords": 145,
-        "purpose": "Play out the resolution from the contract: helped by the friends' kindness, Glimsi does the brave or kind thing and reaches the goal. Show this moment fully — it is the heart of the story. By the end of this act the goal is completely reached, with nothing left to try."
-      },
-      {
-        "key": "cozyEnding",
-        "title": "Cozy Ending",
-        "targetWords": 120,
-        "purpose": "The goal is already achieved — nothing new is attempted, tried, begun, or decided in this act, and no earlier moment is replayed. Show the quiet minute just after: soft after-actions like yawning, snuggling, waving, watching, laughing quietly. Land on the ending image from the contract and close with one calm final sentence that ends the story completely."
+        "key": "solutionEnding",
+        "title": "Kind Solution and Cozy Ending",
+        "targetWords": 240,
+        "purpose": "Two halves in order, with no break between them. First: helped by the friends' kindness, Glimsi does the brave or kind thing from the contract and reaches the goal — show this moment fully; it is the heart of the story, and by its end the goal is completely reached with nothing left to try. Then: nothing new is attempted, tried, begun, or decided, and no earlier moment is replayed — show the quiet minute just after with soft after-actions like yawning, snuggling, waving, watching, laughing quietly. Land on the ending image from the contract and close with one calm final sentence that ends the story completely."
       }
     ],
     "theaterActs": [
       {
-        "key": "welcome",
-        "title": "Welcome",
-        "targetWords": 90,
-        "purpose": "Narrator opens the story: the location from the contract, Glimsi's mood, and the two supporting characters doing one small everyday thing together. End on the first hint of the story goal — but the goal activity itself must not begin yet.",
-        "format": "Narrator sets the scene, one character notices a cozy detail, narrator closes the beat."
-      },
-      {
-        "key": "curiosity",
-        "title": "Small Curiosity",
-        "targetWords": 110,
-        "purpose": "One concrete new thing happens that points straight at the goal from the contract — an announcement, an invitation, an object appearing. Glimsi wants it but has not acted yet.",
-        "format": "Narrator introduces the new thing, Glimsi wonders, friend A reacts, friend B suggests looking gently."
+        "key": "opening",
+        "title": "Opening",
+        "targetWords": 180,
+        "purpose": "Narrator opens the story: the location from the contract, Glimsi's mood, and the two supporting characters doing one small everyday thing together. Then one concrete new thing happens that points straight at the goal from the contract — an announcement, an invitation, an object appearing. Glimsi wants it but has not acted yet. Do not solve anything.",
+        "format": "Narrator sets the scene, one character notices a cozy detail, narrator introduces the new thing, Glimsi wonders, friend A reacts, friend B suggests looking gently."
       },
       {
         "key": "exploration",
         "title": "Exploration",
-        "targetWords": 135,
-        "purpose": "The three characters act on the goal: they move, try things, and discover. By the end of this act the scene has visibly changed from where it started.",
-        "format": "Narrator moves the scene, character A notices, character B wonders, Glimsi proposes, narrator advances."
+        "targetWords": 195,
+        "purpose": "The three characters act on the goal: they move, try things, and discover. By the end of this act the scene has visibly changed from where it started. The goal is not reached yet — something small is still missing.",
+        "format": "Narrator moves the scene, character A notices, character B wonders, Glimsi proposes, they try one thing together, narrator advances."
       },
       {
         "key": "obstacle",
         "title": "Small Obstacle",
-        "targetWords": 135,
-        "purpose": "The gentle obstacle named in the contract now stands directly between Glimsi and the goal. Show it through Glimsi's feelings and one small concrete setback. Keep it gentle and quickly supported.",
+        "targetWords": 190,
+        "purpose": "The gentle obstacle named in the contract now stands directly between Glimsi and the goal. Show it through Glimsi's feelings and one small concrete setback. Keep it gentle and quickly supported. Do not resolve it yet.",
         "format": "Narrator shows the obstacle, one character hesitates, another reassures, Glimsi names a kind plan."
       },
       {
-        "key": "solution",
-        "title": "Kind Solution",
-        "targetWords": 135,
-        "purpose": "Play out the resolution from the contract: helped by the friends' kindness, Glimsi does the brave or kind thing and reaches the goal. Show this moment fully. By the end of this act the goal is completely reached, with nothing left to try.",
-        "format": "Narrator sets up the try, each speaker contributes one useful idea, narrator shows the solution working."
-      },
-      {
-        "key": "cozyEnding",
-        "title": "Cozy Ending",
-        "targetWords": 95,
-        "purpose": "The goal is already achieved — nothing new is attempted, tried, begun, or decided in this act, and no earlier moment is replayed. Show the quiet minute just after with soft after-actions, land on the ending image from the contract, and end with one calm final narration line.",
-        "format": "Narrator calms the scene, one or two short thank-you lines, narrator ends softly."
+        "key": "solutionEnding",
+        "title": "Kind Solution and Cozy Ending",
+        "targetWords": 220,
+        "purpose": "Two halves in order, with no break between them. First: helped by the friends' kindness, Glimsi does the brave or kind thing from the contract and reaches the goal — show this moment fully; by its end the goal is completely reached with nothing left to try. Then: nothing new is attempted, tried, begun, or decided, and no earlier moment is replayed — show the quiet minute just after with soft after-actions, land on the ending image from the contract, and end with one calm final narration line.",
+        "format": "Narrator sets up the try, each speaker contributes one useful idea, narrator shows the solution working, narrator calms the scene, one or two short thank-you lines, narrator ends softly."
       }
     ]
   }
