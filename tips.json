@@ -34,7 +34,7 @@
     {
       "icon": "calendar.badge.clock",
       "title": "Plan",
-      "message": "Use Plan for stories about something coming soon, like school, trips, or bedtime changes."
+      "message": "Use Plan for stories about something coming soon, like school, trips, or routine changes."
     },
     {
       "icon": "figure.walk.motion",
@@ -108,18 +108,18 @@
     },
     {
       "icon": "waveform",
-      "title": "Voice Engine",
-      "message": "Add a family voice profile and download Chatterbox to unlock cloned narration."
+      "title": "Voice cloning",
+      "message": "Record a family voice and download the cloning model to unlock cloned narration."
     },
     {
       "icon": "mic.circle.fill",
-      "title": "Voice profiles",
+      "title": "Cloned voices",
       "message": "Record a short clear sample, then assign that voice to any story world in Setup."
     },
     {
       "icon": "arrow.down.circle.fill",
-      "title": "Chatterbox download",
-      "message": "Voice cloning needs the Chatterbox engine once; normal narrator voices work without it."
+      "title": "Cloning model",
+      "message": "Voice cloning needs one larger download; normal narrator voices work without it."
     },
     {
       "icon": "heart.fill",
