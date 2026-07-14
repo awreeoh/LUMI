@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "customPromptSafety": {
     "blockedWords": [
       "kill",
@@ -76,8 +76,8 @@
   },
   "storyPipeline": {
     "disabledSeedIDs": [],
-    "contractSystem": "You create compact story contracts for warm children's stories.\n{{STORY_RULES}}\nReturn only the structured contract fields. Do not write story prose.",
-    "contractUser": "Create a story contract from this seed.\n\nSection: {{SECTION}}\nTitle: {{TITLE}}\nSeed idea: {{PROMPT}}\nOptional editorial hints:\n{{SEED_HINTS}}\nPrevious story recap for sequels:\n{{PREVIOUS_RECAP}}\nChild's chosen direction for sequel:\n{{CHOICE}}\n\nBuild one short causal arc for exactly three acts: setup; attempt-obstacle-choice; resolution-ending. Use Glimsi as the hero and choose exactly two supporting character names from Mia, Ella, Rosa, Ruby, Daisy, Lucy, Lily, Anna, Zoe, Emma, Ben, Sam, Leo, Jack, Max, Tom, Noah, Finn. Preserve the seed's concrete activity, important object or animal, and physical place. The goal must be one observable action or discovery, not a vague feeling. Phrase gentleObstacle as an explicit failed-attempt fact using cannot, could not, too, missing, hidden, covered, stuck, slippery, faint, unsure, or another word that clearly states why the exact goal cannot happen yet. Raindrops, puddles, an object, or a feeling alone are not obstacles. The resolution must begin with Glimsi and describe one specific action she performs alone; do not name a supporting character in the resolution. The resolution must repeat the goal's important object or activity and directly remove the exact obstacle. The endingImage must also repeat that important object or activity and visibly show the goal completed. Apply this test: because the obstacle happened, the goal could not happen; because Glimsi performed the resolution, the obstacle ended and the goal happened. Never use generic shyness, confidence, sharing feelings, asking for help, or friendship unless the seed's exact activity truly requires it. Supporting characters encourage or notice details but never solve the problem. For sequels, preserve the previous cast and established world, begin after the recap's ending, and make the chosen direction the new goal.",
+    "contractSystem": "You extract a few stable facts for a warm children's story.\n{{STORY_RULES}}\nReturn only the structured fields. Do not plan acts and do not write prose.",
+    "contractUser": "Extract compact story facts from this seed.\n\nSection: {{SECTION}}\nTitle: {{TITLE}}\nSeed idea: {{PROMPT}}\nOptional editorial hints:\n{{SEED_HINTS}}\nPrevious story recap for sequels:\n{{PREVIOUS_RECAP}}\nChild's chosen direction for sequel:\n{{CHOICE}}\n\nUse Glimsi as hero. Choose exactly two supporting names from Mia, Ella, Rosa, Ruby, Daisy, Lucy, Lily, Anna, Zoe, Emma, Ben, Sam, Leo, Jack, Max, Tom, Noah, Finn. Choose one concrete physical location from the seed, never theater, stage, scene, or a format label. State one short observable goal anchored to the seed's exact activity, object, animal, or discovery. Do not invent an obstacle, resolution, ending, or lesson; the app builds those through the actual three acts. For a sequel, preserve the previous cast and place when they are clear, begin after the recap ending, and use the child's choice as the new goal.",
     "proseActSystem": "You write one beat of a warm read-aloud children's story.\n{{STORY_RULES}}\nOutput only the requested act text. No title, heading, labels, bullet points, or explanations.",
     "proseActUser": "Continue the same story with its next act.\n\nStory contract:\n{{CONTRACT}}\n\nBeats already told — these already happened, never retell or re-describe any of them:\n{{SUMMARY_SO_FAR}}\n\nEnd of the previous act — the story continues from exactly this point:\n{{PREVIOUS_ACT}}\n\nAct: {{ACT_TITLE}}\nWhat must happen in this act: {{ACT_PURPOSE}}\nNarration style: {{ACT_FORMAT}}\nLength: about {{TARGET_WORDS}} words.\n\nRules for this act:\n- Write plain prose only.\n- Advance the story one clear step: something new must happen that changes the situation. Every paragraph adds a new action, discovery, feeling, or decision.\n- Pick up exactly where the previous act stopped. Do not re-open the scene, re-introduce characters, or describe the setting again.\n- Never reuse a sentence or phrase that already appears in the story so far.\n- Never write chains of tiny sentences like \"Mia smiled. Glimsi smiled. Mia laughed.\" — once someone smiles or nods, the next sentence must bring a new action or new information.\n- Show small child-like actions — pointing, giggling, whispering, leaning closer, patting a spot — instead of repeated smiling, nodding, and cheering.\n- This is a NARRATED bedtime story, not a conversation. Most of this act has no spoken lines at all: tell what characters say indirectly through narration. At most two short spoken lines in the whole act, saved for the single most important moment, each one short sentence. Never two spoken lines in a row.\n- Write entirely in past tense. Use only the characters, place, and facts given above — never invent family ties, clothing, hair color, or backstory.\n- Begin this act with a complete, freshly written narration sentence. Never continue, finish, or repeat a quotation or sentence from the previous act.\n- Characters almost never say each other's names out loud.\n- The whole story stays in the one location named in the contract. Never move the story to a new place — no shop, trip, or different room — unless the contract's goal names one.\n- The story goal from the contract is reached ONLY in the Kind Solution act, never earlier. Earlier acts move toward it in small steps; if the goal feels close, something small must still be missing.\n- End on a small hook the next act can pick up — a new detail, decision, or feeling — unless this is the cozy ending, which ends calm and complete.",
     "theaterActSystem": "You write one beat of a warm children's story theater script with a narrator and three speaking characters.\n{{STORY_RULES}}\nOutput only the requested act text. No title, heading, labels, bullet points, or explanations.",
@@ -106,14 +106,14 @@
         "key": "attemptChoice",
         "title": "Attempt, Obstacle, and Choice",
         "targetWords": 170,
-        "purpose": "The friends make one concrete first attempt toward the exact goal. The contract's exact obstacle directly prevents success. The friends notice and support without solving it. Glimsi makes the decisive choice described by the resolution, but she does not carry it out yet and the goal remains visibly unreached.",
+        "purpose": "The friends make one concrete first attempt toward the exact goal. Invent one small, specific obstacle that directly stops this attempt. The friends notice and support without solving it. Glimsi chooses one specific action that directly addresses the obstacle, but she does not carry it out yet. End immediately after her choice, with the goal visibly unreached.",
         "format": "Clear action and cause-and-effect narration, with Glimsi's feeling shown briefly through a physical detail. At most two short spoken lines."
       },
       {
         "key": "solutionEnding",
         "title": "Resolution and Cozy Ending",
         "targetWords": 210,
-        "purpose": "Glimsi now carries out the exact choice from the previous act. Show how that action directly removes the exact obstacle and visibly completes the goal. Then begin nothing new: stay in the quiet minute afterward, land on the contract's ending image, and close with one calm final sentence.",
+        "purpose": "Continue the exact obstacle and choice stated at the end of the previous act. Glimsi now carries out that choice herself. Show how it removes the obstacle and visibly completes the exact goal. Then begin nothing new: stay in the quiet minute afterward and close with one calm final sentence.",
         "format": "Concrete cause-and-effect followed by gently slowing narration. At most two short spoken lines during the solution; the ending is wordless narration."
       }
     ],
@@ -129,14 +129,14 @@
         "key": "attemptChoice",
         "title": "Attempt, Obstacle, and Choice",
         "targetWords": 150,
-        "purpose": "The three characters make one concrete first attempt toward the exact goal. The contract's exact obstacle directly stops success. The friends notice and support without solving it. Glimsi states the decisive choice described by the resolution, but does not perform it yet; the goal remains unreached.",
+        "purpose": "The three characters make one concrete first attempt toward the exact goal. Invent one small, specific obstacle that directly stops this attempt. The friends notice and support without solving it. Glimsi states one specific action that directly addresses the obstacle, but does not perform it yet. End immediately after her choice; the goal remains unreached.",
         "format": "Narration shows the try and setback. Each speaker contributes one distinct, useful line; Glimsi's final line states her choice."
       },
       {
         "key": "solutionEnding",
         "title": "Resolution and Cozy Ending",
         "targetWords": 190,
-        "purpose": "Glimsi performs the exact choice from the previous act. Narration clearly shows how it removes the exact obstacle and visibly completes the goal. Then nothing new begins: the characters share one brief reaction, the scene settles into the contract's ending image, and narration closes calmly.",
+        "purpose": "Continue the exact obstacle and choice stated at the end of the previous act. Glimsi now performs that choice herself. Narration clearly shows how it removes the obstacle and visibly completes the exact goal. Then nothing new begins: the characters share one brief reaction and narration closes calmly.",
         "format": "Narration carries the causal solution. Each speaker has at most two short lines, followed by a final quiet narration block."
       }
     ]
