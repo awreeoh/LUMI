@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "customPromptSafety": {
     "blockedWords": [
       "kill",
@@ -99,7 +99,7 @@
         "key": "opening",
         "title": "Setup and Wish",
         "targetWords": 130,
-        "purpose": "Establish one concrete everyday moment in the contract's location with Glimsi and both friends. Let one clear sign or opportunity connected to the exact goal appear. Glimsi becomes interested, but nobody attempts or achieves the goal. End with readiness to try, not success.",
+        "purpose": "Establish one concrete everyday moment in the contract's location with Glimsi and both friends. Let one indirect clue or opportunity connected to the exact goal appear. Glimsi becomes interested, but nobody attempts or achieves the goal. For a find, see, spot, or discover goal, do not show the goal object itself yet. End with readiness to try, not success.",
         "format": "Warm, economical scene-setting with specific sensory detail. Mostly narration and at most one short spoken line."
       },
       {
@@ -122,7 +122,7 @@
         "key": "opening",
         "title": "Setup and Wish",
         "targetWords": 120,
-        "purpose": "Narrator establishes one concrete everyday moment in the contract's location. One clear sign or opportunity connected to the exact goal appears. Glimsi and both friends may react, but nobody attempts or achieves the goal. End with readiness to try.",
+        "purpose": "Narrator establishes one concrete everyday moment in the contract's location. One indirect clue or opportunity connected to the exact goal appears. Glimsi and both friends may react, but nobody attempts or achieves the goal. For a find, see, spot, or discover goal, do not show the goal object itself yet. End with readiness to try.",
         "format": "Two or three short narration blocks separated by one meaningful line from each speaker. No cheering, praise loop, or rapid-fire dialogue."
       },
       {
