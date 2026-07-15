@@ -607,13 +607,13 @@
         {
           "emoji": "🛼",
           "title": "Learning to Roll",
-          "prompt": "A child who holds a friend's hand while learning to roll gently along the path",
+          "prompt": "A child puts on roller skates, holds a friend's hand, and learns to glide gently along the park path",
           "id": "park-learning-to-roll",
           "enabled": true,
           "story": {
             "theme": "curiosity, outdoor play, and gentle discovery",
             "location": "a friendly park",
-            "goal": "A child who holds a friend's hand while learning to roll gently along the path",
+            "goal": "A child puts on roller skates, holds a friend's hand, and learns to glide gently along the park path",
             "lesson": "curiosity and care make everyday adventures special",
             "mood": "warm, reassuring, and gently curious"
           }
@@ -794,13 +794,13 @@
         {
           "emoji": "🧶",
           "title": "By the Fire",
-          "prompt": "A child who learns to wind soft yarn beside a warm, crackling fireplace",
+          "prompt": "A child winds loose soft yarn into a neat ball beside a warm, crackling fireplace",
           "id": "family-by-the-fire",
           "enabled": true,
           "story": {
             "theme": "family warmth, helping, and feeling loved",
             "location": "a warm family home or nearby everyday place",
-            "goal": "A child who learns to wind soft yarn beside a warm, crackling fireplace",
+            "goal": "A child winds loose soft yarn into a neat ball beside a warm, crackling fireplace",
             "lesson": "love grows through helping, listening, and spending time together",
             "mood": "warm, reassuring, and gently curious"
           }

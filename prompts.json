@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "customPromptSafety": {
     "blockedWords": [
       "kill",
@@ -72,29 +72,9 @@
   },
   "storyPipeline": {
     "disabledSeedIDs": [],
-    "contractSystem": "You extract a few stable facts for a warm children's story.\n{{STORY_RULES}}\nReturn only the structured fields. Do not plan acts and do not write prose.",
-    "contractUser": "Extract compact story facts from this seed.\n\nSection: {{SECTION}}\nTitle: {{TITLE}}\nSeed idea: {{PROMPT}}\nOptional editorial hints:\n{{SEED_HINTS}}\nPrevious story recap for sequels:\n{{PREVIOUS_RECAP}}\nChild's chosen direction for sequel:\n{{CHOICE}}\n\nUse Glimsi as hero. Choose exactly two supporting names from Mia, Ella, Rosa, Ruby, Daisy, Lucy, Lily, Anna, Zoe, Emma, Ben, Sam, Leo, Jack, Max, Tom, Noah, Finn. Choose one concrete physical location from the seed, never theater, stage, scene, or a format label. State one short observable goal anchored to the seed's exact activity, object, animal, discovery, or physical feeling. Write the goal as Glimsi + physical action + exact target object or activity + visible result. Make it unambiguous what Glimsi acts on and what physically changes or becomes known. Example shape only: Glimsi gathers the loose crayons into the box until the table is clear. Never use a spatial phrase such as beside, near, or around as the only description of the result. Never use merely talk, chat, discuss, or have a conversation as the goal. Do not invent an obstacle, resolution, ending, or lesson. For a sequel, preserve the previous cast and place when they are clear, begin after the recap ending, and use the child's choice as the new goal.",
+    "eventPlanSystem": "You make one small, concrete event sequence for a warm children's story.\n{{STORY_RULES}}\nReturn only the guided fields. Events are dry physical facts, not prose, feelings, dialogue, themes, lessons, or explanations.",
+    "eventPlanUser": "Create nine chronological physical events from the literal seed.\n\nSection hint: {{SECTION}}\nTitle: {{TITLE}}\nLiteral seed — this is the source of truth:\n{{PROMPT}}\nEditorial hints:\n{{SEED_HINTS}}\nFixed cast — use only these people:\n{{CAST}}\nPrevious recap for a sequel:\n{{PREVIOUS_RECAP}}\nChild's sequel choice:\n{{CHOICE}}\n\nPreserve the seed's exact activity, equipment, objects, animals, and location. Never replace or reinterpret an essential noun. Choose one concrete location and one visible final result. Then produce exactly three opening events, three middle events, and three ending events. Every event is one new visible action or observation in chronological order. Name the acting character and concrete object where useful. Opening events establish the exact equipment or object and begin the activity. Middle events continue the same activity through different actions without completing it. Ending events complete the activity through Glimsi's own action, make the visible result true, and let the same scene become still. Supporting characters may assist but never take over Glimsi's final action. Do not repeat an event with different wording. Do not invent a new hobby, journey, location, forced obstacle, failed attempt, unsafe action, puddle drinking, lesson, memory, future promise, or abstract emotional summary.",
     "proseActSystem": "You write one passage of a warm read-aloud story for children aged 4–8.\n{{STORY_RULES}}\nWrite only natural past-tense story prose, with no title, heading, labels, or explanation. Narration carries the story. Dialogue appears occasionally when it feels natural.",
-    "proseActUser": "Write the next passage of the same story.\n\nStable story anchors:\n{{CONTRACT}}\n\nPrevious ending — read this as context only:\n{{PREVIOUS_ENDING}}\n\nDo not output, quote, paraphrase, summarize, or retell the previous ending. Begin with the next new action or observation.\n\nThis passage — {{ACT_TITLE}}:\n{{ACT_PURPOSE}}\n\nFeel:\n{{ACT_FORMAT}}\n\nWrite only as much as this passage naturally needs. Do not pad or extend it. Stop immediately when this passage's purpose has been reached.",
-    "proseActs": [
-      {
-        "key": "opening",
-        "title": "Beginning",
-        "purpose": "Begin in the contract location. In the first few sentences, show the exact object, animal, activity, discovery, or physical feeling named in the contract goal. Glimsi must approach, touch, hold, watch closely, notice in her body, or otherwise begin interacting with that exact central thing. Advance the contract goal through one visible action. Do not introduce another hobby, activity, memory, future plan, or general reflection. Do not complete the goal. End immediately after Glimsi has visibly begun the exact goal activity.",
-        "format": "Warm, vivid, unhurried prose with a little dialogue only where someone would naturally speak."
-      },
-      {
-        "key": "middle",
-        "title": "Middle",
-        "purpose": "Continue from the supplied ending with the next new action. Keep Glimsi physically engaged with the exact central object, animal, activity, or feeling from the contract goal. Show the existing activity progressing through two or three visible actions or observations. One small surprise, difficulty, or child-sized choice may arise only from the activity already happening; it is optional. Do not introduce a different hobby, craft, game, journey, memory, or future plan. Do not restart or re-describe the location. Do not repeat an action, feeling, or observation from the previous ending. End with the contract goal clearly close to completion, but not yet finished.",
-        "format": "Natural read-aloud prose led by narration, with sensory detail, feeling, and occasional short dialogue."
-      },
-      {
-        "key": "ending",
-        "title": "Ending",
-        "purpose": "Continue with the next new action. Complete the exact contract goal through Glimsi's own visible action. The visible result or answered question named in the goal must now be clear. Do not change the meaning of the goal or apply the goal action to a different object. Introduce no new person, activity, object of focus, problem, memory, or future plan. After the goal is complete, use only a few gentle sentences to let the moment become quiet. End with one concrete calm sensory image in the same location.",
-        "format": "Warm concluding prose that resolves the current moment and gradually becomes quiet."
-      }
-    ]
+    "proseActUser": "Turn exactly these three planned events into one warm prose passage.\n\nStable story anchors:\n{{STORY_ANCHORS}}\n\nPrevious ending — context only:\n{{PREVIOUS_ENDING}}\n\nDo not output, quote, paraphrase, summarize, or retell the previous ending.\n\nPassage: {{PASSAGE_TITLE}}\nPlanned events, in required order:\n{{EVENTS}}\n\nNarrate all three events once and in order. Do not add another event, activity, object of focus, problem, location, memory, lesson, or future plan. You may add sensory detail, sentence rhythm, small gestures, and up to two short spoken lines. Attribute every spoken line with an explicit character name beside said, asked, or replied; never use a pronoun-only attribution. Write only as much as these events naturally need. Stop immediately after the third event."
   }
 }
