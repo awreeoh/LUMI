@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "customPromptSafety": {
     "blockedWords": [
       "kill",
@@ -78,8 +78,8 @@
     "disabledSeedIDs": [],
     "contractSystem": "You extract a few stable facts for a warm children's story.\n{{STORY_RULES}}\nReturn only the structured fields. Do not plan acts and do not write prose.",
     "contractUser": "Extract compact story facts from this seed.\n\nSection: {{SECTION}}\nTitle: {{TITLE}}\nSeed idea: {{PROMPT}}\nOptional editorial hints:\n{{SEED_HINTS}}\nPrevious story recap for sequels:\n{{PREVIOUS_RECAP}}\nChild's chosen direction for sequel:\n{{CHOICE}}\n\nUse Glimsi as hero. Choose exactly two supporting names from Mia, Ella, Rosa, Ruby, Daisy, Lucy, Lily, Anna, Zoe, Emma, Ben, Sam, Leo, Jack, Max, Tom, Noah, Finn. Choose one concrete physical location from the seed, never theater, stage, scene, or a format label. State one short observable goal anchored to the seed's exact activity, object, animal, or discovery. The goal must produce a visible result or answered question; never use merely talk, chat, discuss, or have a conversation as the goal. Do not invent an obstacle, resolution, ending, or lesson; the app builds those through the actual three acts. For a sequel, preserve the previous cast and place when they are clear, begin after the recap ending, and use the child's choice as the new goal.",
-    "proseActSystem": "You write one bounded beat of a warm read-aloud children's story.\n{{STORY_RULES}}\nFill every guided prose field with only the requested act. No title, heading, labels, bullet points, or explanations.",
-    "proseActUser": "Continue the same story with its next act.\n\nStory contract:\n{{CONTRACT}}\n\nBeats already told — these already happened, never retell or re-describe any of them:\n{{SUMMARY_SO_FAR}}\n\nEnd of the previous act — the story continues from exactly this point:\n{{PREVIOUS_ACT}}\n\nAct: {{ACT_TITLE}}\nWhat must happen in this act: {{ACT_PURPOSE}}\nNarration style: {{ACT_FORMAT}}\nLength: about {{TARGET_WORDS}} words.\n\nRules for this act:\n- Write plain prose only.\n- Advance the story one clear step: something new must happen that changes the situation. Every paragraph adds a new action, discovery, feeling, or decision.\n- Pick up exactly where the previous act stopped. Do not re-open the scene, re-introduce characters, or describe the setting again.\n- Never reuse a sentence or phrase that already appears in the story so far.\n- Never write chains of tiny sentences like \"Mia smiled. Glimsi smiled. Mia laughed.\" — once someone smiles or nods, the next sentence must bring a new action or new information.\n- Show small child-like actions — pointing, giggling, whispering, leaning closer, patting a spot — instead of repeated smiling, nodding, and cheering.\n- This is a NARRATED bedtime story, not a conversation. Most of this act has no spoken lines at all: tell what characters say indirectly through narration. At most two short spoken lines in the whole act, saved for the single most important moment, each one short sentence. Never two spoken lines in a row.\n- Write entirely in past tense. Use only the characters, place, and facts given above — never invent family ties, clothing, hair color, or backstory.\n- Begin this act with a complete, freshly written narration sentence. Never continue, finish, or repeat a quotation or sentence from the previous act.\n- Characters almost never say each other's names out loud.\n- The whole story stays in the one location named in the contract. Never move the story to a new place — no shop, trip, or different room — unless the contract's goal names one.\n- The story goal from the contract is reached ONLY in the Kind Solution act, never earlier. Earlier acts move toward it in small steps; if the goal feels close, something small must still be missing.\n- End on a small hook the next act can pick up — a new detail, decision, or feeling — unless this is the cozy ending, which ends calm and complete.",
+    "proseActSystem": "You write one passage of a warm read-aloud story for children aged 4–8.\n{{STORY_RULES}}\nWrite only natural past-tense story prose, with no title, heading, labels, or explanation. Narration carries the story. Dialogue appears occasionally when it feels natural.",
+    "proseActUser": "Write the next passage of the same story.\n\nStable story anchors:\n{{CONTRACT}}\n\nImmediately previous passage:\n{{PREVIOUS_ACT}}\n\nThis passage — {{ACT_TITLE}}:\n{{ACT_PURPOSE}}\n\nFeel:\n{{ACT_FORMAT}}\n\nAim for about {{TARGET_WORDS}} words and never exceed 250 words. Continue directly from the previous passage. Let the story move naturally without restarting the scene. Stop when this passage's purpose has been reached.",
     "theaterActSystem": "You write one bounded beat of a warm children's story theater script with a narrator and three speaking characters.\n{{STORY_RULES}}\nFill every guided field. Narration fields contain narration only. Spoken fields contain speech only, without speaker names, labels, brackets, colons, or quotation marks. The app renders the script format.",
     "theaterActUser": "Continue the same Story Theater script with its next act.\n\nStory contract:\n{{CONTRACT}}\n\nBeats already told — these already happened, never retell or re-describe any of them:\n{{SUMMARY_SO_FAR}}\n\nCompleted previous act — use all of it for continuity, but never copy or retell it:\n{{PREVIOUS_ACT}}\n\nAct: {{ACT_TITLE}}\nWhat must happen in this act: {{ACT_PURPOSE}}\nFormat rhythm: {{ACT_FORMAT}}\nLength: about {{TARGET_WORDS}} words.\n\nFill the guided narration and spoken fields. Spoken field values contain only what the character says: no speaker name, tag, colon, or quotation marks. Advance the story one clear step and continue directly without reopening the scene. Never reuse a line or phrase from the completed act. Use only the named cast and place. The goal is reached only in the final act; conversation and useful clues may happen in every act. Do not perform an action that this act says is merely chosen. End on the required complete hook, except the final act, which closes quietly.",
     "fullStorySystem": "You are a gifted writer of warm, natural read-aloud stories for young children.\n{{STORY_RULES}}\nWrite one continuous literary story, not a plan, form, script, lesson, or explanation. Preserve the contract's cast, location, emotional center, and observable goal. Favor vivid sensory detail, small physical gestures, and natural sentence rhythm.",
@@ -103,24 +103,24 @@
     "proseActs": [
       {
         "key": "opening",
-        "title": "Setup and Wish",
-        "targetWords": 130,
-        "purpose": "Establish one concrete everyday moment in the contract's location with Glimsi and both friends. Let one indirect clue or opportunity connected to the exact goal appear. Glimsi becomes interested, but nobody attempts or achieves the goal. For a find, see, spot, or discover goal, do not show the goal object itself yet. End with readiness to try, not success.",
-        "format": "Warm, economical scene-setting with specific sensory detail. Mostly narration and at most one short spoken line."
+        "title": "Beginning",
+        "targetWords": 210,
+        "purpose": "Begin in the contract's place and let Glimsi notice and respond to the central activity. Let her become naturally involved. End when the activity has started to move forward.",
+        "format": "Warm, vivid, unhurried prose with a little dialogue only where someone would naturally speak."
       },
       {
         "key": "attemptChoice",
-        "title": "Attempt, Obstacle, and Choice",
-        "targetWords": 170,
-        "purpose": "The friends make one concrete first attempt toward the exact goal. Invent one small, specific obstacle that directly stops this attempt. The friends notice and support without solving it. Glimsi chooses one specific action that directly addresses the obstacle, but she does not carry it out yet. End immediately after her choice, with the goal visibly unreached.",
-        "format": "Clear action and cause-and-effect narration, with Glimsi's feeling shown briefly through a physical detail. At most two short spoken lines."
+        "title": "Middle",
+        "targetWords": 230,
+        "purpose": "Continue directly as Glimsi experiences the central activity. Let something new happen and give her one natural child-sized response or choice. Develop the shared moment, but leave room for the final passage to complete and settle it.",
+        "format": "Natural read-aloud prose led by narration, with sensory detail, feeling, and occasional short dialogue."
       },
       {
         "key": "solutionEnding",
-        "title": "Resolution and Cozy Ending",
-        "targetWords": 210,
-        "purpose": "Continue the exact obstacle and choice stated at the end of the previous act. Glimsi now carries out that choice herself. Show how it removes the obstacle and visibly completes the exact goal. Then begin nothing new: stay in the quiet minute afterward and close with one calm final sentence.",
-        "format": "Concrete cause-and-effect followed by gently slowing narration. At most two short spoken lines during the solution; the ending is wordless narration."
+        "title": "Ending",
+        "targetWords": 220,
+        "purpose": "Continue directly and bring the central activity to a clear, satisfying completion. Begin nothing new. Let the pace slow and finish with one calm image in the same place.",
+        "format": "Warm concluding prose that resolves the current moment and gradually becomes quiet."
       }
     ],
     "theaterActs": [
