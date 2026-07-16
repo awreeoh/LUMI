@@ -4,17 +4,17 @@
     {
       "icon": "sun.max.fill",
       "title": "Tonight's story becomes tomorrow's quiz",
-      "message": "Finish a story at night, then answer two little memory questions the next morning."
+      "message": "Finished stories become one gentle quiz of up to five questions the next morning."
     },
     {
       "icon": "moon.stars.fill",
       "title": "Morning ritual",
-      "message": "The quiz card appears the next day, waits for one answer session, then returns to tips."
+      "message": "The quiz replaces this tip card and remembers each answer until all questions are finished."
     },
     {
       "icon": "checkmark.circle.fill",
       "title": "Quiz bonus",
-      "message": "A perfect morning quiz adds a sparkle bonus to the sticker from that story."
+      "message": "A perfect mixed morning quiz adds sparkle to every represented story sticker."
     },
     {
       "icon": "dice.fill",
@@ -69,7 +69,7 @@
     {
       "icon": "sparkles",
       "title": "Sticker sparkle",
-      "message": "Answer every morning question correctly to add a sparkle bonus to that story's sticker."
+      "message": "Answer every morning question correctly to add sparkle to all represented story stickers."
     },
     {
       "icon": "diamond.fill",
