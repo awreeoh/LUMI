@@ -1,25 +1,25 @@
 {
-  "version": 1,
+  "version": 2,
   "tips": [
     {
       "icon": "sun.max.fill",
       "title": "Tonight's story becomes tomorrow's quiz",
-      "message": "Finished stories become one gentle quiz of up to five questions the next morning."
+      "message": "Finished stories become one quiz of up to five questions the next morning."
     },
     {
       "icon": "moon.stars.fill",
       "title": "Morning ritual",
-      "message": "The quiz replaces this tip card and remembers each answer until all questions are finished."
+      "message": "The quiz replaces this tip card and remembers each answer until every question is finished."
     },
     {
       "icon": "checkmark.circle.fill",
       "title": "Quiz bonus",
-      "message": "A perfect mixed morning quiz adds sparkle to every represented story sticker."
+      "message": "A perfect morning quiz adds sparkle to every sticker from the stories it covered."
     },
     {
       "icon": "dice.fill",
       "title": "Surprise",
-      "message": "Roll a hero, place, and magic object when you want a story without planning."
+      "message": "Roll a hero, a place, and a magic object when you want a story without planning."
     },
     {
       "icon": "arrow.triangle.2.circlepath",
@@ -29,7 +29,7 @@
     {
       "icon": "wand.and.stars",
       "title": "Custom",
-      "message": "Type a gentle story idea when the ready-made worlds are not enough."
+      "message": "Type your own story idea when the ready-made worlds are not enough."
     },
     {
       "icon": "calendar.badge.clock",
@@ -39,17 +39,17 @@
     {
       "icon": "figure.walk.motion",
       "title": "Practice tomorrow",
-      "message": "Plan stories help rehearse new routines gently before they happen in real life."
+      "message": "Plan stories help rehearse new routines before they happen in real life."
     },
     {
       "icon": "square.grid.2x2.fill",
       "title": "Story worlds",
-      "message": "Each world has curated story seeds with its own mood, artwork, and narrator choice."
+      "message": "Each world has its own curated seeds, mood, artwork, and narrator voice."
     },
     {
       "icon": "list.bullet.rectangle.fill",
       "title": "Story seeds",
-      "message": "Each row in a story world is a seed; finishing all seeds in that world earns a diamond."
+      "message": "Each row in a story world is a seed: a ready-made story waiting to be played."
     },
     {
       "icon": "flame.fill",
@@ -64,12 +64,7 @@
     {
       "icon": "sparkles",
       "title": "Rare stickers",
-      "message": "When your listening streak is three days or more, new story stickers become rare."
-    },
-    {
-      "icon": "sparkles",
-      "title": "Sticker sparkle",
-      "message": "Answer every morning question correctly to add sparkle to all represented story stickers."
+      "message": "When your listening streak reaches three days, new story stickers become rare."
     },
     {
       "icon": "diamond.fill",
@@ -77,14 +72,9 @@
       "message": "Collect every seed in a story world during the week to earn that world's diamond."
     },
     {
-      "icon": "star.circle.fill",
-      "title": "Sticker album",
-      "message": "Every finished story earns a sticker. Collect all stories in a world for its diamond."
-    },
-    {
-      "icon": "books.vertical.fill",
-      "title": "Books",
-      "message": "Tap the heart during playback to save a story, then replay it later from Books."
+      "icon": "heart.fill",
+      "title": "Keep favorites",
+      "message": "Tap the heart while listening to save a story, then replay it anytime from Books."
     },
     {
       "icon": "chart.bar.fill",
@@ -99,12 +89,12 @@
     {
       "icon": "person.wave.2.fill",
       "title": "Narrator voices",
-      "message": "Setup lets you choose a different narrator for each story world."
+      "message": "Setup lets you choose a narrator voice for each story world."
     },
     {
       "icon": "eye.slash.fill",
       "title": "Hide voices",
-      "message": "Tap the eye-slash beside a narrator voice if it is not a good fit for your family."
+      "message": "Tap the eye-slash beside a voice to hide it if it is not a good fit for your family."
     },
     {
       "icon": "waveform",
@@ -114,17 +104,12 @@
     {
       "icon": "mic.circle.fill",
       "title": "Cloned voices",
-      "message": "Record a short clear sample, then assign that voice to any story world in Setup."
+      "message": "Record a short, clear sample, then assign that voice to any story world in Setup."
     },
     {
       "icon": "arrow.down.circle.fill",
       "title": "Cloning model",
-      "message": "Voice cloning needs one larger download; normal narrator voices work without it."
-    },
-    {
-      "icon": "heart.fill",
-      "title": "Keep favorites",
-      "message": "Use the heart while listening to keep a story in Books for later replay."
+      "message": "Voice cloning needs one larger download; the standard narrator voices work without it."
     }
   ]
 }
