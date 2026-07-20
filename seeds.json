@@ -1276,235 +1276,6 @@
         ],
         "image": "bg_tomorrow"
       }
-    },
-    {
-      "key": "halloween",
-      "title": "Pumpkin Nights",
-      "icon": "🎃",
-      "theme": {
-        "colors": [
-          "#4D2365",
-          "#924267",
-          "#E8742C"
-        ],
-        "accent": [
-          "#8E44EC",
-          "#FF9F1C"
-        ],
-        "image": "bg_halloween"
-      },
-      "seeds": [
-        {
-          "emoji": "🎃",
-          "title": "Pumpkin Patch",
-          "prompt": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together",
-          "id": "halloween-pumpkin-patch",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "👗",
-          "title": "Costume Day",
-          "prompt": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears",
-          "id": "halloween-costume-day",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🍬",
-          "title": "Sweet Sharing",
-          "prompt": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother",
-          "id": "halloween-sweet-sharing",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🕯️",
-          "title": "Leaf Lanterns",
-          "prompt": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors",
-          "id": "halloween-leaf-lanterns",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "👻",
-          "title": "Shy Little Ghost",
-          "prompt": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies",
-          "id": "halloween-shy-little-ghost",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🧁",
-          "title": "Pumpkin Muffins",
-          "prompt": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn",
-          "id": "halloween-pumpkin-muffins",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🐈‍⬛",
-          "title": "Black Cat Friend",
-          "prompt": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
-          "id": "halloween-black-cat-friend",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🍎",
-          "title": "Apple Bobbing",
-          "prompt": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple",
-          "id": "halloween-apple-bobbing",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🌕",
-          "title": "Orange Moon Walk",
-          "prompt": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites",
-          "id": "halloween-orange-moon-walk",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🕷️",
-          "title": "Spider's Lace",
-          "prompt": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew",
-          "id": "halloween-spider-s-lace",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🏮",
-          "title": "Trick-or-Treat Buddy",
-          "prompt": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street",
-          "id": "halloween-trick-or-treat-buddy",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🎭",
-          "title": "Silly Spooky Party",
-          "prompt": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet",
-          "id": "halloween-silly-spooky-party",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🧣",
-          "title": "Scarecrow's Scarf",
-          "prompt": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village",
-          "id": "halloween-scarecrow-s-scarf",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🍂",
-          "title": "Crunchy Leaf Trail",
-          "prompt": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure",
-          "id": "halloween-crunchy-leaf-trail",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        },
-        {
-          "emoji": "🏰",
-          "title": "Cobweb Castle",
-          "prompt": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast",
-          "id": "halloween-cobweb-castle",
-          "enabled": true,
-          "story": {
-            "theme": "gentle seasonal wonder without scares",
-            "location": "a cozy autumn neighborhood",
-            "goal": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast",
-            "lesson": "seasonal surprises can stay friendly, funny, and safe",
-            "mood": "autumn-cozy and friendly, never scary"
-          }
-        }
-      ]
     }
   ],
   "sectionsInactive": [
@@ -2445,7 +2216,236 @@
           "emoji": "🚲",
           "title": "Sunset Bike Ride",
           "prompt": "A child rides bikes with papa in the golden evening light, past sleepy gardens that smell like flowers and dinner"
+        },
+        {
+      "key": "halloween",
+      "title": "Pumpkin Nights",
+      "icon": "🎃",
+      "theme": {
+        "colors": [
+          "#4D2365",
+          "#924267",
+          "#E8742C"
+        ],
+        "accent": [
+          "#8E44EC",
+          "#FF9F1C"
+        ],
+        "image": "bg_halloween"
+      },
+      "seeds": [
+        {
+          "emoji": "🎃",
+          "title": "Pumpkin Patch",
+          "prompt": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together",
+          "id": "halloween-pumpkin-patch",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "👗",
+          "title": "Costume Day",
+          "prompt": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears",
+          "id": "halloween-costume-day",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🍬",
+          "title": "Sweet Sharing",
+          "prompt": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother",
+          "id": "halloween-sweet-sharing",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🕯️",
+          "title": "Leaf Lanterns",
+          "prompt": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors",
+          "id": "halloween-leaf-lanterns",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "👻",
+          "title": "Shy Little Ghost",
+          "prompt": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies",
+          "id": "halloween-shy-little-ghost",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🧁",
+          "title": "Pumpkin Muffins",
+          "prompt": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn",
+          "id": "halloween-pumpkin-muffins",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🐈‍⬛",
+          "title": "Black Cat Friend",
+          "prompt": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
+          "id": "halloween-black-cat-friend",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🍎",
+          "title": "Apple Bobbing",
+          "prompt": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple",
+          "id": "halloween-apple-bobbing",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🌕",
+          "title": "Orange Moon Walk",
+          "prompt": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites",
+          "id": "halloween-orange-moon-walk",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🕷️",
+          "title": "Spider's Lace",
+          "prompt": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew",
+          "id": "halloween-spider-s-lace",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🏮",
+          "title": "Trick-or-Treat Buddy",
+          "prompt": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street",
+          "id": "halloween-trick-or-treat-buddy",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🎭",
+          "title": "Silly Spooky Party",
+          "prompt": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet",
+          "id": "halloween-silly-spooky-party",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🧣",
+          "title": "Scarecrow's Scarf",
+          "prompt": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village",
+          "id": "halloween-scarecrow-s-scarf",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🍂",
+          "title": "Crunchy Leaf Trail",
+          "prompt": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure",
+          "id": "halloween-crunchy-leaf-trail",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
+        },
+        {
+          "emoji": "🏰",
+          "title": "Cobweb Castle",
+          "prompt": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast",
+          "id": "halloween-cobweb-castle",
+          "enabled": true,
+          "story": {
+            "theme": "gentle seasonal wonder without scares",
+            "location": "a cozy autumn neighborhood",
+            "goal": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast",
+            "lesson": "seasonal surprises can stay friendly, funny, and safe",
+            "mood": "autumn-cozy and friendly, never scary"
+          }
         }
+      ]
+    }
       ]
     }
   ]
