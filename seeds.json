@@ -2216,8 +2216,10 @@
           "emoji": "🚲",
           "title": "Sunset Bike Ride",
           "prompt": "A child rides bikes with papa in the golden evening light, past sleepy gardens that smell like flowers and dinner"
-        },
-        {
+        }
+      ]
+    },
+    {
       "key": "halloween",
       "title": "Pumpkin Nights",
       "icon": "🎃",
@@ -2444,8 +2446,6 @@
             "mood": "autumn-cozy and friendly, never scary"
           }
         }
-      ]
-    }
       ]
     }
   ]
