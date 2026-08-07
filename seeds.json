@@ -1262,6 +1262,20 @@
             "lesson": "tomorrow feels easier when Glimsi practices it gently today",
             "mood": "warm, reassuring, and gently curious"
           }
+        },
+        {
+          "emoji": "🏊",
+          "title": "Swimming Lesson",
+          "prompt": "a brave story where a little hero feels nervous stepping into the pool for a first swimming lesson, but with a friendly instructor's help learns to float, kick, and giggle with new confidence",
+          "id": "tomorrow-swimming-lesson",
+          "enabled": true,
+          "story": {
+            "theme": "preparing calmly for tomorrow",
+            "location": "a familiar place connected to tomorrow",
+            "goal": "a brave story where a little hero feels nervous stepping into the pool for a first swimming lesson, but with a friendly instructor's help learns to float, kick, and giggle with new confidence",
+            "lesson": "tomorrow feels easier when Glimsi practices it gently today",
+            "mood": "warm, reassuring, and gently curious"
+          }
         }
       ],
       "theme": {
