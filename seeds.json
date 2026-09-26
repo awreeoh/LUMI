@@ -1147,6 +1147,235 @@
       }
     },
     {
+      "key": "explorer",
+      "title": "Curious Explorer",
+      "icon": "🔭",
+      "theme": {
+        "colors": [
+          "#8DBCE6",
+          "#F3DDB0",
+          "#8C7A4E"
+        ],
+        "accent": [
+          "#8DBCE6",
+          "#E9B872"
+        ],
+        "image": "bg_explorer"
+      },
+      "seeds": [
+        {
+          "emoji": "🌈",
+          "title": "Where Rainbows Hide",
+          "prompt": "A child who follows the sunshine through a garden sprinkler and discovers how light makes a rainbow",
+          "id": "explorer-where-rainbows-hide",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a sunny backyard garden",
+            "goal": "A child who follows the sunshine through a garden sprinkler and discovers how light makes a rainbow",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🌧️",
+          "title": "The Journey of a Raindrop",
+          "prompt": "A child who imagines riding along with a raindrop from a cloud to a puddle and back up into the sky",
+          "id": "explorer-the-journey-of-a-raindrop",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a rainy windowsill and the puddles outside",
+            "goal": "A child who imagines riding along with a raindrop from a cloud to a puddle and back up into the sky",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🌱",
+          "title": "The Seed That Woke Up",
+          "prompt": "A child who plants a bean in a cup and watches, day by day, as it grows roots, a stem, and leaves",
+          "id": "explorer-the-seed-that-woke-up",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a sunny kitchen windowsill",
+            "goal": "A child who plants a bean in a cup and watches, day by day, as it grows roots, a stem, and leaves",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🌙",
+          "title": "Why the Moon Changes",
+          "prompt": "A child who notices the moon looks different every night and discovers why it seems to grow and shrink",
+          "id": "explorer-why-the-moon-changes",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a cozy balcony under the night sky",
+            "goal": "A child who notices the moon looks different every night and discovers why it seems to grow and shrink",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🐛",
+          "title": "Caterpillar to Butterfly",
+          "prompt": "A child who watches a hungry caterpillar build a chrysalis and waits patiently for a butterfly to appear",
+          "id": "explorer-caterpillar-to-butterfly",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a flower garden",
+            "goal": "A child who watches a hungry caterpillar build a chrysalis and waits patiently for a butterfly to appear",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🧲",
+          "title": "The Magic of Magnets",
+          "prompt": "A child who explores which things a magnet can pick up and which ones it cannot",
+          "id": "explorer-the-magic-of-magnets",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a playroom full of everyday objects",
+            "goal": "A child who explores which things a magnet can pick up and which ones it cannot",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🔦",
+          "title": "Shadow Friends",
+          "prompt": "A child who plays with a flashlight and learns why shadows grow big, shrink small, and change shape",
+          "id": "explorer-shadow-friends",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a softly darkened bedroom",
+            "goal": "A child who plays with a flashlight and learns why shadows grow big, shrink small, and change shape",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🐜",
+          "title": "The Ant Parade",
+          "prompt": "A child who follows a line of busy ants and discovers how they work together and share their food",
+          "id": "explorer-the-ant-parade",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a sunny garden path",
+            "goal": "A child who follows a line of busy ants and discovers how they work together and share their food",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🔭",
+          "title": "Counting the Stars",
+          "prompt": "A child who looks through a telescope with a grown-up and learns that stars are faraway suns",
+          "id": "explorer-counting-the-stars",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a quiet hilltop at dusk",
+            "goal": "A child who looks through a telescope with a grown-up and learns that stars are faraway suns",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🧊",
+          "title": "The Melting Ice Cube",
+          "prompt": "A child who wonders where an ice cube goes on a warm day and discovers how water changes shape",
+          "id": "explorer-the-melting-ice-cube",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a kitchen on a warm afternoon",
+            "goal": "A child who wonders where an ice cube goes on a warm day and discovers how water changes shape",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🦕",
+          "title": "Dinosaur Footprints",
+          "prompt": "A child who finds a fossil at the museum and imagines the gentle giants that lived long, long ago",
+          "id": "explorer-dinosaur-footprints",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a natural history museum",
+            "goal": "A child who finds a fossil at the museum and imagines the gentle giants that lived long, long ago",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🌋",
+          "title": "The Fizzy Volcano",
+          "prompt": "A child who builds a baking soda volcano with a grown-up and finds out why it bubbles and fizzes",
+          "id": "explorer-the-fizzy-volcano",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a kitchen table covered in newspaper",
+            "goal": "A child who builds a baking soda volcano with a grown-up and finds out why it bubbles and fizzes",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🐚",
+          "title": "Secrets of the Tide Pool",
+          "prompt": "A child who explores a tide pool at the beach and meets crabs, starfish, and tiny snails",
+          "id": "explorer-secrets-of-the-tide-pool",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a rocky seashore at low tide",
+            "goal": "A child who explores a tide pool at the beach and meets crabs, starfish, and tiny snails",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🌬️",
+          "title": "Where the Wind Goes",
+          "prompt": "A child who makes a pinwheel and discovers what wind is and where it likes to blow",
+          "id": "explorer-where-the-wind-goes",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a breezy hilltop",
+            "goal": "A child who makes a pinwheel and discovers what wind is and where it likes to blow",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        },
+        {
+          "emoji": "🐝",
+          "title": "The Busy Bee",
+          "prompt": "A child who watches bees visit flowers and learns how they help fruits and flowers grow",
+          "id": "explorer-the-busy-bee",
+          "enabled": true,
+          "story": {
+            "theme": "curiosity and gentle wonder about how the world works",
+            "location": "a blooming meadow",
+            "goal": "A child who watches bees visit flowers and learns how they help fruits and flowers grow",
+            "lesson": "asking questions and looking closely help Glimsi understand the world",
+            "mood": "warm, curious, and full of wonder"
+          }
+        }
+      ]
+    },
+    {
       "key": "tomorrow",
       "title": "Story for Tomorrow",
       "icon": "🗓️",
