@@ -1021,7 +1021,7 @@
           }
         },
         {
-          "emoji": "🛏️",
+          "emoji": "🧸",
           "title": "My Big Kid Bed",
           "prompt": "A child who moves from their cot to their very first big-kid bed and feels proud but also a tiny bit wobbly about the change",
           "id": "bedtime-my-big-kid-bed",
@@ -1119,7 +1119,7 @@
           }
         },
         {
-          "emoji": "🐾",
+          "emoji": "🐶",
           "title": "The Dog on the Bed",
           "prompt": "A child who quietly lets the family dog sneak onto the bed for company at night and wonders if mum and dad will notice in the morning",
           "id": "bedtime-the-dog-on-the-bed",
@@ -2402,7 +2402,7 @@
           "prompt": "A child presses colorful leaves onto paper to print a forest of reds and golds for the fridge gallery"
         },
         {
-          "emoji": "🛏️",
+          "emoji": "⛺",
           "title": "Blanket Fort Evening",
           "prompt": "On the first chilly night a child builds a blanket fort and reads picture books inside with a flashlight"
         },
@@ -2483,7 +2483,7 @@
           "prompt": "On the clearest cold night a child and papa bundle up to count the bright winter stars and find the sparkliest one"
         },
         {
-          "emoji": "🐾",
+          "emoji": "❄️",
           "title": "Footprints in the Snow",
           "prompt": "A child follows mysterious little footprints through the garden and discovers a rabbit's cozy hiding spot"
         },
@@ -2825,7 +2825,7 @@
           }
         },
         {
-          "emoji": "🐈‍⬛",
+          "emoji": "🐱",
           "title": "Black Cat Friend",
           "prompt": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
           "id": "halloween-black-cat-friend",
