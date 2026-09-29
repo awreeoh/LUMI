@@ -4,112 +4,156 @@
     {
       "icon": "sun.max.fill",
       "title": "Tonight's story becomes tomorrow's quiz",
-      "message": "Finished stories become one quiz of up to five questions the next morning."
+      "message": "Finished stories become one quiz of up to five questions the next morning.",
+      "titleRo": "Povestea de diseară, testul de mâine",
+      "messageRo": "Poveștile terminate devin dimineața un test de până la cinci întrebări."
     },
     {
       "icon": "moon.stars.fill",
       "title": "Morning ritual",
-      "message": "The quiz replaces this tip card and remembers each answer until every question is finished."
+      "message": "The quiz replaces this tip card and remembers each answer until every question is finished.",
+      "titleRo": "Ritualul de dimineață",
+      "messageRo": "Testul ia locul acestui sfat și ține minte fiecare răspuns până termini toate întrebările."
     },
     {
       "icon": "checkmark.circle.fill",
       "title": "Quiz bonus",
-      "message": "A perfect morning quiz adds sparkle to every sticker from the stories it covered."
+      "message": "A perfect morning quiz adds sparkle to every sticker from the stories it covered.",
+      "titleRo": "Bonus la test",
+      "messageRo": "Un test de dimineață perfect face să sclipească abțibildurile din poveștile lui."
     },
     {
       "icon": "dice.fill",
       "title": "Surprise",
-      "message": "Roll a hero, a place, and a magic object when you want a story without planning."
+      "message": "Roll a hero, a place, and a magic object when you want a story without planning.",
+      "titleRo": "Surpriză",
+      "messageRo": "Aruncă un erou, un loc și un obiect magic când vrei o poveste fără planuri."
     },
     {
       "icon": "arrow.triangle.2.circlepath",
       "title": "Roll again",
-      "message": "On Surprise, roll again until the cards feel right, then start the story."
+      "message": "On Surprise, roll again until the cards feel right, then start the story.",
+      "titleRo": "Aruncă din nou",
+      "messageRo": "La Surpriză, aruncă din nou până îți plac cărțile, apoi pornește povestea."
     },
     {
       "icon": "wand.and.stars",
       "title": "Custom",
-      "message": "Type your own story idea when the ready-made worlds are not enough."
+      "message": "Type your own story idea when the ready-made worlds are not enough.",
+      "titleRo": "Ideea ta",
+      "messageRo": "Scrie propria idee de poveste când lumile gata făcute nu sunt de ajuns."
     },
     {
       "icon": "calendar.badge.clock",
       "title": "Plan",
-      "message": "Use Plan for stories about something coming soon, like school, trips, or routine changes."
+      "message": "Use Plan for stories about something coming soon, like school, trips, or routine changes.",
+      "titleRo": "Plan",
+      "messageRo": "Folosește Plan pentru povești despre ceva ce urmează: școala, o călătorie, o schimbare de program."
     },
     {
       "icon": "figure.walk.motion",
       "title": "Practice tomorrow",
-      "message": "Plan stories help rehearse new routines before they happen in real life."
+      "message": "Plan stories help rehearse new routines before they happen in real life.",
+      "titleRo": "Exersăm ziua de mâine",
+      "messageRo": "Poveștile din Plan ajută la repetarea obiceiurilor noi înainte să se întâmple."
     },
     {
       "icon": "square.grid.2x2.fill",
       "title": "Story worlds",
-      "message": "Each world has its own curated seeds, mood, artwork, and narrator voice."
+      "message": "Each world has its own curated seeds, mood, artwork, and narrator voice.",
+      "titleRo": "Lumi de povești",
+      "messageRo": "Fiecare lume are poveștile ei alese, starea ei, ilustrațiile ei și vocea ei."
     },
     {
       "icon": "list.bullet.rectangle.fill",
       "title": "Story seeds",
-      "message": "Each row in a story world is a seed: a ready-made story waiting to be played."
+      "message": "Each row in a story world is a seed: a ready-made story waiting to be played.",
+      "titleRo": "Povești gata de ascultat",
+      "messageRo": "Fiecare carte dintr-o lume e o poveste gata pregătită, care te așteaptă."
     },
     {
       "icon": "flame.fill",
       "title": "Listening streak",
-      "message": "One completed story per day keeps the streak going. Three days unlock rare stickers."
+      "message": "One completed story per day keeps the streak going. Three days unlock rare stickers.",
+      "titleRo": "Seria de povești",
+      "messageRo": "O poveste terminată pe zi ține seria. Trei zile deblochează abțibilduri rare."
     },
     {
       "icon": "star.fill",
       "title": "Stickers",
-      "message": "Every finished story earns a sticker in the weekly sticker album."
+      "message": "Every finished story earns a sticker in the weekly sticker album.",
+      "titleRo": "Abțibilduri",
+      "messageRo": "Fiecare poveste terminată aduce un abțibild în albumul săptămânii."
     },
     {
       "icon": "sparkles",
       "title": "Rare stickers",
-      "message": "When your listening streak reaches three days, new story stickers become rare."
+      "message": "When your listening streak reaches three days, new story stickers become rare.",
+      "titleRo": "Abțibilduri rare",
+      "messageRo": "După trei zile la rând cu povești, abțibildurile noi devin rare."
     },
     {
       "icon": "diamond.fill",
       "title": "Diamond stickers",
-      "message": "Collect every seed in a story world during the week to earn that world's diamond."
+      "message": "Collect every seed in a story world during the week to earn that world's diamond.",
+      "titleRo": "Abțibilduri diamant",
+      "messageRo": "Adună toate poveștile unei lumi într-o săptămână și câștigi diamantul ei."
     },
     {
       "icon": "heart.fill",
       "title": "Keep favorites",
-      "message": "Tap the heart while listening to save a story, then replay it anytime from Books."
+      "message": "Tap the heart while listening to save a story, then replay it anytime from Books.",
+      "titleRo": "Păstrează preferatele",
+      "messageRo": "Atinge inimioara în timpul poveștii ca s-o salvezi și s-o reasculți din Cărți."
     },
     {
       "icon": "chart.bar.fill",
       "title": "Your week",
-      "message": "This week shows stories played, listening time, rare rewards, and sticker progress."
+      "message": "This week shows stories played, listening time, rare rewards, and sticker progress.",
+      "titleRo": "Săptămâna ta",
+      "messageRo": "Aici vezi poveștile ascultate, timpul de ascultare, premiile rare și abțibildurile."
     },
     {
       "icon": "clock.fill",
       "title": "Listening time",
-      "message": "Your week counts completed listening time, so replayed favorites still matter."
+      "message": "Your week counts completed listening time, so replayed favorites still matter.",
+      "titleRo": "Timpul de ascultare",
+      "messageRo": "Săptămâna ta numără timpul ascultat, așa că și preferatele reascultate contează."
     },
     {
       "icon": "person.wave.2.fill",
       "title": "Narrator voices",
-      "message": "Setup lets you choose a narrator voice for each story world."
+      "message": "Setup lets you choose a narrator voice for each story world.",
+      "titleRo": "Vocile povestitorilor",
+      "messageRo": "În Setări alegi vocea povestitorului pentru fiecare lume."
     },
     {
       "icon": "eye.slash.fill",
       "title": "Hide voices",
-      "message": "Tap the eye-slash beside a voice to hide it if it is not a good fit for your family."
+      "message": "Tap the eye-slash beside a voice to hide it if it is not a good fit for your family.",
+      "titleRo": "Ascunde voci",
+      "messageRo": "Atinge ochiul tăiat de lângă o voce ca s-o ascunzi dacă nu vi se potrivește."
     },
     {
       "icon": "waveform",
       "title": "Voice cloning",
-      "message": "Record a family voice and download the cloning model to unlock cloned narration."
+      "message": "Record a family voice and download the cloning model to unlock cloned narration.",
+      "titleRo": "Clonarea vocii",
+      "messageRo": "Înregistrează vocea cuiva din familie și descarcă modelul de clonare (doar în engleză)."
     },
     {
       "icon": "mic.circle.fill",
       "title": "Cloned voices",
-      "message": "Record a short, clear sample, then assign that voice to any story world in Setup."
+      "message": "Record a short, clear sample, then assign that voice to any story world in Setup.",
+      "titleRo": "Voci clonate",
+      "messageRo": "Înregistrează o mostră scurtă și clară, apoi alege vocea pentru orice lume în Setări."
     },
     {
       "icon": "arrow.down.circle.fill",
       "title": "Cloning model",
-      "message": "Voice cloning needs one larger download; the standard narrator voices work without it."
+      "message": "Voice cloning needs one larger download; the standard narrator voices work without it.",
+      "titleRo": "Modelul de clonare",
+      "messageRo": "Clonarea vocii cere o descărcare mai mare; vocile obișnuite merg și fără ea."
     }
   ]
 }
