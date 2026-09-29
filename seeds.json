@@ -3459,429 +3459,10 @@
       {
         "id": "free-first-day-butterflies-ro",
         "emoji": "🏫",
-        "title": "Fluturași în prima zi",
-        "scenario": "Glimsi și-a frecat ochii și s-a ridicat în pătucul ei moale. Razele soarelui se strecurau printre perdele în prima dimineață de grădiniță. În burtică simțea ceva ca un fâlfâit, de parcă niște fluturași mititei dansau înăuntru. A tras adânc aer în piept și s-a întrebat dacă mai simte cineva la fel.",
-        "prompt": "Glimsi se trezește cu fluturași în burtică în prima dimineață de grădiniță și descoperă că fetița nouă de lângă ea simte exact la fel.",
-        "fullText": "Glimsi și-a frecat ochii și s-a ridicat în pătucul ei moale. Razele soarelui se strecurau printre perdele în prima dimineață de grădiniță. În burtică simțea ceva ca un fâlfâit, de parcă niște fluturași mititei dansau înăuntru. A tras adânc aer în piept și s-a întrebat dacă mai simte cineva la fel.\n\nDupă micul dejun, Glimsi a intrat cu ghiozdănelul în spate în sala luminoasă a grădiniței. Pe pereți erau desene colorate, iar covorașele moi așteptau ora de poveste. A văzut mese cu creioane colorate și cuburi, iar inima i-a bătut puțin mai repede. Glimsi voia să-și facă prieteni noi și să învețe lucruri noi, dar fluturașii din burtică au făcut-o să se oprească o clipă.\n\nO doamnă educatoare cu un zâmbet cald a condus-o pe Glimsi la o masă de lângă fereastră. Glimsi s-a așezat pe un scăunel și s-a uitat în jur. Lângă ea stătea o fetiță cu părul creț și ochii mari. Fetița se uita în jos, la mânuțele ei, și la început n-a spus nimic.\n\n[Glimsi] Bună, eu sunt Glimsi. Și pentru mine e prima zi.\n\n[Lucy] Bună, eu sunt Lucy. Mă gâdilă burtica, de parcă zboară fluturași prin ea.\n\nGlimsi a zâmbit, pentru că știa exact ce voia să spună Lucy. Acum fluturașii nu mai păreau atât de singuri. Noah, un băiețel cu un zâmbet prietenos, s-a așezat în fața lor și și-a scos creioanele colorate.\n\n[Noah] Eu am adus creioane albastre și verzi. Vreți să desenăm ceva împreună?\n\n[Glimsi] Da, ce distractiv! Lucy, vrei să desenezi cu noi? Și pe mine mă gâdilă burtica, exact ca pe tine.\n\n[Lucy] Serios? Credeam că doar eu simt asta. Poate că desenatul o să-i liniștească puțin pe fluturași.\n\nToți trei au început să deseneze. Glimsi a luat un creion galben și a făcut un soare mare. Lucy a desenat o căsuță cu flori de jur împrejur. Noah a adăugat un leagăn în curte. În timp ce desenau, Glimsi a simțit cum burtica i se liniștește un pic.\n\nDoamna educatoare a venit la ei și le-a văzut desenul. A spus că e foarte frumos și i-a rugat să spună o poveste despre el. Glimsi s-a gândit o clipă, apoi a început să vorbească.\n\n[Glimsi] În desenul nostru, soarele strălucește peste o zi nouă. Fluturașii din burticile noastre învață să zboare împreună.\n\n[Lucy] Ce poveste frumoasă! Fluturașii mei s-au făcut mai mici acum, că am prieteni cu care să vorbesc.\n\n[Noah] Și ai mei. Uitați, sună clopoțelul pentru cerc. Putem sta împreună.\n\nȘi-au strâns creioanele și s-au dus pe covorul colorat. Glimsi s-a așezat între Lucy și Noah. Doamna educatoare a cântat un cântec de bun venit, iar toți au bătut din palme. Glimsi s-a uitat la noii ei prieteni și s-a simțit fericită.\n\nLa joaca liberă, Glimsi, Lucy și Noah au construit din cuburi un turn înalt. Fluturașii se transformaseră în nerăbdare veselă. Au râs când turnul s-a clătinat, dar nu a căzut. Lucy a mai pus cu grijă încă un cub.\n\n[Lucy] Am reușit! Grădinița nu e deloc atât de înfricoșătoare când ne ajutăm unii pe alții.\n\n[Glimsi] Mă bucur că am aflat de dimineață că simțeam la fel. Acum ne putem distra împreună în fiecare zi.\n\nDimineața a trecut cu cântece, povești și jocuri. Când a venit vremea să plece acasă, Glimsi și-a îmbrățișat noii prieteni la despărțire. Burtica îi era liniștită și plină de amintiri frumoase. Le-a făcut cu mâna lui Lucy și lui Noah în timp ce ieșea pe ușă cu un zâmbet mare.",
-        "castProfiles": [
-          {
-            "name": "Glimsi",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "ɡlˈɪmsi",
-            "voiceSlot": "glimsi"
-          },
-          {
-            "name": "Noah",
-            "gender": "male",
-            "pronouns": "he/him",
-            "pronunciation": "nˈOə",
-            "voiceSlot": "friend1"
-          },
-          {
-            "name": "Lucy",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "lˈusi",
-            "voiceSlot": "friend2"
-          }
-        ],
-        "quiz": [
-          {
-            "id": "q1",
-            "question": "Ce a simțit Glimsi în burtică în prima dimineață?",
-            "answers": [
-              "un fâlfâit, ca de fluturași",
-              "o foame mare",
-              "somn"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Glimsi a simțit un fâlfâit ca de fluturași, și la fel a simțit și Lucy."
-          },
-          {
-            "id": "q2",
-            "question": "Ce au desenat împreună Glimsi, Lucy și Noah?",
-            "answers": [
-              "un soare, o căsuță cu flori și un leagăn",
-              "o mașină și o barcă",
-              "doar cercuri"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Au desenat un soare, o căsuță cu flori și un leagăn."
-          },
-          {
-            "id": "q3",
-            "question": "Unde au stat la ora de cerc?",
-            "answers": [
-              "împreună pe covorul colorat",
-              "la mese separate",
-              "afară, pe iarbă"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "La ora de cerc au stat împreună pe covorul colorat."
-          }
-        ],
-        "endingState": {
-          "location": "kindergarten classroom",
-          "heroState": "happy and calm with new friends",
-          "castPresent": [
-            "Glimsi",
-            "Noah",
-            "Lucy"
-          ],
-          "completedActivity": "making friends and drawing together on the first day",
-          "importantObjects": [
-            "crayons",
-            "drawing of sun and house",
-            "blocks"
-          ],
-          "openThreads": [
-            "what will happen on the next day of kindergarten"
-          ],
-          "endingImage": "Glimsi waving goodbye to Lucy and Noah with a smile"
-        }
-      },
-      {
-        "id": "free-the-loudest-feeling-ro",
-        "emoji": "💛",
-        "title": "Turnul care s-a prăbușit",
-        "scenario": "Într-un colț însorit al camerei de joacă, Glimsi stătea pe un covoraș moale și albastru, cu cuburile ei preferate din lemn împrăștiate în jur. Voia să construiască cel mai înalt turn pe care îl făcuse vreodată, unul care să se înalțe ca un copac uriaș. Glimsi lua cu grijă fiecare cub și le așeza unul peste altul, fredonând încetișor un cântecel.",
-        "prompt": "Un turn din cuburi se prăbușește, iar Glimsi simte cum crește în ea o furie fierbinte și zgomotoasă, până când o prietenă îi arată cum să lase furtuna să treacă.",
-        "fullText": "Într-un colț însorit al camerei de joacă, Glimsi stătea pe un covoraș moale și albastru, cu cuburile ei preferate din lemn împrăștiate în jur. Voia să construiască cel mai înalt turn pe care îl făcuse vreodată, unul care să se înalțe ca un copac uriaș. Glimsi lua cu grijă fiecare cub și le așeza unul peste altul, fredonând încetișor un cântecel.\n\nTurnul creștea tot mai sus și mai sus. Glimsi a zâmbit când a pus cubul roșu aprins în vârf. S-a clătinat puțin, dar a rămas pe loc. A întins mâna după alt cub, când cotul ei a atins masa. Tot turnul s-a legănat o dată, de două ori, apoi s-a prăbușit cu un zgomot puternic pe covor.\n\nGlimsi s-a uitat la grămada de cuburi. I s-a încălzit fața. Mâinile i s-au strâns în pumni. Un sentiment fierbinte și zgomotos a crescut în ea, ca o furtună care îi trecea prin piept. Îi venea să strige și să arunce cuburile prin toată camera.\n\n[Glimsi] De ce ai căzut? Am muncit atât de mult la tine!\n\nBen și Ruby construiau o căsuță din cuburi, aproape de ea. Au ridicat privirea când au auzit zgomotul. Ben și-a lăsat ușor cubul jos și s-a apropiat de Glimsi.\n\n[Ben] Am văzut cum ți-a căzut turnul, Glimsi. Sentimentul ăla mare și zgomotos pare foarte puternic acum.\n\nGlimsi a dat repede din cap. Furtuna din ea o făcea să vrea să bată din picioare pe covor. S-a apropiat și Ruby și s-a așezat lângă cuburile împrăștiate.\n\n[Ruby] Uneori, când simt că vine o furtună mare, încerc s-o las să treacă, așa cum trece un nor pe cer. Vrei să încercăm împreună?\n\nGlimsi a tras aer în piept, tremurând puțin. Sentimentul fierbinte încă o apăsa, dar voia să vadă ce voia să spună Ruby. S-a uitat cum Ruby își întinde mâinile, cu palmele în sus.\n\n[Ruby] Mai întâi putem să-i spunem pe nume sentimentului. E în regulă să-l spunem cu voce tare. Apoi tragem aer încet, ca și cum am mirosi o floare, și suflăm ca și cum am împinge o frunză mare pe un lac.\n\n[Glimsi] Simt o furie fierbinte și zgomotoasă. Nu-mi place.\n\nBen a zâmbit blând. A luat un cub căzut și l-a ținut în poală, fără să-l mai pună în turn.\n\n[Ben] E un sentiment foarte mare, Glimsi. E ca un tunet înăuntrul tău. Dar o să treacă dacă îi dăm timp. Vrei să respiri cu noi?\n\nGlimsi a dat din nou din cap. A făcut ca Ruby și și-a ținut mâinile deschise. Împreună au tras aer încet pe nas. Apoi au suflat ușor, închipuindu-și cum furia plutește departe, ca un nor pufos. Glimsi a mai făcut asta de trei ori. Cu fiecare respirație, furtuna părea mai mică și mai liniștită.\n\nDupă ultima respirație, Glimsi s-a uitat iar la cuburi. Sentimentul fierbinte se răcorise destul cât să poată lua un cub fără să vrea să-l arunce. L-a pus frumos într-un coș pe care îl adusese Ruby.\n\n[Glimsi] Furtuna trece acum. Mulțumesc că mi-ați arătat cum s-o las să treacă.\n\n[Ruby] Te-ai descurcat foarte bine, Glimsi. Sentimentele vin și pleacă, la fel ca vremea. Le putem face mereu loc și apoi le privim cum își văd de drum.\n\nBen a ajutat-o să strângă restul cuburilor în coș. Glimsi se simțea acum mai ușoară, ca și cum camera de joacă ar fi fost din nou luminoasă. S-a hotărât să mai încerce un turn mai târziu, când mâinile îi vor fi liniștite și sigure.\n\n[Ben] Construim ceva împreună de data asta? Poate un pod lat în loc de un turn înalt.\n\n[Glimsi] Da, un pod sună frumos. Acum mă simt pregătită.\n\nCei trei prieteni s-au așezat unul lângă altul pe covor și au început să pună cuburi unul lângă altul. Camera de joacă s-a umplut de clinchetul ușor al lemnului și de sunetul liniștit al respirației lor. Glimsi zâmbea în timp ce lucra, știind că până și cele mai zgomotoase sentimente pot trece dacă le dă puțin timp și loc.",
-        "castProfiles": [
-          {
-            "name": "Glimsi",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "ɡlˈɪmsi",
-            "voiceSlot": "glimsi"
-          },
-          {
-            "name": "Ben",
-            "gender": "male",
-            "pronouns": "he/him",
-            "pronunciation": "bˈɛn",
-            "voiceSlot": "friend1"
-          },
-          {
-            "name": "Ruby",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "ɹˈubi",
-            "voiceSlot": "friend2"
-          }
-        ],
-        "quiz": [
-          {
-            "id": "q1",
-            "question": "De ce a căzut turnul lui Glimsi?",
-            "answers": [
-              "Cotul ei a atins masa",
-              "L-a dărâmat Ben",
-              "Cuburile erau prea grele"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Cotul lui Glimsi a atins masa și a făcut turnul să se prăbușească."
-          },
-          {
-            "id": "q2",
-            "question": "Ce a propus Ruby ca să treacă furia?",
-            "answers": [
-              "Să respire ca și cum miroase o floare și suflă o frunză",
-              "Să alerge prin cameră",
-              "Să strige foarte tare"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Ruby i-a arătat lui Glimsi cum să respire încet ca să lase sentimentul să treacă."
-          },
-          {
-            "id": "q3",
-            "question": "Ce au hotărât prietenii să construiască după ce a căzut turnul?",
-            "answers": [
-              "Un pod lat",
-              "Imediat alt turn înalt",
-              "Un castel cu steaguri"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Ben a propus să construiască împreună un pod lat."
-          }
-        ],
-        "endingState": {
-          "location": "playroom",
-          "heroState": "calm and ready to build again",
-          "castPresent": [
-            "Glimsi",
-            "Ben",
-            "Ruby"
-          ],
-          "completedActivity": "letting the hot loud anger pass through with breathing",
-          "importantObjects": [
-            "wooden blocks",
-            "basket"
-          ],
-          "openThreads": [
-            "building a bridge together next time"
-          ],
-          "endingImage": "Glimsi, Ben, and Ruby sitting peacefully on the rug with neatly stacked blocks nearby"
-        }
-      },
-      {
-        "id": "free-the-puddle-explorers-ro",
-        "emoji": "🦋",
-        "title": "Exploratorii din băltoacă",
-        "scenario": "Tocmai se oprise ploaia în parc. Glimsi stătea sub un copac mare și înfrunzit, cu prietenii ei, Jack și Zoe. Totul mirosea proaspăt și a ud. Picături mici încă alunecau de pe crengi și cădeau pe iarbă cu un plici-plici.",
-        "prompt": "După ce se oprește ploaia, Glimsi și un prieten descoperă că cea mai mare băltoacă din parc ascunde o lume întreagă cu susul în jos și o desenează pe o hartă înainte să se usuce.",
-        "fullText": "Tocmai se oprise ploaia în parc. Glimsi stătea sub un copac mare și înfrunzit, cu prietenii ei, Jack și Zoe. Totul mirosea proaspăt și a ud. Picături mici încă alunecau de pe crengi și cădeau pe iarbă cu un plici-plici.\n\n[Glimsi] S-a terminat ploaia. Hai să vedem cum arată parcul acum.\n\nAu pornit împreună pe alee. Pantofii lor făceau un zgomot moale, pleoscăit. În curând au ajuns pe pajiștea largă unde se formase cea mai mare băltoacă. Era cât un lac mic și complet nemișcată.\n\n[Jack] Uitați-vă la băltoaca asta. Azi e uriașă.\n\n[Zoe] Văd ceva în ea. Norii sunt acolo jos, și copacii la fel.\n\nGlimsi a îngenuncheat pe margine. S-a uitat cu atenție în apă. Băltoaca ascundea o lume întreagă cu susul în jos. Cerul era la fund, iar pământul era sus. Copacii se întindeau în jos, cu frunzele spre cer. Până și băncile din parc pluteau cu susul în jos în reflexie.\n\n[Glimsi] E ca un alt parc chiar sub apă. Totul e întors pe dos. Ar trebui să facem o hartă înainte ca soarele să usuce totul.\n\nJack a găsit o piatră netedă și plată și a pus-o lângă băltoacă, drept punct de pornire. Zoe a scos din buzunar un carnețel și un creion colorat. Glimsi a zâmbit și a arătat peste apă.\n\n[Zoe] Eu desenez, iar voi doi îmi spuneți ce vedeți.\n\nAu mers încet, împreună, în jurul băltoacei. Mai întâi au observat stejarul cu susul în jos. Crengile lui largi se întindeau în apă, iar frunzulițe mici fluturau pe fundul băltoacei. Glimsi a numărat crengile.\n\n[Glimsi] Stejarul cel mare are cinci crengi mari care se întind în jos. Și în reflexie se vede și un cuib de pasăre.\n\nJack s-a ghemuit ca să vadă mai bine. O adiere a făcut niște valuri mici care au legănat o clipă lumea cu susul în jos. Când apa s-a liniștit din nou, au văzut aleea parcului curbându-se pe partea cealaltă.\n\n[Jack] Aleea arată ca un zâmbet întors pe dos. Merge de jur împrejurul lumii din băltoacă.\n\nZoe a desenat copacul cu cele cinci crengi și aleea curbată. Apoi au zărit toboganul roșu aprins de la locul de joacă. În băltoacă arăta drept în jos, ca o săgeată roșie venită din cer. Glimsi s-a dus pe partea cealaltă ca să vadă unde ar ateriza toboganul în reflexie.\n\n[Glimsi] Dacă ne-am da pe toboganul ăsta întors, am urca până în nori. Scărița e chiar sub floarea aia galbenă.\n\nPe marginea băltoacei creștea o păpădie galbenă. Reflexia ei arăta ca un soare mititel care strălucea în sus, din apă. Zoe a adăugat pe hartă floarea și toboganul roșu.\n\n[Zoe] Harta se umple. Ce mai e în parcul cu susul în jos?\n\nAu continuat să se învârtă în jurul băltoacei. Jack le-a arătat banca din parc care stătea pe iarbă. În băltoacă, picioarele ei se înălțau ca patru copăcei subțiri. Glimsi a observat pe fund o pietricică lucioasă care arăta ca o bărcuță.\n\n[Jack] Banca plutește pe cer. Iar pietricica aia ar putea fi o barcă ce navighează printre nori.\n\n[Glimsi] Hai să punem pe hartă cele patru picioare ale băncii și barca-pietricică. Acum avem aproape totul.\n\nZoe a desenat cu grijă. Soarele începea să încălzească mai tare, iar marginile băltoacei începeau să se micșoreze un pic. Glimsi a mai văzut un ultim lucru, aproape de mijloc. Un nor alb și pufos plutea pe cerul adevărat, iar reflexia lui făcea un deal alb și moale în lumea cu susul în jos.\n\n[Glimsi] Chiar în mijlocul parcului din băltoacă e un deal-nor. Desenează acolo un cerc pufos.\n\nZoe a terminat ultimul semn. Cei trei prieteni s-au dat un pas înapoi și s-au uitat la harta din carnețel. Pe ea erau copacul cu susul în jos, aleea zâmbitoare, toboganul roșu, floarea galbenă, banca cu patru picioare, barca-pietricică și dealul-nor. Băltoaca era acum puțin mai mică, dar încă își păstra lumea secretă.\n\n[Zoe] Harta noastră are fiecare bucățică din parcul cu susul în jos.\n\n[Jack] Am găsit tot înainte să dispară apa.\n\nGlimsi a mai atins o dată marginea băltoacei. Apa era rece pe degetul ei. S-a uitat la prietenii ei și a zâmbit.\n\n[Glimsi] Data viitoare când plouă, putem veni înapoi să vedem dacă se întoarce lumea cu susul în jos.\n\nAu împăturit harta și s-au întors pe alee. Soarele strălucea pe iarbă, iar băltoaca cea mare se micșora încetul cu încetul, dar cei trei prieteni duceau în siguranță desenul lumii secrete, în carnețelul lui Zoe.",
-        "castProfiles": [
-          {
-            "name": "Glimsi",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "ɡlˈɪmsi",
-            "voiceSlot": "glimsi"
-          },
-          {
-            "name": "Jack",
-            "gender": "male",
-            "pronouns": "he/him",
-            "pronunciation": "dʒˈæk",
-            "voiceSlot": "friend1"
-          },
-          {
-            "name": "Zoe",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "zˈOi",
-            "voiceSlot": "friend2"
-          }
-        ],
-        "quiz": [
-          {
-            "id": "q1",
-            "question": "Cu ce și-au făcut prietenii harta?",
-            "answers": [
-              "cu un carnețel și un creion colorat",
-              "cu bețe și frunze",
-              "cu o piatră mare"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Zoe a desenat harta în carnețelul ei, cu un creion colorat."
-          },
-          {
-            "id": "q2",
-            "question": "Câte crengi mari avea stejarul cu susul în jos?",
-            "answers": [
-              "trei",
-              "cinci",
-              "șapte"
-            ],
-            "correctAnswerIndex": 1,
-            "explanation": "Glimsi a numărat cinci crengi mari la stejarul cu susul în jos."
-          },
-          {
-            "id": "q3",
-            "question": "Cum arăta banca din parc în băltoacă?",
-            "answers": [
-              "plutea pe cer, cu cele patru picioare în sus",
-              "răsturnată pe o parte",
-              "dispăruse de tot"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "În băltoacă, banca părea că plutește pe cer, cu cele patru picioare întinse în sus."
-          }
-        ],
-        "endingState": {
-          "location": "park",
-          "heroState": "happy with the completed map",
-          "castPresent": [
-            "Glimsi",
-            "Jack",
-            "Zoe"
-          ],
-          "completedActivity": "mapping the upside-down world in the puddle",
-          "importantObjects": [
-            "notebook map",
-            "big puddle"
-          ],
-          "openThreads": [
-            "returning after the next rain"
-          ],
-          "endingImage": "Glimsi, Jack, and Zoe walking away from the shrinking puddle while holding a notebook"
-        }
-      },
-      {
-        "id": "free-grandpas-secret-recipe-ro",
-        "emoji": "🥞",
-        "title": "Clătitele de duminică ale lui Glimsi",
-        "scenario": "Lumina soarelui intra pe fereastra bucătăriei și cădea pe masa mare de lemn unde bunicul făcea mereu clătitele de duminică. Azi totul era altfel, pentru că Glimsi se ocupa de ele pentru prima dată. Stătea pe un scăunel, cu șorțulețul ei preferat cu dungi, mândră și cu fluturași în burtică. Prietenii ei, Finn și Daisy, veniseră s-o ajute și stăteau la masă, bălăngănindu-și picioarele și zâmbindu-i.",
-        "prompt": "Glimsi se ocupă pentru prima dată de clătitele de duminică, dar ultimul ingredient de pe rețeta scrisă de mână a bunicului e pătat, așa că ea și doi prieteni trebuie să afle ce lipsește.",
-        "fullText": "Lumina soarelui intra pe fereastra bucătăriei și cădea pe masa mare de lemn unde bunicul făcea mereu clătitele de duminică. Azi totul era altfel, pentru că Glimsi se ocupa de ele pentru prima dată. Stătea pe un scăunel, cu șorțulețul ei preferat cu dungi, mândră și cu fluturași în burtică. Prietenii ei, Finn și Daisy, veniseră s-o ajute și stăteau la masă, bălăngănindu-și picioarele și zâmbindu-i.\n\n[Glimsi] Vreau să fac clătitele exact ca bunicul, ca să se bucure toți când se trezesc.\n\nGlimsi a despăturit cu grijă cartonașul vechi cu rețeta scrisă de mână pe care i-l lăsase bunicul. Primele rânduri se citeau ușor: două căni de făină, o cană de lapte, un ou, un praf de sare și două lingurițe de praf de copt. A adunat bolurile și lingurile, în timp ce Finn măsura făina, iar Daisy spărgea oul într-un bol albastru fără să facă mizerie.\n\n[Finn] O să fie cel mai bun mic dejun din lume.\n\n[Daisy] Îmi place tare mult să te ajut, Glimsi.\n\nAu amestecat totul până când aluatul a devenit neted și gros. Glimsi s-a uitat la ultimul rând de pe rețetă, dar ultimul ingredient era pătat cu ceva ce părea o picătură de cafea sau poate sirop de duminica trecută. Rămăsese doar un cuvânt încețoșat, care poate începea cu b, sau poate cu v. Cei trei prieteni s-au uitat la cartonaș, cu fețele lipite una de alta.\n\n[Glimsi] Ultimul lucru de care avem nevoie e tot pătat. Nu pot citi ce scrie și nu vreau să stric clătitele.\n\nO îngrijorare blândă s-a lăsat peste bucătăria însorită. Glimsi și-a mușcat buza și s-a uitat la borcanele și cutiile de pe rafturi. Finn s-a scărpinat în cap, iar Daisy bătea ușor cu degetele în masă, în timp ce se gândeau intens ce ar putea face clătitele să aibă gustul potrivit.\n\n[Finn] Poate e unt? Bunicul pune mereu unt în tigaie, dar poate nu și în aluat.\n\n[Daisy] Sau poate e vanilie? Miroase atât de frumos când face mama prăjituri.\n\nGlimsi s-a gândit la toate dățile când îl privise pe bunicul gătind. Își amintea cum gusta un pic de aluat de pe linguriță și dădea din cap cu un zâmbet fericit. S-a hotărât să încerce să afle împreună, fără să ghicească la întâmplare. Mai întâi a turnat puțin aluat într-o cănuță și l-a gustat cu grijă. I s-a părut cam simplu, ca și cum îi lipsea ceva dulce și cald care să-l facă special.\n\n[Glimsi] Îi trebuie ceva care să-i dea gustul acela cald, ca la clătitele bunicului. Hai să ne uităm la tot ce e în dulap și începe cu b sau cu v.\n\nAu deschis ușile dulapului și au pus pe blat ingredientele posibile: o sticluță de vanilie, un borcan cu zahăr brun, o cutiuță de bicarbonat și o sticluță de sirop de afine. Glimsi a luat mai întâi vanilia și i-a lăsat pe fiecare prieten s-o miroasă. Mirosul dulce le-a amintit de biscuiți și prăjituri.\n\n[Daisy] Vanilia miroase ca clătitele pe care le face bunicul în zilele speciale.\n\nApoi s-au gândit la zahărul brun. Glimsi a lăsat un vârf de zahăr să i se topească pe limbă și s-a gândit că ar putea face clătitele prea dulci. Finn a propus să pună doar o picătură de vanilie într-o porție mică de aluat, de probă. Au amestecat-o într-un bol separat, iar Glimsi a turnat o clătită mititică în tigaia caldă. A sfârâit ușor și s-a rumenit frumos, aurie.\n\n[Finn] Arată perfect. Hai să vedem ce gust are când e gata.\n\nCând clătita de probă s-a răcit destul, Glimsi a tăiat-o în trei bucăți. Fiecare a luat câte o îmbucătură, iar fețele li s-au luminat la gustul cunoscut. Avea exact gustul clătitelor de duminică ale bunicului, cald și plăcut, cu un strop din ceva special.\n\n[Glimsi] Era vanilie de la bun început. Pata arăta ca și cum ar fi putut fi cuvântul ăsta. Mă bucur tare mult că am aflat împreună.\n\n[Daisy] Ai reușit, Glimsi. O să fie minunate.\n\nPlină de încredere, Glimsi a pus o linguriță de vanilie în bolul mare cu aluat și a mai amestecat ușor o ultimă dată. Bucătăria s-a umplut de mirosul cald al clătitelor, în timp ce ea turna cercuri de aluat în tigaie. Finn a pus farfuriile și furculițele pe masă, iar Daisy a turnat suc de portocale. În curând, clătitele stăteau stivuite sus, aurii și pufoase, gata pentru toată lumea.\n\n[Glimsi] Am dezlegat rețeta pătată și am făcut micul dejun împreună.\n\nChiar atunci a intrat bunicul în bucătărie, frecându-se la ochi și zâmbind la ce vedea. Clătitele erau perfecte, iar Glimsi se simțea caldă pe dinăuntru, știind că se ocupase de micul dejun de duminică cu prietenii ei alături. S-au așezat cu toții la masă, povestind și râzând, în timp ce soarele dimineții strălucea tot mai tare.",
-        "castProfiles": [
-          {
-            "name": "Glimsi",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "ɡlˈɪmsi",
-            "voiceSlot": "glimsi"
-          },
-          {
-            "name": "Finn",
-            "gender": "male",
-            "pronouns": "he/him",
-            "pronunciation": "fˈɪn",
-            "voiceSlot": "friend1"
-          },
-          {
-            "name": "Daisy",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "dˈAzi",
-            "voiceSlot": "friend2"
-          }
-        ],
-        "quiz": [
-          {
-            "id": "q1",
-            "question": "Cine s-a ocupat pentru prima dată de clătitele de duminică?",
-            "answers": [
-              "Glimsi",
-              "Finn",
-              "Daisy"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Glimsi s-a ocupat de clătite, așa cum se spune la începutul poveștii."
-          },
-          {
-            "id": "q2",
-            "question": "Care era ultimul ingredient de pe rețeta pătată?",
-            "answers": [
-              "vanilia",
-              "untul",
-              "zahărul brun"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Prietenii au descoperit, după ce au încercat, că ingredientul lipsă era vanilia."
-          },
-          {
-            "id": "q3",
-            "question": "Ce au făcut Glimsi, Finn și Daisy ca să afle ingredientul lipsă?",
-            "answers": [
-              "au mirosit și au încercat cantități mici",
-              "l-au sunat pe bunicul",
-              "au folosit doar făină"
-            ],
-            "correctAnswerIndex": 0,
-            "explanation": "Au mirosit ingredientele și au făcut o clătită mică de probă, ca să descopere că era vanilie."
-          }
-        ],
-        "endingState": {
-          "location": "sunny family kitchen",
-          "heroState": "proud and happy after successfully making pancakes",
-          "castPresent": [
-            "Glimsi",
-            "Finn",
-            "Daisy"
-          ],
-          "completedActivity": "making Sunday pancakes using the recipe with vanilla as the missing ingredient",
-          "importantObjects": [
-            "handwritten recipe card",
-            "bowl of pancake batter",
-            "stack of golden pancakes"
-          ],
-          "openThreads": [],
-          "endingImage": "Glimsi, Finn, and Daisy sitting at the kitchen table eating pancakes together with smiles"
-        }
-      },
-      {
-        "id": "free-the-lost-sock-mystery-ro",
-        "emoji": "🧦",
-        "title": "Misterul șosetei pierdute",
-        "scenario": "Într-o dimineață însorită, în casa lor primitoare, Glimsi s-a așezat pe marginea patului și și-a tras în picior perechea preferată de șosete cu dungi. Îi plăcea cum dansau dungile albastre și galbene când își mișca degetele. Dar când a întins mâna după a doua șosetă, a găsit doar podeaua goală. Glimsi s-a uitat sub pătură, după pernă și chiar în papuci, dar șoseta cu dungi dispăruse.",
-        "prompt": "O șosetă cu dungi a dispărut, așa că Glimsi se face detectiv și urmează indiciile prin toată casa, punând întrebări tuturor celor pe care îi întâlnește.",
-        "fullText": "Într-o dimineață însorită, în casa lor primitoare, Glimsi s-a așezat pe marginea patului și și-a tras în picior perechea preferată de șosete cu dungi. Îi plăcea cum dansau dungile albastre și galbene când își mișca degetele. Dar când a întins mâna după a doua șosetă, a găsit doar podeaua goală. Glimsi s-a uitat sub pătură, după pernă și chiar în papuci, dar șoseta cu dungi dispăruse.\n\nS-a ridicat în picioare, cu o șosetă în picior și cu celălalt picior gol. Azi voia să poarte șosetele ei speciale cu dungi la joacă, așa că s-a hotărât să se facă detectiv și să urmeze indiciile prin toată casa. Glimsi și-a luat lupa de pe raftul cu jucării și a pus-o în buzunar. Cu un zâmbet hotărât, a început căutarea.\n\nMai întâi a pășit în vârful picioarelor pe hol și a zărit un fir albastru mititel, agățat de colțul covorului. Arăta exact ca dunga de pe șoseta pierdută. Glimsi a îngenuncheat și a urmărit firul cu privirea. Ducea spre sufragerie. A simțit fiorul unei descoperiri și a mers mai departe.\n\nÎn sufragerie, Leo punea cuburi unul peste altul ca să facă un turn înalt. Glimsi și-a dres glasul și i-a arătat singura ei șosetă cu dungi.\n\n[Glimsi] Leo, mi-ai văzut cealaltă șosetă cu dungi? Am găsit pe hol un fir albastru care pare să fie de la șoseta mea.\n\n[Leo] Am văzut mai devreme ceva albastru și cu dungi, dar am crezut că e una dintre mașinuțele mele. Poate s-a rostogolit sub canapea când strângeam.\n\nGlimsi s-a ghemuit și s-a uitat sub canapea cu lupa. A zărit o dungă galbenă mică ieșind de după o minge prăfuită. A băgat mâna cu grijă și a scos, în schimb, o bucată de hârtie mototolită. Nicio șosetă. Totuși, dunga galbenă i-a dat un nou indiciu. I-a mulțumit lui Leo și și-a continuat munca de detectiv.\n\nApoi a intrat în bucătăria însorită, unde Ella aranja fructe într-un bol. Glimsi i-a arătat șoseta singuratică și firul galben pe care îl găsise.\n\n[Glimsi] Ella, îmi caut șoseta cu dungi pierdută. Am urmat un fir albastru din camera mea și unul galben din sufragerie. Ai observat azi ceva cu dungi?\n\n[Ella] Am văzut o șosetă lângă coșul de rufe când duceam prosoapele. Poate a sărit singură înăuntru. Șosetele sunt uneori tare șirete.\n\nGlimsi a râs încetișor la gândul unei șosete care sare. S-a uitat în coșul de rufe, dar erau doar tricouri și pantaloni împăturiți. Apoi a observat un șir de firicele albastre și galbene care duceau spre ușa din spate. Le-a urmat pas cu pas, cu piciorul gol lipăind încet pe podeaua rece.\n\nAfară, pe verandă, Glimsi și-a găsit șoseta cu dungi pierdută, atârnată pe coada măturii. Probabil se agățase acolo când vântul suflase peste rufe mai devreme. A luat-o și a ținut perechea împreună, fericită că munca ei de detectiv dăduse roade. Firele fuseseră indicii adevărate până la urmă.\n\nGlimsi s-a întors țopăind în casă, cu ambele șosete acum în picioare. I-a găsit pe Leo și pe Ella în sufragerie și le-a arătat comoara.\n\n[Glimsi] Am urmat fiecare indiciu prin casă și mi-am găsit șoseta pe mătura de pe verandă. Vă mulțumesc amândurora că m-ați ajutat cu răspunsurile voastre.\n\n[Leo] Ești un detectiv foarte bun, Glimsi.\n\n[Ella] Acum picioarele tale pot dansa iar împreună, în dungile alea vesele.\n\nGlimsi și-a mișcat degetele, ca dungile să danseze din nou. Și-a pus lupa deoparte și li s-a alăturat prietenilor ca să construiască un turn din cuburi care să ajungă până la cer. Casa era caldă și plină de râsete, iar șosetele preferate ale lui Glimsi au rămas cuminți în picioarele ei tot restul zilei vesele.",
-        "castProfiles": [
-          {
-            "name": "Glimsi",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "ɡlˈɪmsi",
-            "voiceSlot": "glimsi"
-          },
-          {
-            "name": "Leo",
-            "gender": "male",
-            "pronouns": "he/him",
-            "pronunciation": "lˈiO",
-            "voiceSlot": "friend1"
-          },
-          {
-            "name": "Ella",
-            "gender": "female",
-            "pronouns": "she/her",
-            "pronunciation": "ˈɛlə",
-            "voiceSlot": "friend2"
-          }
-        ],
-        "quiz": [
-          {
-            "id": "q1",
-            "question": "Unde a găsit Glimsi primul fir albastru de la șoseta ei?",
-            "answers": [
-              "sub canapea",
-              "pe hol",
-              "pe verandă"
-            ],
-            "correctAnswerIndex": 1,
-            "explanation": "Glimsi a zărit firul albastru mititel pe colțul covorului de pe hol."
-          },
-          {
-            "id": "q2",
-            "question": "Cine i-a spus lui Glimsi că șoseta ar putea fi în coșul de rufe?",
-            "answers": [
-              "Leo",
-              "Ella",
-              "nimeni"
-            ],
-            "correctAnswerIndex": 1,
-            "explanation": "Ella a spus că a văzut o șosetă lângă coșul de rufe."
-          },
-          {
-            "id": "q3",
-            "question": "Unde a fost găsită până la urmă șoseta cu dungi?",
-            "answers": [
-              "sub canapea",
-              "pe mătura de pe verandă",
-              "în bolul din bucătărie"
-            ],
-            "correctAnswerIndex": 1,
-            "explanation": "Glimsi și-a găsit șoseta atârnată pe coada măturii de pe verandă."
-          }
-        ],
-        "endingState": {
-          "location": "family house living room",
-          "heroState": "happy with both striped socks on her feet",
-          "castPresent": [
-            "Glimsi",
-            "Leo",
-            "Ella"
-          ],
-          "completedActivity": "solved the lost sock mystery by following clues and questioning everyone",
-          "importantObjects": [
-            "striped socks",
-            "magnifying glass",
-            "blue and yellow threads"
-          ],
-          "openThreads": [],
-          "endingImage": "Glimsi smiling with both striped socks on while building a tall block tower with Leo and Ella"
-        }
-      },
-      {
-        "id": "free-the-sleepy-lighthouse-ro",
-        "emoji": "🌙",
-        "title": "Farul somnoros",
-        "scenario": "Sus, pe o stâncă lângă marea întunecată, stătea un far mititel. În fiecare noapte, lumina lui mătura încet valurile, ca bărcile să-și găsească drumul. Într-o seară liniștită, farul s-a simțit foarte obosit. Lumina lui pâlpâia puțin mai slab decât de obicei.",
-        "prompt": "Un far mititel e obosit să lumineze toată noaptea, până când Glimsi stă cu el și numără împreună bărcile pe care le-a condus în liniște, în siguranță, acasă.",
-        "fullText": "Sus, pe o stâncă lângă marea întunecată, stătea un far mititel. În fiecare noapte, lumina lui mătura încet valurile, ca bărcile să-și găsească drumul. Într-o seară liniștită, farul s-a simțit foarte obosit. Lumina lui pâlpâia puțin mai slab decât de obicei.\n\n[Glimsi] Bună! Pari somnoros în seara asta.\n\nGlimsi venise la o plimbare de seară pe cărarea de pe stâncă, cu prietenii ei, Sam și Mia. Aerul sărat era răcoros, iar valurile șopteau încet dedesubt. S-a oprit lângă turnul cu dungi și s-a uitat în sus, la vârful lui luminos.\n\n[Sam] Chiar pare puțin mai stins în seara asta.\n\n[Mia] Poate are nevoie de odihnă.\n\nGlimsi s-a gândit cât de mult muncea farul toată noaptea. S-a așezat pe o piatră netedă și plată, chiar la baza turnului, și s-a sprijinit de piatra rece. Ceilalți s-au așezat în apropiere, pe iarbă.\n\n[Glimsi] O să stau aici cu tine o vreme. Ne ținem de urât unul altuia până te simți mai bine.\n\nLumina farului se învârtea încet deasupra lor. Din turn se auzea un bâzâit ușor, ca un oftat obosit. Glimsi privea cum lumina desena o cărare aurie peste apa neagră. Departe, pe mare, luminițe mici se legănau pe cărarea aceea.\n\n[Glimsi] Uite bărcile alea. Lumina ta le ajută să găsească portul, chiar și când ești somnoros.\n\nSam a scos o pătură moale din rucsac și a pus-o pe umerii lui Glimsi. Mia a găsit niște pietricele netede și le-a pus grămăjoară, ca să le folosească la numărat. Noaptea s-a făcut tot mai liniștită. Se auzeau doar clipocitul blând al valurilor și mișcarea neîntreruptă a luminii.\n\n[Mia] Numărăm bărcile împreună?\n\n[Glimsi] Da. Fiecare barcă ce trece în siguranță e datorită luminii tale strălucitoare.\n\nGlimsi arăta cu degetul de fiecare dată când apărea o lumină nouă pe apă. Prima barcă era o bărcuță de pescuit, cu dungi roșii și albe pe carenă. A urmat cărarea aurie drept spre port. Glimsi a pus o pietricică în poala Miei.\n\n[Glimsi] Asta înseamnă o barcă ajunsă acasă în siguranță.\n\nA venit apoi o barcă mai mare, cu catarge înalte și vele albe strânse frumos. Luminile de pe punte sclipeau ca niște stele. Glimsi a pus a doua pietricică. Sam număra încet, în șoaptă, în timp ce lumina farului se tot învârtea.\n\n[Sam] Și a doua barcă e în siguranță.\n\nA apărut a treia barcă, joasă pe apă, cu lăzi pline de pește proaspăt. Motorul ei făcea un pufăit ușor, care se amesteca cu valurile. Glimsi a mai pus o pietricică. Farul părea să bâzâie acum puțin mai tare, aproape ca un oftat fericit.\n\n[Glimsi] Trei bărci și-au găsit drumul datorită ție.\n\nAu continuat să numere. A trecut apoi un feribot cu șiruri de ferestre luminate, și după el o barcă cu motor care a încetinit ca să urmeze cu grijă lumina. De fiecare dată, Glimsi punea o pietricică și vorbea cu vocea ei calmă de seară. Sam și Mia adăugau și ei câte o laudă blândă. Grămăjoara de pietricele din poala Miei creștea încet.\n\n[Mia] Asta a fost a cincea.\n\n[Glimsi] Și uite că vine a șasea, un remorcher mititel care trage după el o plută de bușteni.\n\nAerul nopții era mai blând. Lumina farului mătura liniștit, fără să mai pâlpâie. După a șaptea barcă, o barcă cu pânze tăcută, cu un singur felinar la prova, Glimsi și-a sprijinit capul de turn. Piatra era caldă acum, ca și cum farul s-ar fi relaxat.\n\n[Glimsi] Șapte bărci au ajuns acasă în siguranță în seara asta. Ai făcut o treabă minunată, chiar dacă erai obosit. Acum poate poți străluci puțin mai blând tot restul nopții.\n\nFarul a răspuns cu o lumină aurie și liniștită, care părea mai blândă și mai împăcată. Sam și Mia s-au ridicat și s-au întins. Glimsi a mai rămas o clipă sprijinită de turn, ascultând valurile. Apoi s-a ridicat și ea, scuturându-și firicelele de nisip de pe mâini.\n\n[Sam] E timpul să mergem și noi acasă.\n\n[Mia] Noapte bună, farule. Mulțumim pentru lumina ta.\n\nGlimsi l-a mai mângâiat o dată, ușor, pe turn. Cei trei prieteni s-au întors pe cărarea de pe stâncă, sub un cer plin de stele liniștite. În urma lor, farul își învârtea mai departe lumina, acum sigură și calmă, călăuzind bărcile întârziate, în timp ce marea șoptea noapte bună.",
+        "title": "Fluturi în burtă la grădiniță",
+        "scenario": "Într-o dimineață însorită de toamnă, Glimsi s-a trezit în patul ei moale de acasă. Soarele bătea la fereastră și păsările cântau afară. Dar în burta ei ceva se mișca ciudat, ca niște fluturi mici care fluturau din aripi. Glimsi și-a pus mâna pe burtă și a respirat adânc. Astăzi era prima zi de grădiniță nouă și ea se simțea puțin emoționată.",
+        "prompt": "Glimsi wakes up with a fluttery tummy on the first morning of kindergarten, and finds out that the new girl beside her feels exactly the same way.",
+        "fullText": "Într-o dimineață însorită de toamnă, Glimsi s-a trezit în patul ei moale de acasă. Soarele bătea la fereastră și păsările cântau afară. Dar în burta ei ceva se mișca ciudat, ca niște fluturi mici care fluturau din aripi. Glimsi și-a pus mâna pe burtă și a respirat adânc. Astăzi era prima zi de grădiniță nouă și ea se simțea puțin emoționată.\n\n[Glimsi] Mami, am fluturi în burtă. Nu știu dacă vreau să merg la grădiniță.\n\nMama a zâmbit cu blândețe și a mângâiat părul lui Glimsi. A ajutat-o să se îmbrace cu rochița ei preferată, cea cu flori mici, și i-a dat ghiozdanul colorat. Glimsi a luat ghiozdanul și a mers cu mama până la grădiniță. Clădirea era veselă, cu desene pe pereți și multe ferestre mari. Când au intrat în sala cea mare, mulți copii se jucau deja cu cuburi și cărți.\n\nGlimsi a văzut o masă rotundă cu scaune mici. Lângă ea stătea un băiat cu păr castaniu care aranja creioane colorate. El era Sam. Pe scaunul de alături era o fetiță nouă, cu codițe și ochelari mici. Ea privea pe fereastră și ținea strâns o păpușică în brațe. Glimsi s-a așezat încet pe scaunul ei. Fluturii din burtă continuau să zboare.\n\n[Glimsi] Bună. Eu sunt Glimsi. Tu cum te cheamă?\n\n[Lily] Eu sunt Lily. Sunt nouă aici.\n\nGlimsi a observat că Lily mișca ușor din picioare și privea în jos. A simțit că și ea are același lucru în burtă. Sam a pus creioanele pe masă și s-a uitat la ele cu un zâmbet timid.\n\n[Sam] Eu sunt Sam. Prima zi e cam ciudată, nu?\n\n[Glimsi] Da, am fluturi în burtă. Zboară și zboară și nu se opresc.\n\n[Lily] Eu am exact la fel. Simt fluturi mici care fac cercuri în burta mea. Nu știu pe nimeni aici și mi-e teamă că o să fie greu.\n\nGlimsi a simțit o căldură plăcută în piept. A pus mâna ei mică peste mâna lui Lily. Apoi a luat din ghiozdan două creioane roșii și galbene și le-a așezat pe masă. Sam a adus o foaie mare de hârtie.\n\n[Glimsi] Poate dacă desenăm împreună, fluturii se liniștesc puțin. Eu desenez o floare mare și colorată.\n\n[Lily] Eu desenez un fluture cu aripi albastre. Poate fluturii din burta mea vor zbura afară pe hârtie.\n\n[Sam] Eu fac un soare mare și zâmbitor. Așa o să fie mai vesel.\n\nCei trei copii au început să deseneze împreună. Creioanele scârțâiau ușor pe hârtie. Glimsi a povestit despre pisica ei de acasă care se juca cu ghemul de lână. Lily a râs încet și a spus că și ea are un cățel care latră la fluturi adevărați din grădină. Sam a adăugat că el a adus o minge roșie în ghiozdan și poate o vor rostogoli mai târziu în curte. Burta lui Glimsi a început să se simtă mai calmă. Fluturii se transformaseră în aripi mici care băteau încet, ca un salut prietenos.\n\nDoamna educatoare a venit lângă masă și a văzut desenul lor colorat. A zâmbit și a spus că este foarte frumos. Apoi a anunțat că este timpul pentru o poveste cu animale care devin prieteni. Glimsi, Lily și Sam s-au așezat pe pernuțe moi pe covor. Glimsi s-a așezat între noii ei prieteni. În timp ce asculta povestea, a simțit că fluturii din burtă s-au oprit cu totul și acum era doar o căldură bună.\n\n[Glimsi] Lily, acum fluturii mei s-au liniștit. Cred că și ai tăi.\n\n[Lily] Da, Glimsi. Mulțumesc că ai vorbit cu mine. Acum grădinița pare un loc frumos.\n\n[Sam] Mâine o să desenăm mai mult. Și o să ne jucăm cu mingea.\n\nDupă poveste, Glimsi a ajutat la strângerea creioanelor. A luat ghiozdanul și a mers cu mama care venise s-o ia. Lily a fluturat mâna spre ea de la fereastră. Sam a ridicat mingea roșie și a promis să o aducă a doua zi. Glimsi a ieșit din grădiniță cu un zâmbet larg. Soarele încă strălucea și acum burta ei era plină de fericire în loc de fluturi. Acasă, avea să-i povestească mamei despre noii ei prieteni și despre desenul cu fluturele albastru.",
         "castProfiles": [
           {
             "name": "Glimsi",
@@ -3898,6 +3479,171 @@
             "voiceSlot": "friend1"
           },
           {
+            "name": "Lily",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "lˈɪli",
+            "voiceSlot": "friend2"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Ce simțea Glimsi în burtă dimineața?",
+            "answers": [
+              "fluturi care fluturau",
+              "durere de burtă",
+              "nimic special"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Glimsi avea fluturi în burtă din cauza emoțiilor de prima zi."
+          },
+          {
+            "id": "q2",
+            "question": "Ce a desenat Lily pe hârtie?",
+            "answers": [
+              "un fluture cu aripi albastre",
+              "o casă mare",
+              "o minge roșie"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Lily a desenat un fluture cu aripi albastre ca să liniștească fluturii din burta ei."
+          },
+          {
+            "id": "q3",
+            "question": "Cine a adus o minge roșie la grădiniță?",
+            "answers": [
+              "Sam",
+              "Glimsi",
+              "Lily"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Sam a adus mingea roșie și a promis să se joace cu ea a doua zi."
+          }
+        ],
+        "endingState": {
+          "location": "acasă după prima zi de grădiniță",
+          "heroState": "calmă și fericită, cu fluturii liniștiți",
+          "castPresent": [
+            "Glimsi"
+          ],
+          "completedActivity": "a făcut primii prieteni și a desenat împreună la grădiniță",
+          "importantObjects": [
+            "ghiozdan colorat",
+            "desen cu floare, fluture și soare",
+            "creioane roșii și galbene"
+          ],
+          "openThreads": [
+            "a doua zi la grădiniță cu mingea roșie"
+          ],
+          "endingImage": "Glimsi zâmbind cu desenul în mână lângă Lily și Sam"
+        }
+      },
+      {
+        "id": "free-the-loudest-feeling-ro",
+        "emoji": "💛",
+        "title": "Turnul care s-a prăbușit",
+        "scenario": "În camera luminoasă de joacă, Glimsi construia un turn înalt din cuburi colorate. Ea așeza cub după cub, cu grijă, imaginându-și cât de frumos va arăta când va ajunge până aproape de tavan. Vroia să-l arate prietenilor ei, Tom și Zoe, care erau aproape. Turnul creștea tot mai sus, iar Glimsi zâmbea fericită.",
+        "prompt": "A tower of blocks falls over and Glimsi feels a hot, loud anger rising up, until a friend shows her a way to let the storm pass through.",
+        "fullText": "În camera luminoasă de joacă, Glimsi construia un turn înalt din cuburi colorate. Ea așeza cub după cub, cu grijă, imaginându-și cât de frumos va arăta când va ajunge până aproape de tavan. Vroia să-l arate prietenilor ei, Tom și Zoe, care erau aproape. Turnul creștea tot mai sus, iar Glimsi zâmbea fericită.\n\n[Glimsi] O să fie cel mai înalt turn din lume. O să-l văd de sus de tot.\n\nDar când a pus ultimul cub, mâna ei a alunecat puțin. Turnul s-a clătinat, s-a înclinat și, cu un zgomot puternic, s-a prăbușit pe covor. Cuburile s-au împrăștiat peste tot. Glimsi a simțit cum ceva fierbinte și zgomotos i se ridică în piept. Inima îi bătea tare, obrajii i s-au înroșit și simțea că vrea să strige.\n\n[Glimsi] Nu! De ce s-a întâmplat asta? Am muncit atât de mult!\n\nTom și Zoe au venit repede lângă ea. Ei au văzut cuburile împrăștiate și fața supărată a lui Glimsi. Tom s-a așezat pe covor, iar Zoe a adus o pernă moale.\n\n[Tom] Am văzut ce s-a întâmplat, Glimsi. Uneori turnurile se prăbușesc și ne simțim foarte supărați.\n\n[Zoe] Da, pare că o furtună fierbinte a apărut în tine. Vrei să-ți arăt un mod prin care să lași furtuna să treacă?\n\nGlimsi a dat din cap, încă simțind căldura aceea supărătoare. Ea a luat o gură mare de aer și a suflat încet. Apoi a început să adune cuburile unul câte unul, punându-le într-o grămadă ordonată. Tom a ajutat-o să găsească cuburile care au ajuns sub scaun, iar Zoe a ținut perna lângă ea.\n\n[Glimsi] Furtuna asta din mine e atât de zgomotoasă. Simt că vreau să lovesc ceva, dar știu că nu ajută.\n\n[Zoe] Încearcă să-ți imaginezi că furtuna e un nor mare și gri. Respiră adânc și lasă norul să plutească afară din tine. Apoi poți construi din nou, mai încet.\n\nGlimsi s-a așezat pe pernă și a închis ochii pentru un moment. A respirat de mai multe ori, simțind cum căldura începe să scadă. A vorbit cu Tom despre cum să facă baza turnului mai solidă de data asta. Împreună au pus cuburile mari jos, apoi pe cele mici deasupra, cu pași mici și atenți. Zoe a cântat încet un cântecel vesel despre cuburi care stau bine împreună.\n\n[Tom] Uite, dacă punem cuburile late la bază, turnul va sta mai bine. Vrei să încerci?\n\n[Glimsi] Da, acum înțeleg. Furtuna a trecut și mă simt mai calmă. Mulțumesc că m-ați ajutat.\n\nTurnul a crescut din nou, de data asta mai stabil și mai frumos. Glimsi a pus ultimul cub cu grijă și a bătut din palme încet. Prietenii ei au zâmbit, iar camera s-a umplut de o liniște caldă. Glimsi s-a simțit mândră că a lăsat furtuna să treacă și a continuat să se joace fericită până seara.",
+        "castProfiles": [
+          {
+            "name": "Glimsi",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "ɡlˈɪmsi",
+            "voiceSlot": "glimsi"
+          },
+          {
+            "name": "Tom",
+            "gender": "male",
+            "pronouns": "he/him",
+            "pronunciation": "tˈɑm",
+            "voiceSlot": "friend1"
+          },
+          {
+            "name": "Zoe",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "zˈOi",
+            "voiceSlot": "friend2"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Ce s-a întâmplat cu turnul lui Glimsi la început?",
+            "answers": [
+              "A rămas în picioare",
+              "S-a prăbușit pe covor",
+              "A devenit mai înalt"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "Turnul s-a prăbușit și cuburile s-au împrăștiat, așa cum se spune clar în poveste."
+          },
+          {
+            "id": "q2",
+            "question": "Ce a sugerat Zoe ca să lase furtuna să treacă?",
+            "answers": [
+              "Să alerge afară",
+              "Să respire adânc și să imagineze un nor",
+              "Să strige tare"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "Zoe a spus să respire adânc și să lase norul să plutească afară, exact cum este în poveste."
+          },
+          {
+            "id": "q3",
+            "question": "Cum a ajutat Tom la noul turn?",
+            "answers": [
+              "A cântat un cântec",
+              "A pus cuburi late la bază",
+              "A adus o pernă"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "Tom a sugerat să pună cuburile late la bază pentru stabilitate, așa cum povestea descrie."
+          }
+        ],
+        "endingState": {
+          "location": "camera de joacă",
+          "heroState": "calmă și fericită",
+          "castPresent": [
+            "Glimsi",
+            "Tom",
+            "Zoe"
+          ],
+          "completedActivity": "construit un turn stabil din cuburi după ce primul s-a prăbușit",
+          "importantObjects": [
+            "cuburi colorate",
+            "pernă moale"
+          ],
+          "openThreads": [],
+          "endingImage": "Glimsi zâmbind lângă turnul ei stabil, cu Tom și Zoe alături"
+        }
+      },
+      {
+        "id": "free-the-puddle-explorers-ro",
+        "emoji": "🦋",
+        "title": "Exploratorii bălții",
+        "scenario": "După o ploaie lungă de vară, soarele a început să strălucească peste parcul verde. Glimsi alerga cu pantofii ei roșii prin iarba udă, simțind picăturile care încă se scurgeau de pe frunze. Ea dorea să exploreze ceva nou astăzi. Jack și Mia, prietenii ei, veneau în urma ei, râzând și sărind peste bălțile mici.",
+        "prompt": "After the rain stops, Glimsi and a friend discover that the park's biggest puddle holds a whole upside-down world, and they map every bit of it before it dries.",
+        "fullText": "După o ploaie lungă de vară, soarele a început să strălucească peste parcul verde. Glimsi alerga cu pantofii ei roșii prin iarba udă, simțind picăturile care încă se scurgeau de pe frunze. Ea dorea să exploreze ceva nou astăzi. Jack și Mia, prietenii ei, veneau în urma ei, râzând și sărind peste bălțile mici.\n\n[Jack] Uite ce bălți mari a lăsat ploaia! Hai să vedem care e cea mai mare.\n\n[Mia] Da, Glimsi, tu ești cea mai bună la găsit comori. Condu-ne!\n\nGlimsi zâmbi și merse mai departe, cu ochii la pământ. În mijlocul parcului, lângă leagănul vechi, era cea mai mare băltoacă pe care o văzuseră vreodată. Apa era limpede și liniștită acum că ploaia se oprise. Glimsi se aplecă și privi în ea. Cerul albastru se oglindea perfect, dar și copacii, și norii, și chiar leagănul păreau să fie acolo jos, răsturnați.\n\n[Glimsi] Priviți! Băltoaca asta ține o lume întreagă cu susul în jos. Vedeți copacii care cresc în jos și cerul de dedesubt? Este o lume răsturnată!\n\n[Jack] Wow, ai dreptate. Parcă am putea intra în ea. Hai să o explorăm!\n\nCei trei prieteni se așezară pe iarbă în jurul bălții mari. Glimsi scoase din buzunarul ei o foaie de hârtie udă pe margini și un creion colorat. Ei începură să deseneze harta lumii de dedesubt. Mai întâi, Glimsi arătă spre reflexia unui copac mare cu ramuri care păreau să atârne în sus din apă.\n\n[Mia] Acolo este Pădurea Răsturnată. Ramurile ei ating cerul de jos. Cred că acolo locuiesc păsări care zboară pe dos.\n\nJack râse încet și arătă spre o piatră mare care se oglindea ca o insulă. Glimsi desenă o insulă rotundă pe hartă și scrise cu litere mari numele ei. Apoi, o adiere ușoară de vânt făcu apa să se miște puțin. Reflexiile se unduiră și lumea răsturnată păru că se schimbă. Asta era dificultatea blândă pe care o descoperiră: vântul putea să șteargă părți din hartă lor dacă nu erau atenți.\n\n[Glimsi] Vântul mișcă apa. Trebuie să ne grăbim să desenăm totul înainte să se usuce băltoaca. Jack, tu notează partea cu leagănul care atârnă ca un pod.\n\n[Jack] Bine. Podul Leagănului duce spre un munte de nori. Mia, ce vezi lângă bancă?\n\n[Mia] Văd reflexia băncii noastre, dar jos pare un castel mic. Să desenăm un castel acolo, cu turnuri care arată în jos.\n\nGlimsi se aplecă și mai mult, cu nasul aproape de apă. Ea observă o frunză care plutea ușor și crea cercuri mici. În lumea răsturnată, frunza părea o barcă ce naviga pe cer. Prietenii ei vorbeau încet, arătând cu degetele și adăugând detalii pe hartă. Glimsi desenă un râu de cer albastru care curgea printre copacii inversați. Jack adăugă o pasăre care zbura cu capul în jos. Mia coloră o zonă cu flori galbene care creșteau din pământul de sus.\n\n[Glimsi] Harta noastră arată acum toată lumea. Avem Pădurea Răsturnată, Insula Pietrei, Podul Leagănului și Castelul Băncii. Dar vântul suflă iar. Apa începe să se miște prea mult.\n\n[Jack] Trebuie să terminăm repede. Eu desenez ultimul nor.\n\n[Mia] Și eu pun o săgeată care arată drumul spre casă, ca să nu ne pierdem dacă intrăm vreodată acolo.\n\nSoarele încălzea pământul și băltoaca începea să se micșoreze încet. Marginile ei se uscau, iar lumea răsturnată devenea mai mică. Glimsi ținu harta sus, ca toți să o vadă bine. Ei se uitară unul la altul cu ochi strălucitori de curiozitate. Apoi, Glimsi împături cu grijă hârtia și o puse în buzunar.\n\n[Glimsi] Am explorat fiecare colț înainte să dispară. Acum avem o hartă pentru data viitoare când plouă. Lumea răsturnată va fi mereu acolo în bălți.\n\n[Jack] A fost cea mai bună aventură de după ploaie.\n\n[Mia] Da, și mâine putem verifica dacă a mai rămas ceva din ea.\n\nCei trei prieteni se ridicară, scuturându-și genunchii de iarbă. Glimsi ținea harta strâns în mână în timp ce mergeau spre marginea parcului. Băltoaca se micșora încet sub soare, dar amintirea lumii răsturnate rămânea vie în inimile lor. Ei zâmbiră unul altuia, știind că explorarea lor se terminase frumos pentru acea zi.",
+        "castProfiles": [
+          {
+            "name": "Glimsi",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "ɡlˈɪmsi",
+            "voiceSlot": "glimsi"
+          },
+          {
+            "name": "Jack",
+            "gender": "male",
+            "pronouns": "he/him",
+            "pronunciation": "dʒˈæk",
+            "voiceSlot": "friend1"
+          },
+          {
             "name": "Mia",
             "gender": "female",
             "pronouns": "she/her",
@@ -3908,51 +3654,309 @@
         "quiz": [
           {
             "id": "q1",
-            "question": "Câte bărci au numărat Glimsi și prietenii ei?",
+            "question": "Unde se află cea mai mare băltoacă?",
             "answers": [
-              "Cinci",
-              "Șapte",
-              "Zece"
+              "Lângă leagănul vechi",
+              "Lângă bancă",
+              "În pădure"
             ],
-            "correctAnswerIndex": 1,
-            "explanation": "Au numărat șapte bărci care au urmat lumina farului până acasă, în siguranță."
+            "correctAnswerIndex": 0,
+            "explanation": "Băltoaca era în mijlocul parcului, lângă leagănul vechi."
           },
           {
             "id": "q2",
-            "question": "Ce a strâns Mia ca să-i ajute la numărat?",
+            "question": "Ce au făcut Glimsi, Jack și Mia cu lumea răsturnată?",
             "answers": [
-              "Scoici",
-              "Pietricele",
-              "Bețișoare"
+              "Au desenat o hartă",
+              "Au sărit în ea",
+              "Au fugit de ea"
             ],
-            "correctAnswerIndex": 1,
-            "explanation": "Mia a strâns pietricele netede, ca să pună câte una pentru fiecare barcă."
+            "correctAnswerIndex": 0,
+            "explanation": "Ei au desenat o hartă cu fiecare parte a lumii răsturnate."
           },
           {
             "id": "q3",
-            "question": "Unde a stat Glimsi cât i-a ținut de urât farului?",
+            "question": "Ce amenința harta lor din cauza vântului?",
             "answers": [
-              "Pe iarbă",
-              "Pe o piatră netedă și plată",
-              "În interiorul turnului"
+              "Mișca apa și unduia reflexiile",
+              "Usca hârtia prea repede",
+              "Adducea nori noi"
             ],
-            "correctAnswerIndex": 1,
-            "explanation": "Glimsi a stat pe o piatră netedă și plată, chiar la baza farului."
+            "correctAnswerIndex": 0,
+            "explanation": "Vântul mișca apa, făcând reflexiile să se unduie și părți din hartă să se schimbe."
           }
         ],
         "endingState": {
-          "location": "rocky cliff beside the sea",
-          "heroState": "calm and ready for bedtime",
+          "location": "park",
+          "heroState": "happy with a drawn map in her pocket",
           "castPresent": [
-            "Glimsi"
+            "Glimsi",
+            "Jack",
+            "Mia"
           ],
-          "completedActivity": "sat with the lighthouse and counted the boats it guided home",
+          "completedActivity": "mapping the upside-down world in the puddle",
           "importantObjects": [
-            "pebbles for counting",
-            "soft blanket"
+            "drawn map",
+            "biggest puddle"
+          ],
+          "openThreads": [
+            "returning to check the puddle another day"
+          ],
+          "endingImage": "Glimsi holding a folded paper map while walking with Jack and Mia under a sunny sky in the park"
+        }
+      },
+      {
+        "id": "free-grandpas-secret-recipe-ro",
+        "emoji": "🥞",
+        "title": "Rețeta secretă a bunicului",
+        "scenario": "Într-o dimineață însorită de duminică, Glimsi stătea în bucătăria caldă a casei de familie, cu un șorț legat bine în jurul taliei. Pe masă era o carte de rețete veche, scrisă de mână de bunicul ei. Glimsi voia foarte mult să facă singură clătitele de duminică pentru toată lumea. Ben și Anna, prietenii ei, veniseră să o ajute. Bucătăria mirosea deja a vanilie și unt topit.",
+        "prompt": "Glimsi is in charge of the Sunday pancakes for the first time, but the last ingredient on Grandpa's handwritten recipe card is smudged, so she and two friends have to work out what is missing.",
+        "fullText": "Într-o dimineață însorită de duminică, Glimsi stătea în bucătăria caldă a casei de familie, cu un șorț legat bine în jurul taliei. Pe masă era o carte de rețete veche, scrisă de mână de bunicul ei. Glimsi voia foarte mult să facă singură clătitele de duminică pentru toată lumea. Ben și Anna, prietenii ei, veniseră să o ajute. Bucătăria mirosea deja a vanilie și unt topit.\n\n[Glimsi] Astăzi sunt eu șefa la clătite! Bunicul a spus că pot folosi rețeta lui specială. Haideți să citim împreună.\n\nGlimsi a luat cartea cu grijă și a început să citească ingredientele cu voce tare. Ben a adus făina, Anna a turnat laptele și ouăle. Au amestecat totul într-un bol mare, râzând când aluatul devenea din ce în ce mai moale. Totul mergea bine până când au ajuns la ultimul rând de pe cartea de rețete.\n\n[Ben] Uite aici, Glimsi. Ultimul ingredient este scris neclar. Parcă ar fi o pată de apă sau ceva. Nu se poate citi deloc.\n\n[Anna] Da, e smuls și pătat. Ce punem acum? Fără asta, clătitele nu vor ieși bune. Ce facem?\n\nGlimsi s-a aplecat peste carte și a mijit ochii. Inima îi bătea puțin mai repede. Ea era responsabilă și voia ca totul să fie perfect. A pus cartea jos și s-a gândit un moment. Apoi a zâmbit și a spus că vor încerca să ghicească împreună ce lipsește, uitându-se la ce mai era pe masă și amintindu-și cum miroseau clătitele bunicului.\n\n[Glimsi] Hai să ne gândim. Bunicul pune mereu ceva dulce și bun la sfârșit. Poate este zahăr? Sau poate miere? Să încercăm puțin din fiecare și să vedem cum iese aluatul.\n\nAu adăugat mai întâi o linguriță de zahăr. Au amestecat bine, dar aluatul părea încă prea simplu. Glimsi a gustat o picătură cu vârful linguriței și a clătinat din cap. Apoi au turnat puțină miere aurie. Mirosul dulce s-a răspândit prin bucătărie, dar ceva tot nu era în regulă. Ben a sugerat să se uite prin dulapuri după alte lucruri pe care le folosea bunicul.\n\n[Ben] Poate este scorțișoară? Bunicul tău pune uneori puțină în clătite. Hai să presărăm o idee mică și să vedem.\n\n[Anna] Sau poate vanilie? Uite, avem extract de vanilie pe raft. Miroase așa de frumos.\n\nGlimsi a turnat trei picături de vanilie. Au amestecat încet cu o lingură de lemn. Aluatul a început să miroasă exact ca în amintirile ei despre diminețile de duminică. Totuși, Glimsi simțea că mai lipsește un ultim lucru. S-a dus la fereastră și s-a uitat afară spre grădina bunicului. Apoi și-a amintit cum bunicul culegea ceva proaspăt chiar înainte de a găti.\n\n[Glimsi] Cred că știu! Ultimul ingredient este o mână de afine proaspete din grădină. Bunicul le pune mereu în clătite ca să iasă pufoase și colorate. Hai să culegem câteva!\n\nCei trei prieteni au alergat afară în grădină, unde soarele încălzea pământul. Au cules cu grijă câteva afine coapte, mici și dulci. Glimsi le-a adus înapoi în bucătărie și le-a amestecat ușor în aluat. Acum totul arăta perfect. Au încălzit tigaia, au turnat aluatul în cercuri mici și au așteptat cu răbdare să apară bășicuțe aurii.\n\n[Anna] Privește, Glimsi! Clătitele se rumenesc frumos. Parcă sunt exact ca ale bunicului.\n\n[Ben] Da, și mirosul este minunat. Cred că am ghicit bine ingredientul lipsă.\n\nGlimsi a întors clătitele cu o spatulă mare, zâmbind larg. Una câte una, clătitele aurii au fost așezate pe o farfurie mare. Au pus sirop și câteva afine deasupra. Când masa a fost gata, au chemat familia. Glimsi a simțit o căldură plăcută în piept văzând cât de fericiți erau toți. A gustat prima clătită și a închis ochii de plăcere. Totul ieșise exact cum trebuia.\n\n[Glimsi] Am reușit! Data viitoare o să știu rețeta pe de rost. Mulțumesc că m-ați ajutat, Ben și Anna. Clătitele noastre sunt cele mai bune.\n\nDupă micul dejun, bucătăria era plină de farfurii goale și zâmbete. Glimsi a spălat cartea de rețete cu grijă și a pus-o la loc pe raft. Soarele intra pe fereastră, iar ziua de duminică continua liniștită și fericită.",
+        "castProfiles": [
+          {
+            "name": "Glimsi",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "ɡlˈɪmsi",
+            "voiceSlot": "glimsi"
+          },
+          {
+            "name": "Ben",
+            "gender": "male",
+            "pronouns": "he/him",
+            "pronunciation": "bˈɛn",
+            "voiceSlot": "friend1"
+          },
+          {
+            "name": "Anna",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "ˈænə",
+            "voiceSlot": "friend2"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Ce era smuls pe cartea de rețete a bunicului?",
+            "answers": [
+              "ultimul ingredient",
+              "făina",
+              "laptele"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Ultimul ingredient era smuls și pătat pe cartea de rețete."
+          },
+          {
+            "id": "q2",
+            "question": "Ce au cules Glimsi, Ben și Anna din grădină?",
+            "answers": [
+              "mere",
+              "afine",
+              "morcovi"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "Au cules afine proaspete din grădină ca ultimul ingredient."
+          },
+          {
+            "id": "q3",
+            "question": "Cine era responsabil de clătitele de duminică?",
+            "answers": [
+              "Ben",
+              "Anna",
+              "Glimsi"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "Glimsi era responsabilă pentru prima dată de clătitele de duminică."
+          }
+        ],
+        "endingState": {
+          "location": "bucătăria caldă a casei de familie",
+          "heroState": "mândră și mulțumită după ce a făcut clătite delicioase",
+          "castPresent": [
+            "Glimsi",
+            "Ben",
+            "Anna"
+          ],
+          "completedActivity": "a făcut clătitele de duminică ghicind ingredientul lipsă",
+          "importantObjects": [
+            "cartea de rețete scrisă de mână a bunicului",
+            "afine proaspete din grădină",
+            "bolul cu aluat",
+            "tigaia caldă"
+          ],
+          "openThreads": [
+            "cum va fi următoarea aventură culinară a Glimsi"
+          ],
+          "endingImage": "Glimsi zâmbind lângă o farfurie cu clătite aurii și afine, împreună cu Ben și Anna în bucătăria însorită"
+        }
+      },
+      {
+        "id": "free-the-lost-sock-mystery-ro",
+        "emoji": "🧦",
+        "title": "Misterul ciorapului pierdut",
+        "scenario": "Într-o dimineață însorită, Glimsi stătea în camera ei plină de jucării colorate. Ea voia să se îmbrace pentru o zi de joacă cu prietenii ei. Glimsi a deschis sertarul cu șosete și a scos una cu dungi roșii și albastre. Dar când a căutat perechea, a văzut că una dintre șosete dispăruse complet.",
+        "prompt": "One striped sock has vanished, so Glimsi turns detective and follows the clues through the whole house, questioning everyone she meets along the way.",
+        "fullText": "Într-o dimineață însorită, Glimsi stătea în camera ei plină de jucării colorate. Ea voia să se îmbrace pentru o zi de joacă cu prietenii ei. Glimsi a deschis sertarul cu șosete și a scos una cu dungi roșii și albastre. Dar când a căutat perechea, a văzut că una dintre șosete dispăruse complet.\n\nGlimsi s-a încruntat puțin și a început să caute sub pat. A găsit doar praf și o minge veche. Apoi și-a amintit că șosetele ei dispăreau uneori prin casă. Ea a hotărât să devină detectiv. Glimsi și-a pus o pălărie veche pe cap și a luat o lupă de jucărie.\n\nEa a pornit prin toată casa, urmând indicii mici. Mai întâi a intrat în bucătărie, unde Max pregătea niște sandvișuri. Pe podea, Glimsi a văzut o urmă mică de lână roșie.\n\n[Glimsi] Max, ai văzut cumva o șosetă cu dungi roșii și albastre? Una a dispărut și eu încerc să o găsesc.\n\n[Max] Nu am văzut-o, Glimsi. Dar am spălat niște haine azi dimineață. Poate a ajuns acolo?\n\nGlimsi i-a mulțumit lui Max și a continuat să caute. Ea a mers în living, unde Lucy citea o carte pe canapea. Pe covor, lângă picioarele lui Lucy, era o mică bucată de fir albastru.\n\n[Glimsi] Lucy, tu ai văzut șoseta mea cu dungi? Am găsit urme prin casă și acum sunt ca un detectiv adevărat.\n\n[Lucy] Nu am văzut-o, dar poate pisica a luat-o ca să se joace. Ea a fost pe aici mai devreme.\n\nGlimsi a zâmbit și a notat indiciul în mintea ei. Ea a verificat sub canapea, dar acolo erau doar niște monede vechi și un creion. Apoi a urcat scările spre camera de joacă. Pe hol, a găsit o urmă clară de lână roșie care ducea spre dulap.\n\nÎn camera de joacă, Glimsi a deschis dulapul încet. Acolo, printre jucării, a văzut șoseta ei prinsă de o roată de cărucior. Dar lângă ea era o surpriză. Pisica dormea liniștită, cu cealaltă parte a șosetei sub lăbuță. Glimsi a râs încet.\n\n[Glimsi] Aha, deci tu erai hoțul! Șoseta mea a devenit o pătură moale pentru tine.\n\nPisicuța s-a trezit și a mieunat încet. Glimsi a mângâiat-o ușor pe cap și a tras șoseta cu grijă. Apoi a coborât scările înapoi în bucătărie, ținând șoseta sus ca pe un trofeu.\n\n[Glimsi] Max, Lucy, am găsit-o! Era în camera de joacă cu pisica. Ea o folosise ca pernă.\n\n[Max] Bravo, detectiv Glimsi! Ești cea mai bună la rezolvarea misterelor.\n\n[Lucy] Acum poți să porți ambele șosete și să te joci cu noi afară.\n\nGlimsi și-a pus șosetele pe picioare, una lângă alta, dungile roșii și albastre potrivindu-se perfect. Ea s-a simțit fericită și mândră că a urmat toate indiciile. Prietenii ei au râs împreună de aventura ei prin casă. Apoi au ieșit toți în grădină să se joace cu mingea, cu șosetele bine prinse pe picioare.\n\nSoarele strălucea, iar vântul bătea ușor prin frunze. Glimsi alerga fericită, știind că misterul se terminase bine. Ea și prietenii ei au petrecut restul zilei râzând și jucându-se, iar șoseta nu a mai dispărut niciodată.",
+        "castProfiles": [
+          {
+            "name": "Glimsi",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "ɡlˈɪmsi",
+            "voiceSlot": "glimsi"
+          },
+          {
+            "name": "Max",
+            "gender": "male",
+            "pronouns": "he/him",
+            "pronunciation": "mˈæks",
+            "voiceSlot": "friend1"
+          },
+          {
+            "name": "Lucy",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "lˈusi",
+            "voiceSlot": "friend2"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Unde a găsit Glimsi prima urmă de lână roșie?",
+            "answers": [
+              "În bucătărie",
+              "Sub pat",
+              "În living"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Prima urmă a fost văzută în bucătărie lângă Max."
+          },
+          {
+            "id": "q2",
+            "question": "Cine i-a spus lui Glimsi despre pisică?",
+            "answers": [
+              "Max",
+              "Lucy",
+              "Pisicuța"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "Lucy i-a spus lui Glimsi că pisica ar fi putut lua șoseta."
+          },
+          {
+            "id": "q3",
+            "question": "Unde era șoseta pierdută în final?",
+            "answers": [
+              "Sub canapea",
+              "În camera de joacă",
+              "În bucătărie"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "Șoseta era în camera de joacă cu pisica."
+          }
+        ],
+        "endingState": {
+          "location": "grădina",
+          "heroState": "fericită și mândră",
+          "castPresent": [
+            "Glimsi",
+            "Max",
+            "Lucy"
+          ],
+          "completedActivity": "a rezolvat misterul șosetei pierdute",
+          "importantObjects": [
+            "șoseta cu dungi",
+            "lupa de jucărie",
+            "pălăria veche"
           ],
           "openThreads": [],
-          "endingImage": "peaceful lighthouse beam over calm dark sea at night"
+          "endingImage": "Glimsi alergând fericită în grădină cu șosetele pe picioare"
+        }
+      },
+      {
+        "id": "free-the-sleepy-lighthouse-ro",
+        "emoji": "🌙",
+        "title": "Farul somnoros",
+        "scenario": "Într-o seară liniștită, pe o stâncă înaltă lângă mare, se afla un far mic și rotund. Farul se numea Luminița și era foarte obosit. De atâția ani, el strălucea toată noaptea ca să arate drumul bărcilor spre casă. Luminița simțea că ochii ei de lumină sunt grei și că ar vrea să doarmă măcar o noapte întreagă.",
+        "prompt": "A little lighthouse is tired of shining all night, until Glimsi sits with it and they count the boats it has quietly guided safely home.",
+        "fullText": "Într-o seară liniștită, pe o stâncă înaltă lângă mare, se afla un far mic și rotund. Farul se numea Luminița și era foarte obosit. De atâția ani, el strălucea toată noaptea ca să arate drumul bărcilor spre casă. Luminița simțea că ochii ei de lumină sunt grei și că ar vrea să doarmă măcar o noapte întreagă.\n\nGlimsi, o fetiță curioasă cu părul ciufulit, venise la malul mării cu prietenii ei, Max și Anna. Ei aduseseră pături moi și felinare mici ca să stea la o poveste înainte de culcare. Valurile șopteau încet, iar cerul era plin de stele care clipeau ca niște ochi somnoroși.\n\n[Glimsi] Uitați-vă, farul pare trist în seara asta. Lumina lui e mai slabă decât de obicei. Hai să ne apropiem și să vedem ce se întâmplă.\n\n[Max] Da, pare obosit. Poate are nevoie de ajutor.\n\n[Anna] Să mergem împreună, dar să vorbim încet ca să nu-l speriem.\n\nCei trei copii au urcat poteca îngustă până la far. Glimsi a bătut ușor în ușa de lemn. Luminița a răspuns cu o lumină mică și tremurată. Glimsi s-a așezat pe treptele reci de piatră, chiar lângă far, și a pus o pătură moale pe genunchi.\n\n[Glimsi] Bună, Luminița. Eu sunt Glimsi. Am văzut că ești obosită de atâta strălucit. Vrei să stau cu tine puțin? Poate te simți mai bine dacă nu ești singură.\n\nFarul a clipit de două ori, ca și cum ar fi spus da. Max și Anna s-au așezat și ei lângă Glimsi, cu felinarele lor mici aprinse. Vântul aducea miros de sare și alge proaspete. Valurile loveau stânca încet, ca un cântec de leagăn.\n\n[Max] Poate că putem număra bărcile pe care le-ai ajutat tu în noaptea asta. Așa o să vezi cât de important ești.\n\n[Anna] Da, și o să fie ca o poveste înainte de somn.\n\n[Glimsi] Bună idee. Luminița, tu ai ghidat multe bărci acasă. Hai să le numărăm împreună. Eu văd una mică cu pânze albe care se apropie de port acum. Asta e prima.\n\nFarul a trimis o rază lungă și blândă spre barca aceea, ca și cum ar fi salutat-o. Copiii au așteptat în liniște. Curând, a apărut o barcă de pescari cu luminițe galbene pe punte.\n\n[Max] Uite, a doua barcă! Se întoarce acasă în siguranță datorită luminii tale.\n\n[Anna] Și eu văd o a treia, cea mare cu motorul care face un zgomot mic. Se leagănă pe valuri, dar știe drumul acum.\n\nGlimsi a mângâiat ușor peretele farului cu palma. Luminița părea să respire mai ușor. Copiii au continuat să numere. Au văzut o barcă de jucărie adusă de un copil de pe plajă, apoi una de salvare care patrula liniștit, și încă una mică de lemn care ducea fructe de la un sat îndepărtat.\n\n[Glimsi] Am ajuns la șase bărci până acum. Tu le-ai ajutat pe toate să ajungă acasă fără să se piardă. Ești un far foarte bun, Luminița. Poate că după ce numărăm zece, o să poți să-ți odihnești lumina puțin mai mult.\n\nAu continuat să privească marea. Fiecare barcă era ca un punct luminos care se mișca încet spre lumină. Glimsi a început să vorbească mai încet, ca un șoptit. Max și Anna au adus pături și s-au cuibărit lângă ea. Farul a trimis raze mai calde, mai puțin obosite.\n\n[Max] A șaptea barcă are un steag roșu. Se vede clar acum.\n\n[Anna] Opt. E una cu pui de somn pe punte.\n\n[Glimsi] Nouă și zece. Uite, ultima barcă tocmai a intrat în port. Toate sunt acasă acum, Luminița. Ai făcut o treabă minunată. Poți să te odihnești puțin. Noi stăm aici cu tine până adormi.\n\nFarul a clipit încet de trei ori, ca un căscat lung. Lumina lui a devenit mai blândă, ca o lumânare mică. Glimsi, Max și Anna au rămas așezați, ascultând valurile. Cerul era acum mai închis, iar stelele păreau să zâmbească. Farul se simțea mai puțin singur și mai puțin obosit. Copiii au început să respire încet, aproape de somn.\n\nÎn cele din urmă, Luminița a trimis o ultimă rază caldă spre ei, ca un mulțumesc. Glimsi a zâmbit și a închis ochii puțin, simțind că totul era în ordine. Marea continua să șoptească, iar farul strălucea acum cu o lumină liniștită, știind că bărcile erau toate acasă și că prietenii lui erau aproape.",
+        "castProfiles": [
+          {
+            "name": "Glimsi",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "ɡlˈɪmsi",
+            "voiceSlot": "glimsi"
+          },
+          {
+            "name": "Max",
+            "gender": "male",
+            "pronouns": "he/him",
+            "pronunciation": "mˈæks",
+            "voiceSlot": "friend1"
+          },
+          {
+            "name": "Anna",
+            "gender": "female",
+            "pronouns": "she/her",
+            "pronunciation": "ˈænə",
+            "voiceSlot": "friend2"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Cum se numește farul din poveste?",
+            "answers": [
+              "Luminița",
+              "Steaua",
+              "Valul"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Farul se numește Luminița, așa cum spune povestea de la început."
+          },
+          {
+            "id": "q2",
+            "question": "Câte bărci au numărat Glimsi și prietenii ei?",
+            "answers": [
+              "zece",
+              "cinci",
+              "douăsprezece"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Ei au numărat zece bărci ghidate de far spre casă."
+          },
+          {
+            "id": "q3",
+            "question": "Ce au adus copiii cu ei la far?",
+            "answers": [
+              "pături moi și felinare mici",
+              "jucării și mingi",
+              "cărți și mere"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "Copiii au adus pături moi și felinare mici ca să stea confortabil."
+          }
+        ],
+        "endingState": {
+          "location": "stânca de lângă far",
+          "heroState": "Glimsi stă liniștită lângă far, simțindu-se calmă și somnoroasă",
+          "castPresent": [
+            "Glimsi",
+            "Max",
+            "Anna"
+          ],
+          "completedActivity": "a stat cu farul și a numărat bărcile ghidate acasă",
+          "importantObjects": [
+            "farul Luminița",
+            "pături moi",
+            "felinare mici"
+          ],
+          "openThreads": [
+            "farul odihnindu-se după numărătoare"
+          ],
+          "endingImage": "farul strălucind blând lângă copii așezați pe trepte sub stele"
         }
       }
     ]
