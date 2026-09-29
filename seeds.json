@@ -4,11 +4,13 @@
     {
       "key": "emotions",
       "title": "Emotions",
+      "titleRo": "Emoții",
       "icon": "💛",
       "seeds": [
         {
           "emoji": "😤",
           "title": "When I Feel Angry",
+          "titleRo": "Când mă supăr",
           "prompt": "A child who feels very angry and learns to calm down by taking deep breaths and talking about feelings",
           "id": "emotions-when-i-feel-angry",
           "enabled": true,
@@ -23,6 +25,7 @@
         {
           "emoji": "😢",
           "title": "It Is Okay to Cry",
+          "titleRo": "E în regulă să plângi",
           "prompt": "A child who feels sad and learns that it is perfectly fine to cry and that feelings always get better",
           "id": "emotions-it-is-okay-to-cry",
           "enabled": true,
@@ -37,6 +40,7 @@
         {
           "emoji": "😨",
           "title": "When I Feel Worried",
+          "titleRo": "Când îmi fac griji",
           "prompt": "A child who feels anxious and scared about something new and learns that talking to someone kind always helps",
           "id": "emotions-when-i-feel-worried",
           "enabled": true,
@@ -51,6 +55,7 @@
         {
           "emoji": "😒",
           "title": "When Things Are Not Fair",
+          "titleRo": "Când nu e corect",
           "prompt": "A child who feels jealous when a friend gets something they want, and learns to be happy for others",
           "id": "emotions-when-things-are-not-fair",
           "enabled": true,
@@ -65,6 +70,7 @@
         {
           "emoji": "🥺",
           "title": "I Miss You So Much",
+          "titleRo": "Mi-e dor de tine",
           "prompt": "A child who misses grandma very much and learns that love keeps us close even when people are far away",
           "id": "emotions-i-miss-you-so-much",
           "enabled": true,
@@ -79,6 +85,7 @@
         {
           "emoji": "😳",
           "title": "When I Made a Mistake",
+          "titleRo": "Când am greșit",
           "prompt": "A child who makes a mistake and feels bad, and learns that saying sorry and trying again is what matters",
           "id": "emotions-when-i-made-a-mistake",
           "enabled": true,
@@ -93,6 +100,7 @@
         {
           "emoji": "😞",
           "title": "When I Feel Left Out",
+          "titleRo": "Când mă simt pe dinafară",
           "prompt": "A child who feels left out when friends play without them, and finds the courage to join in gently",
           "id": "emotions-when-i-feel-left-out",
           "enabled": true,
@@ -107,6 +115,7 @@
         {
           "emoji": "😟",
           "title": "The Dark Is Okay",
+          "titleRo": "Întunericul e în regulă",
           "prompt": "A child who is afraid of the dark at bedtime and learns that nighttime is safe, cozy, and full of rest",
           "id": "emotions-the-dark-is-okay",
           "enabled": true,
@@ -121,6 +130,7 @@
         {
           "emoji": "😔",
           "title": "When I Am Disappointed",
+          "titleRo": "Când ceva mă dezamăgește",
           "prompt": "A child who is very disappointed when plans change, and learns that new plans can bring new surprises",
           "id": "emotions-when-i-am-disappointed",
           "enabled": true,
@@ -135,6 +145,7 @@
         {
           "emoji": "😬",
           "title": "I Feel So Embarrassed",
+          "titleRo": "Mi-e tare rușine",
           "prompt": "A child who feels embarrassed after a small mishap, and learns that everyone makes funny mistakes sometimes",
           "id": "emotions-i-feel-so-embarrassed",
           "enabled": true,
@@ -149,6 +160,7 @@
         {
           "emoji": "🤒",
           "title": "When I Feel Sick",
+          "titleRo": "Când mi-e rău",
           "prompt": "A child who feels poorly and a little scared, and learns that rest, kindness, and warm soup make everything better",
           "id": "emotions-when-i-feel-sick",
           "enabled": true,
@@ -163,6 +175,7 @@
         {
           "emoji": "😣",
           "title": "I Cannot Wait",
+          "titleRo": "Abia aștept!",
           "prompt": "A child who feels very impatient waiting for something exciting, and learns that good things are worth waiting for",
           "id": "emotions-i-cannot-wait",
           "enabled": true,
@@ -177,6 +190,7 @@
         {
           "emoji": "😰",
           "title": "Too Many Feelings",
+          "titleRo": "Prea multe emoții",
           "prompt": "A child who feels overwhelmed and does not understand all their big feelings at once, and learns to slow down and breathe",
           "id": "emotions-too-many-feelings",
           "enabled": true,
@@ -191,6 +205,7 @@
         {
           "emoji": "🥹",
           "title": "Sharing Feels Good",
+          "titleRo": "E frumos să împarți",
           "prompt": "A child who does not want to share at first but discovers that sharing brings more happiness than keeping things alone",
           "id": "emotions-sharing-feels-good",
           "enabled": true,
@@ -205,6 +220,7 @@
         {
           "emoji": "😴",
           "title": "Worried at Bedtime",
+          "titleRo": "Griji la culcare",
           "prompt": "A child who lies awake with worried thoughts and learns a gentle breathing trick to let worries float away like clouds",
           "id": "emotions-worried-at-bedtime",
           "enabled": true,
@@ -233,11 +249,13 @@
     {
       "key": "kindergarten",
       "title": "Kindergarten",
+      "titleRo": "Grădiniță",
       "icon": "🏫",
       "seeds": [
         {
           "emoji": "🎨",
           "title": "Painting Day",
+          "titleRo": "Ziua picturii",
           "prompt": "A child who paints a big colorful picture at kindergarten and proudly shows the teacher",
           "id": "kindergarten-painting-day",
           "enabled": true,
@@ -252,6 +270,7 @@
         {
           "emoji": "🧩",
           "title": "The Puzzle Friends",
+          "titleRo": "Prietenii puzzle-ului",
           "prompt": "Two kindergarten friends who work together to finish a giant floor puzzle",
           "id": "kindergarten-the-puzzle-friends",
           "enabled": true,
@@ -266,6 +285,7 @@
         {
           "emoji": "🍎",
           "title": "Snack Time",
+          "titleRo": "Ora gustării",
           "prompt": "A child who happily shares apple slices with new friends at snack time",
           "id": "kindergarten-snack-time",
           "enabled": true,
@@ -280,6 +300,7 @@
         {
           "emoji": "🎵",
           "title": "The Music Circle",
+          "titleRo": "Cercul muzicii",
           "prompt": "A class of little ones who sing and clap together in a happy morning music circle",
           "id": "kindergarten-the-music-circle",
           "enabled": true,
@@ -294,6 +315,7 @@
         {
           "emoji": "🧸",
           "title": "The Lost Teddy",
+          "titleRo": "Ursulețul pierdut",
           "prompt": "A child who kindly helps a friend find a teddy bear left behind at kindergarten",
           "id": "kindergarten-the-lost-teddy",
           "enabled": true,
@@ -308,6 +330,7 @@
         {
           "emoji": "🌱",
           "title": "The Tiny Seed",
+          "titleRo": "Sămânța mică",
           "prompt": "A class who plant little seeds in cups and watch them grow on the sunny windowsill",
           "id": "kindergarten-the-tiny-seed",
           "enabled": true,
@@ -322,6 +345,7 @@
         {
           "emoji": "🤝",
           "title": "Taking Turns",
+          "titleRo": "Pe rând",
           "prompt": "A child who learns the happy joy of taking turns on the kindergarten slide",
           "id": "kindergarten-taking-turns",
           "enabled": true,
@@ -336,6 +360,7 @@
         {
           "emoji": "📚",
           "title": "Story Corner",
+          "titleRo": "Colțul poveștilor",
           "prompt": "Little ones who gather on a soft rug for a cozy story with their gentle teacher",
           "id": "kindergarten-story-corner",
           "enabled": true,
@@ -350,6 +375,7 @@
         {
           "emoji": "🖍️",
           "title": "My Own Name",
+          "titleRo": "Numele meu",
           "prompt": "A shy child who learns to write their very own name for the first time",
           "id": "kindergarten-my-own-name",
           "enabled": true,
@@ -364,6 +390,7 @@
         {
           "emoji": "🎉",
           "title": "The Class Party",
+          "titleRo": "Petrecerea clasei",
           "prompt": "A kindergarten class who decorate the room together for a gentle little celebration",
           "id": "kindergarten-the-class-party",
           "enabled": true,
@@ -378,6 +405,7 @@
         {
           "emoji": "🫧",
           "title": "Bubbly Hands",
+          "titleRo": "Mânuțe cu spumă",
           "prompt": "A child who discovers the splashy, bubbly fun of washing hands before lunch",
           "id": "kindergarten-bubbly-hands",
           "enabled": true,
@@ -392,6 +420,7 @@
         {
           "emoji": "🦸",
           "title": "Dress-Up Day",
+          "titleRo": "Ziua costumelor",
           "prompt": "Children who play dress-up and become gentle, kind little heroes for an afternoon",
           "id": "kindergarten-dress-up-day",
           "enabled": true,
@@ -406,6 +435,7 @@
         {
           "emoji": "🐛",
           "title": "The Garden Visitor",
+          "titleRo": "Musafirul din grădină",
           "prompt": "A class who gently watch a little caterpillar visit their play garden",
           "id": "kindergarten-the-garden-visitor",
           "enabled": true,
@@ -420,6 +450,7 @@
         {
           "emoji": "🛌",
           "title": "Nap Time",
+          "titleRo": "Ora de somn",
           "prompt": "A child who settles down for a calm, cozy nap on a soft mat at kindergarten",
           "id": "kindergarten-nap-time",
           "enabled": true,
@@ -434,6 +465,7 @@
         {
           "emoji": "👋",
           "title": "See You Tomorrow",
+          "titleRo": "Pe mâine!",
           "prompt": "A child who waves a happy goodbye to friends at the end of a kindergarten day",
           "id": "kindergarten-see-you-tomorrow",
           "enabled": true,
@@ -462,11 +494,13 @@
     {
       "key": "park",
       "title": "Park Play",
+      "titleRo": "Joacă în parc",
       "icon": "🦋",
       "seeds": [
         {
           "emoji": "⚽",
           "title": "The Friendly Match",
+          "titleRo": "Meciul prietenos",
           "prompt": "Children who play a gentle game of ball together on the soft green grass",
           "id": "park-the-friendly-match",
           "enabled": true,
@@ -481,6 +515,7 @@
         {
           "emoji": "🛝",
           "title": "The Big Slide",
+          "titleRo": "Toboganul cel mare",
           "prompt": "A child who makes a new friend at the top of the tallest, fastest slide",
           "id": "park-the-big-slide",
           "enabled": true,
@@ -495,6 +530,7 @@
         {
           "emoji": "🪁",
           "title": "Flying a Kite",
+          "titleRo": "Înălțăm zmeul",
           "prompt": "Two friends who fly a colorful kite together on a gentle breezy afternoon",
           "id": "park-flying-a-kite",
           "enabled": true,
@@ -509,6 +545,7 @@
         {
           "emoji": "🤸",
           "title": "The Cartwheel",
+          "titleRo": "Roata",
           "prompt": "A child who cheers on a friend learning to tumble softly on the grass",
           "id": "park-the-cartwheel",
           "enabled": true,
@@ -523,6 +560,7 @@
         {
           "emoji": "🦆",
           "title": "Feeding the Ducks",
+          "titleRo": "Hrănim rățuștele",
           "prompt": "Children who toss gentle crumbs to happy ducks at the calm park pond",
           "id": "park-feeding-the-ducks",
           "enabled": true,
@@ -537,6 +575,7 @@
         {
           "emoji": "🌼",
           "title": "The Flower Crown",
+          "titleRo": "Coronița de flori",
           "prompt": "Friends who weave a pretty crown of daisies together in a sunny meadow",
           "id": "park-the-flower-crown",
           "enabled": true,
@@ -551,6 +590,7 @@
         {
           "emoji": "🧺",
           "title": "The Shared Picnic",
+          "titleRo": "Picnicul împărțit",
           "prompt": "Children who share a cozy picnic blanket and kindly trade tasty treats",
           "id": "park-the-shared-picnic",
           "enabled": true,
@@ -565,6 +605,7 @@
         {
           "emoji": "🏃",
           "title": "The Gentle Race",
+          "titleRo": "Cursa blândă",
           "prompt": "Little ones who run a giggly, friendly race to the big old oak tree",
           "id": "park-the-gentle-race",
           "enabled": true,
@@ -579,6 +620,7 @@
         {
           "emoji": "🫧",
           "title": "Chasing Bubbles",
+          "titleRo": "Baloane de săpun",
           "prompt": "Children who chase and pop shimmering soap bubbles together in the park",
           "id": "park-chasing-bubbles",
           "enabled": true,
@@ -593,6 +635,7 @@
         {
           "emoji": "🐿️",
           "title": "The Little Squirrel",
+          "titleRo": "Veverițica",
           "prompt": "Friends who quietly watch a playful squirrel gather acorns in the trees",
           "id": "park-the-little-squirrel",
           "enabled": true,
@@ -607,6 +650,7 @@
         {
           "emoji": "🛼",
           "title": "Learning to Roll",
+          "titleRo": "Primele role",
           "prompt": "A child puts on roller skates, holds a friend's hand, and learns to glide gently along the park path",
           "id": "park-learning-to-roll",
           "enabled": true,
@@ -621,6 +665,7 @@
         {
           "emoji": "🏰",
           "title": "The Sandbox Castle",
+          "titleRo": "Castelul din nisip",
           "prompt": "Friends who build a grand, gentle sandcastle together in the park sandbox",
           "id": "park-the-sandbox-castle",
           "enabled": true,
@@ -635,6 +680,7 @@
         {
           "emoji": "🎠",
           "title": "The Carousel",
+          "titleRo": "Călușeii",
           "prompt": "Children who ride a gentle carousel round and round on a happy afternoon",
           "id": "park-the-carousel",
           "enabled": true,
@@ -649,6 +695,7 @@
         {
           "emoji": "🌈",
           "title": "After the Rain",
+          "titleRo": "După ploaie",
           "prompt": "Friends who softly splash in little puddles and spot a rainbow together",
           "id": "park-after-the-rain",
           "enabled": true,
@@ -663,6 +710,7 @@
         {
           "emoji": "🤹",
           "title": "The Clapping Game",
+          "titleRo": "Jocul din palme",
           "prompt": "A child who teaches a new friend a fun, gentle clapping game in the park",
           "id": "park-the-clapping-game",
           "enabled": true,
@@ -691,11 +739,13 @@
     {
       "key": "family",
       "title": "Family Time",
+      "titleRo": "Timp în familie",
       "icon": "🏡",
       "seeds": [
         {
           "emoji": "🍪",
           "title": "Baking Cookies",
+          "titleRo": "Coacem biscuiți",
           "prompt": "A child who bakes warm, sweet cookies with family on a cozy afternoon",
           "id": "family-baking-cookies",
           "enabled": true,
@@ -710,6 +760,7 @@
         {
           "emoji": "🎲",
           "title": "Game Night",
+          "titleRo": "Seara jocurilor",
           "prompt": "A family who gather for a gentle, giggly board game evening together",
           "id": "family-game-night",
           "enabled": true,
@@ -724,6 +775,7 @@
         {
           "emoji": "🏕️",
           "title": "Backyard Camp",
+          "titleRo": "Cort în curte",
           "prompt": "A family who pitch a little tent and tell soft stories in the backyard",
           "id": "family-backyard-camp",
           "enabled": true,
@@ -738,6 +790,7 @@
         {
           "emoji": "🎬",
           "title": "Movie Night",
+          "titleRo": "Seara de film",
           "prompt": "A child who snuggles under a soft blanket for a cozy family movie night",
           "id": "family-movie-night",
           "enabled": true,
@@ -752,6 +805,7 @@
         {
           "emoji": "🌻",
           "title": "Gardening Together",
+          "titleRo": "Grădinărim împreună",
           "prompt": "A child who plants bright, cheerful flowers with grandma in the garden",
           "id": "family-gardening-together",
           "enabled": true,
@@ -766,6 +820,7 @@
         {
           "emoji": "🍲",
           "title": "Making Soup",
+          "titleRo": "Facem supă",
           "prompt": "A family who stir a warm, tasty pot of soup together on a chilly day",
           "id": "family-making-soup",
           "enabled": true,
@@ -780,6 +835,7 @@
         {
           "emoji": "📖",
           "title": "Grandpa's Story",
+          "titleRo": "Povestea bunicului",
           "prompt": "A child who listens to a gentle tale from grandpa by the sunny window",
           "id": "family-grandpa-s-story",
           "enabled": true,
@@ -794,6 +850,7 @@
         {
           "emoji": "🧶",
           "title": "By the Fire",
+          "titleRo": "Lângă foc",
           "prompt": "A child winds loose soft yarn into a neat ball beside a warm, crackling fireplace",
           "id": "family-by-the-fire",
           "enabled": true,
@@ -808,6 +865,7 @@
         {
           "emoji": "🚗",
           "title": "The Sunday Drive",
+          "titleRo": "Plimbarea de duminică",
           "prompt": "A family who take a calm, happy drive to see the rolling green hills",
           "id": "family-the-sunday-drive",
           "enabled": true,
@@ -822,6 +880,7 @@
         {
           "emoji": "🐱",
           "title": "The Family Cat",
+          "titleRo": "Pisica familiei",
           "prompt": "A child and family who lovingly care for a soft, sleepy family cat",
           "id": "family-the-family-cat",
           "enabled": true,
@@ -836,6 +895,7 @@
         {
           "emoji": "🎂",
           "title": "Grandma's Birthday",
+          "titleRo": "Ziua bunicii",
           "prompt": "A family who surprise grandma with a gentle, warm birthday tea",
           "id": "family-grandma-s-birthday",
           "enabled": true,
@@ -850,6 +910,7 @@
         {
           "emoji": "🧹",
           "title": "The Tidy-Up Song",
+          "titleRo": "Cântecul de strâns",
           "prompt": "A family who sing a happy song while tidying the cozy house together",
           "id": "family-the-tidy-up-song",
           "enabled": true,
@@ -864,6 +925,7 @@
         {
           "emoji": "🥞",
           "title": "Pancake Morning",
+          "titleRo": "Dimineața cu clătite",
           "prompt": "A child who flips fluffy pancakes with dad on a slow, sunny Sunday morning",
           "id": "family-pancake-morning",
           "enabled": true,
@@ -878,6 +940,7 @@
         {
           "emoji": "🤗",
           "title": "Goodnight Hugs",
+          "titleRo": "Îmbrățișări de noapte bună",
           "prompt": "A child who gives warm goodnight hugs to everyone in the family",
           "id": "family-goodnight-hugs",
           "enabled": true,
@@ -892,6 +955,7 @@
         {
           "emoji": "📸",
           "title": "The Photo Album",
+          "titleRo": "Albumul cu poze",
           "prompt": "A family who look through a warm album of happy memories together",
           "id": "family-the-photo-album",
           "enabled": true,
@@ -920,11 +984,13 @@
     {
       "key": "bedtime",
       "title": "Bedtime",
+      "titleRo": "La culcare",
       "icon": "🌙",
       "seeds": [
         {
           "emoji": "🛁",
           "title": "Bath Time",
+          "titleRo": "Ora de baie",
           "prompt": "A child who has to stop playing and take a bath before bed, even though they are not ready to stop, and discovers that bath time can actually be fun",
           "id": "bedtime-bath-time",
           "enabled": true,
@@ -939,6 +1005,7 @@
         {
           "emoji": "🦷",
           "title": "Clean Teeth",
+          "titleRo": "Dinți curați",
           "prompt": "A child who feels too tired to brush their teeth before bed but learns why clean teeth matter, and finds a way to make brushing feel like less of a chore",
           "id": "bedtime-clean-teeth",
           "enabled": true,
@@ -953,6 +1020,7 @@
         {
           "emoji": "🧸",
           "title": "Where Is Bear?",
+          "titleRo": "Unde e Ursulețul?",
           "prompt": "A child who cannot find their beloved stuffed bear at bedtime and the whole family helps search the house until it turns up in a funny hiding place",
           "id": "bedtime-where-is-bear",
           "enabled": true,
@@ -967,6 +1035,7 @@
         {
           "emoji": "🌛",
           "title": "One More Hug",
+          "titleRo": "Încă o îmbrățișare",
           "prompt": "A child who keeps coming back downstairs for one more hug, one more drink of water, and one more question, and mum gently helps them settle for the night",
           "id": "bedtime-one-more-hug",
           "enabled": true,
@@ -981,6 +1050,7 @@
         {
           "emoji": "💡",
           "title": "My Night Light",
+          "titleRo": "Lămpița mea de noapte",
           "prompt": "A child who feels a little nervous going to sleep in the dark and gets to choose their very first night light, which makes bedtime feel much cosier",
           "id": "bedtime-my-night-light",
           "enabled": true,
@@ -995,6 +1065,7 @@
         {
           "emoji": "😴",
           "title": "Too Excited to Sleep",
+          "titleRo": "Nu pot dormi de bucurie",
           "prompt": "A child who cannot stop wriggling in bed the night before their birthday because they are so excited, and slowly learns to calm down and rest",
           "id": "bedtime-too-excited-to-sleep",
           "enabled": true,
@@ -1009,6 +1080,7 @@
         {
           "emoji": "⛈️",
           "title": "The Loud Thunder",
+          "titleRo": "Tunetul puternic",
           "prompt": "A child who is woken by a thunderstorm and feels scared, and mum explains what thunder is while they snuggle up safe together until the storm passes",
           "id": "bedtime-the-loud-thunder",
           "enabled": true,
@@ -1023,6 +1095,7 @@
         {
           "emoji": "🧸",
           "title": "My Big Kid Bed",
+          "titleRo": "Patul meu de copil mare",
           "prompt": "A child who moves from their cot to their very first big-kid bed and feels proud but also a tiny bit wobbly about the change",
           "id": "bedtime-my-big-kid-bed",
           "enabled": true,
@@ -1037,6 +1110,7 @@
         {
           "emoji": "😬",
           "title": "After a Bad Dream",
+          "titleRo": "După un vis urât",
           "prompt": "A child who has a frightening dream and calls for dad, who comes straight away and gently explains that dreams are not real and helps them feel safe again",
           "id": "bedtime-after-a-bad-dream",
           "enabled": true,
@@ -1051,6 +1125,7 @@
         {
           "emoji": "🌙",
           "title": "Sleeping at Grandma's",
+          "titleRo": "Dorm la bunica",
           "prompt": "A child who sleeps at grandma's house for the very first time with their own pillow from home, and realises that grandma's house is actually very cosy",
           "id": "bedtime-sleeping-at-grandma-s",
           "enabled": true,
@@ -1065,6 +1140,7 @@
         {
           "emoji": "☀️",
           "title": "Too Early!",
+          "titleRo": "Prea devreme!",
           "prompt": "A child who wakes up when it is still dark outside and wants to get up but learns that everyone needs to rest a little longer, and finds quiet ways to wait",
           "id": "bedtime-too-early",
           "enabled": true,
@@ -1079,6 +1155,7 @@
         {
           "emoji": "📚",
           "title": "My Bedtime Routine",
+          "titleRo": "Ritualul de culcare",
           "prompt": "A child who does their whole bedtime routine completely by themselves for the very first time: bath, teeth, pyjamas, and story, feeling very grown-up at the end",
           "id": "bedtime-my-bedtime-routine",
           "enabled": true,
@@ -1093,6 +1170,7 @@
         {
           "emoji": "👕",
           "title": "Pyjama Night",
+          "titleRo": "Seara pijamalelor",
           "prompt": "A child who gets to choose their favourite pyjamas and accidentally puts them on inside-out, making the whole family laugh at bedtime",
           "id": "bedtime-pyjama-night",
           "enabled": true,
@@ -1107,6 +1185,7 @@
         {
           "emoji": "🌟",
           "title": "Goodnight Everyone",
+          "titleRo": "Noapte bună, tuturor",
           "prompt": "A child who says a very thorough goodnight to every person, every toy, and every corner of their room before they can finally settle down to sleep",
           "id": "bedtime-goodnight-everyone",
           "enabled": true,
@@ -1121,6 +1200,7 @@
         {
           "emoji": "🐶",
           "title": "The Dog on the Bed",
+          "titleRo": "Cățelul din pat",
           "prompt": "A child who quietly lets the family dog sneak onto the bed for company at night and wonders if mum and dad will notice in the morning",
           "id": "bedtime-the-dog-on-the-bed",
           "enabled": true,
@@ -1149,6 +1229,7 @@
     {
       "key": "explorer",
       "title": "Curious Explorer",
+      "titleRo": "Micul explorator",
       "icon": "🔭",
       "theme": {
         "colors": [
@@ -1166,6 +1247,7 @@
         {
           "emoji": "🌈",
           "title": "Where Rainbows Hide",
+          "titleRo": "Unde se ascund curcubeele",
           "prompt": "A child who follows the sunshine through a garden sprinkler and discovers how light makes a rainbow",
           "id": "explorer-where-rainbows-hide",
           "enabled": true,
@@ -1180,6 +1262,7 @@
         {
           "emoji": "🌧️",
           "title": "The Journey of a Raindrop",
+          "titleRo": "Drumul picăturii de ploaie",
           "prompt": "A child who imagines riding along with a raindrop from a cloud to a puddle and back up into the sky",
           "id": "explorer-the-journey-of-a-raindrop",
           "enabled": true,
@@ -1194,6 +1277,7 @@
         {
           "emoji": "🌱",
           "title": "The Seed That Woke Up",
+          "titleRo": "Sămânța care s-a trezit",
           "prompt": "A child who plants a bean in a cup and watches, day by day, as it grows roots, a stem, and leaves",
           "id": "explorer-the-seed-that-woke-up",
           "enabled": true,
@@ -1208,6 +1292,7 @@
         {
           "emoji": "🌙",
           "title": "Why the Moon Changes",
+          "titleRo": "De ce se schimbă Luna",
           "prompt": "A child who notices the moon looks different every night and discovers why it seems to grow and shrink",
           "id": "explorer-why-the-moon-changes",
           "enabled": true,
@@ -1222,6 +1307,7 @@
         {
           "emoji": "🐛",
           "title": "Caterpillar to Butterfly",
+          "titleRo": "Din omidă, fluture",
           "prompt": "A child who watches a hungry caterpillar build a chrysalis and waits patiently for a butterfly to appear",
           "id": "explorer-caterpillar-to-butterfly",
           "enabled": true,
@@ -1236,6 +1322,7 @@
         {
           "emoji": "🧲",
           "title": "The Magic of Magnets",
+          "titleRo": "Magia magneților",
           "prompt": "A child who explores which things a magnet can pick up and which ones it cannot",
           "id": "explorer-the-magic-of-magnets",
           "enabled": true,
@@ -1250,6 +1337,7 @@
         {
           "emoji": "🔦",
           "title": "Shadow Friends",
+          "titleRo": "Prietenii-umbre",
           "prompt": "A child who plays with a flashlight and learns why shadows grow big, shrink small, and change shape",
           "id": "explorer-shadow-friends",
           "enabled": true,
@@ -1264,6 +1352,7 @@
         {
           "emoji": "🐜",
           "title": "The Ant Parade",
+          "titleRo": "Parada furnicilor",
           "prompt": "A child who follows a line of busy ants and discovers how they work together and share their food",
           "id": "explorer-the-ant-parade",
           "enabled": true,
@@ -1278,6 +1367,7 @@
         {
           "emoji": "🔭",
           "title": "Counting the Stars",
+          "titleRo": "Numărăm stelele",
           "prompt": "A child who looks through a telescope with a grown-up and learns that stars are faraway suns",
           "id": "explorer-counting-the-stars",
           "enabled": true,
@@ -1292,6 +1382,7 @@
         {
           "emoji": "🧊",
           "title": "The Melting Ice Cube",
+          "titleRo": "Gheața care se topește",
           "prompt": "A child who wonders where an ice cube goes on a warm day and discovers how water changes shape",
           "id": "explorer-the-melting-ice-cube",
           "enabled": true,
@@ -1306,6 +1397,7 @@
         {
           "emoji": "🦕",
           "title": "Dinosaur Footprints",
+          "titleRo": "Urme de dinozaur",
           "prompt": "A child who finds a fossil at the museum and imagines the gentle giants that lived long, long ago",
           "id": "explorer-dinosaur-footprints",
           "enabled": true,
@@ -1320,6 +1412,7 @@
         {
           "emoji": "🌋",
           "title": "The Fizzy Volcano",
+          "titleRo": "Vulcanul spumos",
           "prompt": "A child who builds a baking soda volcano with a grown-up and finds out why it bubbles and fizzes",
           "id": "explorer-the-fizzy-volcano",
           "enabled": true,
@@ -1334,6 +1427,7 @@
         {
           "emoji": "🐚",
           "title": "Secrets of the Tide Pool",
+          "titleRo": "Tainele de pe țărm",
           "prompt": "A child who explores a tide pool at the beach and meets crabs, starfish, and tiny snails",
           "id": "explorer-secrets-of-the-tide-pool",
           "enabled": true,
@@ -1348,6 +1442,7 @@
         {
           "emoji": "🌬️",
           "title": "Where the Wind Goes",
+          "titleRo": "Unde se duce vântul",
           "prompt": "A child who makes a pinwheel and discovers what wind is and where it likes to blow",
           "id": "explorer-where-the-wind-goes",
           "enabled": true,
@@ -1362,6 +1457,7 @@
         {
           "emoji": "🐝",
           "title": "The Busy Bee",
+          "titleRo": "Albinuța harnică",
           "prompt": "A child who watches bees visit flowers and learns how they help fruits and flowers grow",
           "id": "explorer-the-busy-bee",
           "enabled": true,
@@ -1378,11 +1474,13 @@
     {
       "key": "tomorrow",
       "title": "Story for Tomorrow",
+      "titleRo": "Povestea pentru mâine",
       "icon": "🗓️",
       "seeds": [
         {
           "emoji": "🦷",
           "title": "Dentist",
+          "titleRo": "La dentist",
           "prompt": "a reassuring story where a little hero visits the dentist, feels a bit nervous in the big chair, is gently helped, and leaves proud with a sparkling smile",
           "id": "tomorrow-dentist",
           "enabled": true,
@@ -1397,6 +1495,7 @@
         {
           "emoji": "💉",
           "title": "Doctor visit",
+          "titleRo": "La doctor",
           "prompt": "a gentle story where a little hero gets a quick check-up and a tiny vaccine, squeezes a grown-up's hand, and feels brave and fine right after",
           "id": "tomorrow-doctor-visit",
           "enabled": true,
@@ -1411,6 +1510,7 @@
         {
           "emoji": "🎒",
           "title": "Kindergarten",
+          "titleRo": "Grădinița",
           "prompt": "a warm story where a little hero spends a day at kindergarten, misses home a little, plays with a friend, and can't wait to go back tomorrow",
           "id": "tomorrow-kindergarten",
           "enabled": true,
@@ -1425,6 +1525,7 @@
         {
           "emoji": "🎂",
           "title": "Birthday party",
+          "titleRo": "Petrecere aniversară",
           "prompt": "a joyful story where a little hero feels a little shy walking into a birthday party, but sings, plays games, and has the most wonderful time",
           "id": "tomorrow-birthday-party",
           "enabled": true,
@@ -1439,6 +1540,7 @@
         {
           "emoji": "✂️",
           "title": "Haircut",
+          "titleRo": "La tuns",
           "prompt": "a playful story where a little hero gets a haircut, hears the funny snip-snip sounds, and loves how they look after",
           "id": "tomorrow-haircut",
           "enabled": true,
@@ -1453,6 +1555,7 @@
         {
           "emoji": "✈️",
           "title": "Airplane",
+          "titleRo": "Cu avionul",
           "prompt": "a cozy story where a little hero takes an airplane ride, watches the clouds go by, and lands happy with popping ears and a big smile",
           "id": "tomorrow-airplane",
           "enabled": true,
@@ -1467,6 +1570,7 @@
         {
           "emoji": "🚗",
           "title": "Car trip",
+          "titleRo": "Drum cu mașina",
           "prompt": "a cheerful story where a little hero feels restless on a long car ride, plays fun games along the way, and arrives happy and excited",
           "id": "tomorrow-car-trip",
           "enabled": true,
@@ -1481,6 +1585,7 @@
         {
           "emoji": "🌙",
           "title": "Sleepover",
+          "titleRo": "Noaptea la un prieten",
           "prompt": "a snug story where a little hero sleeps over at grandma's, feels a flutter of missing home, and wakes up proud and happy",
           "id": "tomorrow-sleepover",
           "enabled": true,
@@ -1495,6 +1600,7 @@
         {
           "emoji": "🏊",
           "title": "Swimming Lesson",
+          "titleRo": "Lecția de înot",
           "prompt": "a brave story where a little hero feels nervous stepping into the pool for a first swimming lesson, but with a friendly instructor's help learns to float, kick, and giggle with new confidence",
           "id": "tomorrow-swimming-lesson",
           "enabled": true,
@@ -1525,6 +1631,7 @@
     {
       "key": "christmas",
       "title": "Christmas Magic",
+      "titleRo": "Magia Crăciunului",
       "icon": "🎄",
       "theme": {
         "colors": [
@@ -1549,76 +1656,91 @@
         {
           "emoji": "🎄",
           "title": "The Perfect Tree",
+          "titleRo": "Bradul perfect",
           "prompt": "A family walks through a snowy tree farm to pick their Christmas tree and the smallest, crookedest one turns out to be perfect"
         },
         {
           "emoji": "⛄",
           "title": "Snowman Friend",
+          "titleRo": "Prietenul de zăpadă",
           "prompt": "A child builds a snowman with a carrot nose and comes back each morning to tell him about the day"
         },
         {
           "emoji": "🎁",
           "title": "Secret Present",
+          "titleRo": "Cadoul secret",
           "prompt": "A child makes a secret present for mama and finds clever hiding places to keep the surprise safe until Christmas morning"
         },
         {
           "emoji": "🍪",
           "title": "Cookies for Santa",
+          "titleRo": "Biscuiți pentru Moș",
           "prompt": "A child and grandma bake star-shaped cookies for Santa and leave the prettiest one by the fireplace with a glass of milk"
         },
         {
           "emoji": "🦌",
           "title": "Little Reindeer",
+          "titleRo": "Renișorul",
           "prompt": "A little reindeer who is still learning to trot dreams of one day helping pull the big sleigh"
         },
         {
           "emoji": "🧦",
           "title": "Stocking Surprise",
+          "titleRo": "Surpriza din ciorap",
           "prompt": "A child hangs a stocking by the fireplace and wakes to find it filled with tiny wonderful things"
         },
         {
           "emoji": "✨",
           "title": "Lights Walk",
+          "titleRo": "Plimbare printre lumini",
           "prompt": "A family takes an evening walk through the neighborhood to admire the twinkling Christmas lights on every house"
         },
         {
           "emoji": "🎶",
           "title": "Carol Singing",
+          "titleRo": "Colindăm",
           "prompt": "A child feels nervous about singing carols with the class but finds courage when the whole room joins in"
         },
         {
           "emoji": "❄️",
           "title": "First Snowflake",
+          "titleRo": "Primul fulg",
           "prompt": "A child catches the very first snowflake of winter on a mitten and studies its tiny perfect shape"
         },
         {
           "emoji": "🛷",
           "title": "Sled Ride",
+          "titleRo": "Cu sania",
           "prompt": "A child rides a sled down the gentle hill behind the house, cheeks pink and heart happy, with papa waiting at the bottom"
         },
         {
           "emoji": "🕯️",
           "title": "Advent Evening",
+          "titleRo": "Seara de Advent",
           "prompt": "A cozy evening when the family lights a candle, drinks warm tea, and each person shares their favorite moment of the day"
         },
         {
           "emoji": "👵",
           "title": "Grandma's Ornament",
+          "titleRo": "Globul bunicii",
           "prompt": "Grandma shows a child a very old glass ornament and tells the warm story of the Christmases it has seen"
         },
         {
           "emoji": "🥛",
           "title": "Hot Cocoa Night",
+          "titleRo": "Seara cu cacao",
           "prompt": "A child makes hot cocoa with extra marshmallows for the whole family after an afternoon of playing in the snow"
         },
         {
           "emoji": "🌟",
           "title": "Star on Top",
+          "titleRo": "Steaua din vârf",
           "prompt": "A child gets lifted high on papa's shoulders to place the golden star on the very top of the tree"
         },
         {
           "emoji": "🎅",
           "title": "Thank-You Note",
+          "titleRo": "Bilețelul de mulțumire",
           "prompt": "A child writes a thank-you note for Santa and receives a tiny sparkling reply on Christmas morning"
         }
       ]
@@ -1626,6 +1748,7 @@
     {
       "key": "newyears",
       "title": "New Year Sparkle",
+      "titleRo": "Sclipiri de Anul Nou",
       "icon": "🎆",
       "theme": {
         "colors": [
@@ -1650,76 +1773,91 @@
         {
           "emoji": "🎆",
           "title": "Fireworks from the Window",
+          "titleRo": "Artificii la fereastră",
           "prompt": "A child watches colorful fireworks bloom over the town from a cozy window seat wrapped in a blanket with mama"
         },
         {
           "emoji": "🎈",
           "title": "Balloon Countdown",
+          "titleRo": "Numărătoarea cu baloane",
           "prompt": "A family pops one balloon every hour on New Year's Eve, each one holding a little note with a fun mini-game inside"
         },
         {
           "emoji": "📝",
           "title": "Paper Wishes",
+          "titleRo": "Dorințe pe hârtie",
           "prompt": "A child draws wishes for the new year on colorful paper stars and hangs them on a branch by the window"
         },
         {
           "emoji": "🕛",
           "title": "Almost Midnight",
+          "titleRo": "Aproape miezul nopții",
           "prompt": "A child tries very hard to stay awake until midnight and falls asleep smiling to the soft sound of celebration"
         },
         {
           "emoji": "🗓️",
           "title": "The New Calendar",
+          "titleRo": "Calendarul nou",
           "prompt": "A child and papa hang the brand-new calendar and draw tiny pictures on all the days they are excited about"
         },
         {
           "emoji": "🥂",
           "title": "Sparkly Juice Toast",
+          "titleRo": "Toast cu suc spumant",
           "prompt": "A child raises a glass of sparkly apple juice at the family dinner and makes the sweetest toast of the evening"
         },
         {
           "emoji": "🎊",
           "title": "Confetti Craft",
+          "titleRo": "Confetti de casă",
           "prompt": "A child makes homemade confetti from colorful paper and throws it high when the clock strikes an early kid-midnight"
         },
         {
           "emoji": "🫙",
           "title": "The Wish Jar",
+          "titleRo": "Borcanul cu dorințe",
           "prompt": "A family fills a jar with little notes of happy moments all year and reads them together on New Year's Eve"
         },
         {
           "emoji": "💃",
           "title": "Kitchen Dance Party",
+          "titleRo": "Dans în bucătărie",
           "prompt": "A family turns the kitchen into a dance floor on New Year's Eve with silly moves and lots of laughing"
         },
         {
           "emoji": "🌅",
           "title": "First Morning Walk",
+          "titleRo": "Prima plimbare a anului",
           "prompt": "A child takes the very first walk of the new year with grandpa and they greet everyone they meet with a happy new year"
         },
         {
           "emoji": "🤝",
           "title": "Kind Promises",
+          "titleRo": "Promisiuni frumoase",
           "prompt": "A child thinks of three kind promises for the new year, like sharing toys and helping water the plants"
         },
         {
           "emoji": "⏳",
           "title": "Time Capsule",
+          "titleRo": "Capsula timpului",
           "prompt": "A child fills a small box with drawings and treasures to open next New Year's Eve and buries it in the toy chest"
         },
         {
           "emoji": "👴",
           "title": "Grandpa's Year of Stories",
+          "titleRo": "Anul poveștilor bunicului",
           "prompt": "Grandpa tells a child the funniest things that happened this year while they share the last cookies of December"
         },
         {
           "emoji": "💌",
           "title": "Thank You, Old Year",
+          "titleRo": "Mulțumim, an vechi",
           "prompt": "A child writes a goodbye letter to the old year, thanking it for the best adventures and favorite new friends"
         },
         {
           "emoji": "🔔",
           "title": "Midnight Bells",
+          "titleRo": "Clopote la miezul nopții",
           "prompt": "A child hears the far-away midnight bells while snuggled in bed and imagines them ringing in a year full of wonder"
         }
       ]
@@ -1727,6 +1865,7 @@
     {
       "key": "easter",
       "title": "Easter Morning",
+      "titleRo": "Dimineața de Paște",
       "icon": "🐰",
       "theme": {
         "colors": [
@@ -1855,76 +1994,91 @@
         {
           "emoji": "🥚",
           "title": "The Great Egg Hunt",
+          "titleRo": "Marea vânătoare de ouă",
           "prompt": "A child hunts for painted eggs hidden all over the garden and helps a little cousin find her very first one"
         },
         {
           "emoji": "🎨",
           "title": "Painting Eggs",
+          "titleRo": "Încondeiem ouă",
           "prompt": "A child and mama paint eggs in every color and one accidental splotch turns into the most beautiful design"
         },
         {
           "emoji": "🐰",
           "title": "Bunny Footprints",
+          "titleRo": "Urme de iepuraș",
           "prompt": "A child finds tiny flour footprints on the doorstep on Easter morning and follows them to a basket of surprises"
         },
         {
           "emoji": "🐥",
           "title": "The Fluffy Chick",
+          "titleRo": "Puiul pufos",
           "prompt": "A child meets a fluffy yellow chick at the farm and learns to hold it gently like a tiny cloud"
         },
         {
           "emoji": "🧺",
           "title": "Basket Weaving",
+          "titleRo": "Coșulețul împletit",
           "prompt": "A child decorates an Easter basket with ribbons and grass and makes it the coziest nest for chocolate eggs"
         },
         {
           "emoji": "🍫",
           "title": "Sharing the Chocolate Bunny",
+          "titleRo": "Iepurașul de ciocolată",
           "prompt": "A child gets a big chocolate bunny and decides the sweetest part is sharing an ear with a best friend"
         },
         {
           "emoji": "🌷",
           "title": "Planting Spring Flowers",
+          "titleRo": "Plantăm flori de primăvară",
           "prompt": "A child and grandma plant tulip bulbs by the fence and imagine the colors that will pop up"
         },
         {
           "emoji": "🥞",
           "title": "Easter Brunch",
+          "titleRo": "Masa de Paște",
           "prompt": "The whole family gathers for a sunny Easter brunch and a child helps carry the fruit to the big table"
         },
         {
           "emoji": "🦆",
           "title": "Ducklings at the Pond",
+          "titleRo": "Rățuștele de la iaz",
           "prompt": "A child watches a line of new ducklings wobble to the pond and cheers softly when the littlest one finally swims"
         },
         {
           "emoji": "🥕",
           "title": "Carrot Cake Helper",
+          "titleRo": "Prăjitura cu morcovi",
           "prompt": "A child helps grandpa grate carrots for a carrot cake and licks the spoon as the kitchen fills with sweet smells"
         },
         {
           "emoji": "🔄",
           "title": "Hiding Eggs for the Grown-Ups",
+          "titleRo": "Ouă ascunse pentru cei mari",
           "prompt": "A child hides eggs for mama and papa to find and giggles behind the curtain at their silly guesses"
         },
         {
           "emoji": "💌",
           "title": "The Kindness Egg",
+          "titleRo": "Oul bunătății",
           "prompt": "A child fills a special egg with tiny kind notes and leaves it on a neighbor's doorstep as a surprise"
         },
         {
           "emoji": "🏁",
           "title": "Egg and Spoon Race",
+          "titleRo": "Cursa cu oul în lingură",
           "prompt": "A child joins the egg-and-spoon race at the spring fair, wobbles bravely, and everyone cheers at the finish line"
         },
         {
           "emoji": "👒",
           "title": "Spring Bonnet Parade",
+          "titleRo": "Parada pălăriilor",
           "prompt": "A child decorates a paper hat with flowers and joins the neighborhood bonnet parade around the park"
         },
         {
           "emoji": "🌈",
           "title": "Rainbow Egg",
+          "titleRo": "Oul curcubeu",
           "prompt": "A child finds one mysterious rainbow-striped egg in the garden and wonders which color the surprise inside will be"
         }
       ]
@@ -1932,6 +2086,7 @@
     {
       "key": "mothersday",
       "title": "For Mama",
+      "titleRo": "Pentru mama",
       "icon": "💐",
       "theme": {
         "colors": [
@@ -1956,76 +2111,91 @@
         {
           "emoji": "🥐",
           "title": "Breakfast in Bed",
+          "titleRo": "Micul dejun la pat",
           "prompt": "A child and papa make a surprise breakfast tray with toast, berries, and a tiny flower for mama's special morning"
         },
         {
           "emoji": "💌",
           "title": "The Handmade Card",
+          "titleRo": "Felicitare făcută de mână",
           "prompt": "A child makes mama a card with glitter and a drawing of them holding hands, and hides it under her pillow"
         },
         {
           "emoji": "🌼",
           "title": "Picking Flowers",
+          "titleRo": "Culegem flori",
           "prompt": "A child picks the prettiest wildflowers on a walk and arranges them in a jar for the kitchen table"
         },
         {
           "emoji": "🫖",
           "title": "Tea Party for Mama",
+          "titleRo": "Ceai pentru mama",
           "prompt": "A child hosts a fancy pretend tea party where mama is the guest of honor with the biggest cushion"
         },
         {
           "emoji": "🖼️",
           "title": "Mama's Portrait",
+          "titleRo": "Portretul mamei",
           "prompt": "A child paints a portrait of mama with a huge smile and purple hair, and she loves it more than anything"
         },
         {
           "emoji": "🎵",
           "title": "Mama's Favorite Song",
+          "titleRo": "Cântecul preferat al mamei",
           "prompt": "A child secretly practices mama's favorite song and performs it after dinner with a wooden-spoon microphone"
         },
         {
           "emoji": "🌱",
           "title": "Planting Together",
+          "titleRo": "Plantăm împreună",
           "prompt": "A child and mama plant a little rose bush in the garden that will bloom every year on her special day"
         },
         {
           "emoji": "🧹",
           "title": "The Tidy Surprise",
+          "titleRo": "Surpriza de curățenie",
           "prompt": "A child quietly tidies the living room while mama naps and watches her happy surprised face from behind the sofa"
         },
         {
           "emoji": "🎟️",
           "title": "Hug Coupons",
+          "titleRo": "Bonuri de îmbrățișări",
           "prompt": "A child makes a booklet of coupons for hugs, kisses, and helping hands that mama can use any day"
         },
         {
           "emoji": "🍰",
           "title": "Baking Her Favorite Cake",
+          "titleRo": "Tortul ei preferat",
           "prompt": "A child helps grandma bake mama's favorite lemon cake and carries it to the table very, very carefully"
         },
         {
           "emoji": "👧",
           "title": "When Mama Was Little",
+          "titleRo": "Când mama era mică",
           "prompt": "Mama shows a child her old photo album and tells stories about when she was small and loved puddles too"
         },
         {
           "emoji": "🤲",
           "title": "Helper for a Day",
+          "titleRo": "Ajutor pentru o zi",
           "prompt": "A child becomes mama's little helper for one whole day, from watering plants to folding the warm laundry"
         },
         {
           "emoji": "💆",
           "title": "The Relaxing Day",
+          "titleRo": "Ziua de odihnă",
           "prompt": "A child and papa plan a quiet cozy day for mama with her favorite book, warm socks, and peaceful tea"
         },
         {
           "emoji": "🚶",
           "title": "A Walk Holding Hands",
+          "titleRo": "Plimbare de mână",
           "prompt": "A child and mama take a slow walk to the park, holding hands and talking about clouds and dreams"
         },
         {
           "emoji": "📜",
           "title": "Why I Love Mama",
+          "titleRo": "De ce o iubesc pe mama",
           "prompt": "A child makes a long list of all the reasons they love mama and reads it aloud at bedtime"
         }
       ]
@@ -2033,6 +2203,7 @@
     {
       "key": "fathersday",
       "title": "For Papa",
+      "titleRo": "Pentru tata",
       "icon": "🧰",
       "theme": {
         "colors": [
@@ -2057,76 +2228,91 @@
         {
           "emoji": "🐦",
           "title": "Building a Birdhouse",
+          "titleRo": "Căsuța pentru păsărele",
           "prompt": "A child and papa build a little wooden birdhouse and wait quietly by the window for the first feathered visitor"
         },
         {
           "emoji": "🥞",
           "title": "Pancake Surprise",
+          "titleRo": "Surpriza cu clătite",
           "prompt": "A child makes silly-face pancakes for papa's breakfast with berry eyes and a banana smile"
         },
         {
           "emoji": "🎣",
           "title": "Quiet Fishing Morning",
+          "titleRo": "Dimineață la pescuit",
           "prompt": "A child and papa sit by the calm lake with fishing rods, sharing sandwiches and whispering so the fish can nap"
         },
         {
           "emoji": "🔧",
           "title": "Papa's Little Helper",
+          "titleRo": "Ajutorul lui tata",
           "prompt": "A child helps papa fix a squeaky wheel by passing the right tools and feels like a real mechanic"
         },
         {
           "emoji": "🚲",
           "title": "The Big Bike Ride",
+          "titleRo": "Tura mare cu bicicleta",
           "prompt": "A child and papa ride bikes along the river path and stop for ice cream at the halfway bench"
         },
         {
           "emoji": "🦸",
           "title": "Papa the Superhero",
+          "titleRo": "Tata, supereroul",
           "prompt": "A child draws papa as a superhero whose powers are giant hugs, finding lost toys, and making the best spaghetti"
         },
         {
           "emoji": "⛺",
           "title": "Backyard Camping",
+          "titleRo": "Cort în curte",
           "prompt": "A child and papa pitch a tent in the backyard, count stars, and tell cozy stories by flashlight"
         },
         {
           "emoji": "🚗",
           "title": "Car Wash Bubbles",
+          "titleRo": "Spălăm mașina",
           "prompt": "A child helps papa wash the car and the afternoon turns into the world's bubbliest water game"
         },
         {
           "emoji": "🧸",
           "title": "Papa's Old Teddy",
+          "titleRo": "Ursulețul vechi al lui tata",
           "prompt": "Papa shows a child the worn teddy bear he loved as a boy and the two bears become bunk-bed neighbors"
         },
         {
           "emoji": "⚽",
           "title": "Park Champions",
+          "titleRo": "Campionii parcului",
           "prompt": "A child and papa play ball in the park until sunset and invent a victory dance for every goal"
         },
         {
           "emoji": "👔",
           "title": "The Painted Tie",
+          "titleRo": "Cravata pictată",
           "prompt": "A child paints a paper tie with rockets and stars and papa proudly wears it all day, even to the bakery"
         },
         {
           "emoji": "📖",
           "title": "Reading to Papa",
+          "titleRo": "Îi citesc lui tata",
           "prompt": "For one special bedtime the child gets to read the story while papa listens and does all the animal sounds"
         },
         {
           "emoji": "🌻",
           "title": "The Garden Project",
+          "titleRo": "Proiectul din grădină",
           "prompt": "A child and papa build a little vegetable patch and name every tomato plant after someone in the family"
         },
         {
           "emoji": "🧺",
           "title": "Breakfast Picnic",
+          "titleRo": "Picnic la micul dejun",
           "prompt": "A child and papa sneak out early for a surprise breakfast picnic on the hill and watch the town wake up"
         },
         {
           "emoji": "🌤️",
           "title": "Up to the Sky",
+          "titleRo": "Până la cer",
           "prompt": "A child gets papa's famous flying hug that lifts them high enough to almost touch the clouds"
         }
       ]
@@ -2134,6 +2320,7 @@
     {
       "key": "thanksgiving",
       "title": "Giving Thanks",
+      "titleRo": "Recunoștință",
       "icon": "🦃",
       "theme": {
         "colors": [
@@ -2238,76 +2425,91 @@
         {
           "emoji": "🦃",
           "title": "Paper Turkey Hands",
+          "titleRo": "Curcanul din palme",
           "prompt": "A child traces everyone's hands to craft a big paper turkey where every feather says something the family is thankful for"
         },
         {
           "emoji": "🥧",
           "title": "Pie for the Neighbors",
+          "titleRo": "Plăcintă pentru vecini",
           "prompt": "A child helps bake an extra pumpkin pie and delivers it warm to the kind neighbors next door"
         },
         {
           "emoji": "🍽️",
           "title": "Setting the Big Table",
+          "titleRo": "Punem masa cea mare",
           "prompt": "A child gets the important job of setting the long holiday table and folds every napkin into a funny shape"
         },
         {
           "emoji": "🫙",
           "title": "The Thankful Jar",
+          "titleRo": "Borcanul recunoștinței",
           "prompt": "A family fills a jar with notes of thanks all week and reads them out loud between dinner and dessert"
         },
         {
           "emoji": "👵",
           "title": "Grandma's Secret Recipe",
+          "titleRo": "Rețeta secretă a bunicii",
           "prompt": "Grandma finally shows a child the secret ingredient in her famous stuffing, and it turns out to be a silly song"
         },
         {
           "emoji": "🍂",
           "title": "Harvest Walk",
+          "titleRo": "Plimbare la cules",
           "prompt": "A child takes a golden afternoon walk with the family, collecting the prettiest leaves for the table centerpiece"
         },
         {
           "emoji": "🚪",
           "title": "Room for One More",
+          "titleRo": "Mai e loc pentru unul",
           "prompt": "A family invites a new neighbor who is far from home to join their Thanksgiving dinner and makes a new friend"
         },
         {
           "emoji": "🧑‍🍳",
           "title": "Littlest Chef",
+          "titleRo": "Cel mai mic bucătar",
           "prompt": "A child becomes the kitchen's littlest chef, mashing potatoes and taste-testing everything twice"
         },
         {
           "emoji": "📮",
           "title": "Thanks to Our Helpers",
+          "titleRo": "Mulțumiri pentru ajutoare",
           "prompt": "A child draws thank-you cards for the mail carrier, the bus driver, and the crossing guard who help every day"
         },
         {
           "emoji": "🥪",
           "title": "Leftover Picnic",
+          "titleRo": "Picnicul de a doua zi",
           "prompt": "The day after the feast, a child builds the tallest leftover sandwich and shares a blanket picnic with cousins"
         },
         {
           "emoji": "🕯️",
           "title": "Stories at the Table",
+          "titleRo": "Povești la masă",
           "prompt": "After dinner the lights go soft and everyone tells their favorite family story while sharing the last slice of pie"
         },
         {
           "emoji": "🌽",
           "title": "Corn Husk Dolls",
+          "titleRo": "Păpuși din pănuși",
           "prompt": "A child learns to make little corn husk dolls with grandpa and gives each one a name and a home on the shelf"
         },
         {
           "emoji": "❄️",
           "title": "First Frost Morning",
+          "titleRo": "Prima brumă",
           "prompt": "A child wakes to the first sparkly frost, breathes dragon clouds in the cold air, and runs back inside for cocoa"
         },
         {
           "emoji": "🤗",
           "title": "The Gratitude Game",
+          "titleRo": "Jocul recunoștinței",
           "prompt": "A family plays a game where each person names something they are thankful for, from rainbows to squeaky shoes"
         },
         {
           "emoji": "🍞",
           "title": "Warm Bread Helper",
+          "titleRo": "Pâine caldă",
           "prompt": "A child helps knead the holiday bread and watches through the oven window as it grows golden and round"
         }
       ]
@@ -2315,6 +2517,7 @@
     {
       "key": "autumn",
       "title": "Autumn Leaves",
+      "titleRo": "Frunze de toamnă",
       "icon": "🍂",
       "theme": {
         "colors": [
@@ -2339,76 +2542,91 @@
         {
           "emoji": "🍁",
           "title": "The Biggest Leaf Pile",
+          "titleRo": "Munte de frunze",
           "prompt": "A child rakes leaves with papa into a giant golden mountain and takes the world's crunchiest jump"
         },
         {
           "emoji": "🌰",
           "title": "Acorn Treasure",
+          "titleRo": "Comoara de ghinde",
           "prompt": "A child collects shiny acorns in a little basket and leaves the best ones by the oak tree for the squirrels"
         },
         {
           "emoji": "🌧️",
           "title": "Puddle Boots",
+          "titleRo": "Cizmele de ploaie",
           "prompt": "A child puts on red rain boots and finds the most splashable puddles on the way home from kindergarten"
         },
         {
           "emoji": "🍎",
           "title": "Apple Picking Day",
+          "titleRo": "Culesul merelor",
           "prompt": "A family visits the orchard where a child reaches the rosiest apple with a little help from papa's shoulders"
         },
         {
           "emoji": "🪁",
           "title": "Kite in the Wind",
+          "titleRo": "Zmeul în vânt",
           "prompt": "A child flies a homemade kite in the gusty autumn wind and it dances like a happy dragon above the field"
         },
         {
           "emoji": "🧶",
           "title": "The Cozy Sweater",
+          "titleRo": "Puloverul călduros",
           "prompt": "Grandma knits a child a pumpkin-orange sweater and its first adventure is a walk through the falling leaves"
         },
         {
           "emoji": "🐿️",
           "title": "Helping the Squirrel",
+          "titleRo": "Ajutăm veverița",
           "prompt": "A child watches a busy squirrel hide nuts for winter and quietly leaves a few extra ones near its tree"
         },
         {
           "emoji": "🍄",
           "title": "Mushroom Spotting",
+          "titleRo": "Căutăm ciuperci",
           "prompt": "A child and grandpa walk in the forest counting funny mushroom hats, looking closely but never touching"
         },
         {
           "emoji": "🦢",
           "title": "Goodbye, Geese",
+          "titleRo": "La revedere, gâște",
           "prompt": "A child waves goodbye to the geese flying south in a big V and wonders about their long journey"
         },
         {
           "emoji": "🌫️",
           "title": "The Foggy Morning",
+          "titleRo": "Dimineața cu ceață",
           "prompt": "A child walks to school through soft morning fog where lampposts glow like little moons and everything feels gentle"
         },
         {
           "emoji": "🌲",
           "title": "Pinecone Creatures",
+          "titleRo": "Făpturi din conuri",
           "prompt": "A child collects pinecones and turns them into tiny owls and hedgehogs with felt and glue"
         },
         {
           "emoji": "🍲",
           "title": "Harvest Soup",
+          "titleRo": "Supa de toamnă",
           "prompt": "A child helps mama chop soft vegetables for a big pot of harvest soup that warms the whole rainy evening"
         },
         {
           "emoji": "🎨",
           "title": "Leaf Painting",
+          "titleRo": "Pictura cu frunze",
           "prompt": "A child presses colorful leaves onto paper to print a forest of reds and golds for the fridge gallery"
         },
         {
           "emoji": "⛺",
           "title": "Blanket Fort Evening",
+          "titleRo": "Fortăreața din pături",
           "prompt": "On the first chilly night a child builds a blanket fort and reads picture books inside with a flashlight"
         },
         {
           "emoji": "🌳",
           "title": "The Talking Oak",
+          "titleRo": "Stejarul vorbitor",
           "prompt": "A child visits the old oak in the park every day and tells it secrets while its leaves slowly turn to gold"
         }
       ]
@@ -2416,6 +2634,7 @@
     {
       "key": "winter",
       "title": "Winter Wonder",
+      "titleRo": "Minunea iernii",
       "icon": "⛄",
       "theme": {
         "colors": [
@@ -2440,76 +2659,91 @@
         {
           "emoji": "❄️",
           "title": "First Snow Morning",
+          "titleRo": "Prima zăpadă",
           "prompt": "A child wakes up to a world turned white and quiet, and makes the very first footprints in the fresh snow"
         },
         {
           "emoji": "🧤",
           "title": "The Lost Mitten",
+          "titleRo": "Mănușa pierdută",
           "prompt": "A child loses one red mitten on the way home and a kind chain of neighbors helps it find its way back"
         },
         {
           "emoji": "🐦",
           "title": "Feeding Winter Birds",
+          "titleRo": "Hrană pentru păsărele",
           "prompt": "A child hangs a pinecone feeder in the garden and learns the names of every little bird that visits"
         },
         {
           "emoji": "🪟",
           "title": "Ice Flowers",
+          "titleRo": "Flori de gheață",
           "prompt": "A child discovers frost has painted flowers on the window and traces the sparkling patterns with a warm finger"
         },
         {
           "emoji": "🏰",
           "title": "The Snow Den",
+          "titleRo": "Bârlogul de zăpadă",
           "prompt": "A child and friends build a snug snow den in the yard and serve pretend snow-tea to everyone who crawls in"
         },
         {
           "emoji": "😇",
           "title": "Snow Angels",
+          "titleRo": "Îngeri în zăpadă",
           "prompt": "A child and mama flop into the soft snow to make a whole family of snow angels, even a tiny one for the cat"
         },
         {
           "emoji": "🔥",
           "title": "Fireside Stories",
+          "titleRo": "Povești lângă foc",
           "prompt": "A family gathers by the warm fire with blankets while grandpa tells stories and the snow falls softly outside"
         },
         {
           "emoji": "🫂",
           "title": "Shoveling for Mrs. Rose",
+          "titleRo": "Ajutăm pe doamna Rose",
           "prompt": "A child helps papa shovel the path of an elderly neighbor and gets warm cookies and a warmer smile in return"
         },
         {
           "emoji": "⭐",
           "title": "Winter Stars",
+          "titleRo": "Stelele iernii",
           "prompt": "On the clearest cold night a child and papa bundle up to count the bright winter stars and find the sparkliest one"
         },
         {
           "emoji": "❄️",
           "title": "Footprints in the Snow",
+          "titleRo": "Urme în zăpadă",
           "prompt": "A child follows mysterious little footprints through the garden and discovers a rabbit's cozy hiding spot"
         },
         {
           "emoji": "🍜",
           "title": "Hot Soup Day",
+          "titleRo": "Ziua supei calde",
           "prompt": "A child comes in from the cold with pink cheeks and helps mama make noodle soup that steams up all the windows"
         },
         {
           "emoji": "🐧",
           "title": "Penguin Games",
+          "titleRo": "Jocul pinguinilor",
           "prompt": "A child pretends to be a penguin all afternoon, waddling and sliding on socks with a stuffed-animal penguin colony"
         },
         {
           "emoji": "💎",
           "title": "Icicle Sparkle Walk",
+          "titleRo": "Printre țurțuri",
           "prompt": "A child walks through the park where icicles hang like crystal decorations and picks the prettiest one to admire"
         },
         {
           "emoji": "🛖",
           "title": "The Blanket Cave",
+          "titleRo": "Peștera din pături",
           "prompt": "On a snowy day too cold for outside, a child builds a blanket cave and hibernates with books and a bear"
         },
         {
           "emoji": "🌙",
           "title": "Snowlight Evening",
+          "titleRo": "Seara albă",
           "prompt": "A child notices how the snow makes the evening glow soft and blue, and watches the quiet street from a warm window"
         }
       ]
@@ -2517,6 +2751,7 @@
     {
       "key": "spring",
       "title": "Spring Blossoms",
+      "titleRo": "Flori de primăvară",
       "icon": "🌷",
       "theme": {
         "colors": [
@@ -2541,76 +2776,91 @@
         {
           "emoji": "🌱",
           "title": "The First Seeds",
+          "titleRo": "Primele semințe",
           "prompt": "A child plants tiny seeds in little pots on the windowsill and greets them every morning until green tips appear"
         },
         {
           "emoji": "🦋",
           "title": "The First Butterfly",
+          "titleRo": "Primul fluture",
           "prompt": "A child spots the very first butterfly of spring and follows it gently through the blooming garden"
         },
         {
           "emoji": "🐣",
           "title": "The Nest by the Window",
+          "titleRo": "Cuibul de la fereastră",
           "prompt": "A child watches a bird family build a nest outside the window and keeps their secret safe until the chicks hatch"
         },
         {
           "emoji": "💃",
           "title": "Puddle Dance",
+          "titleRo": "Dansul prin bălți",
           "prompt": "A warm spring rain ends and a child dances through the puddles in shiny boots, making the biggest happy splashes"
         },
         {
           "emoji": "🌸",
           "title": "Blossom Picnic",
+          "titleRo": "Picnic printre flori",
           "prompt": "A family spreads a blanket under the blooming cherry tree and pink petals fall into the lemonade like confetti"
         },
         {
           "emoji": "🧤",
           "title": "Waking Up the Garden",
+          "titleRo": "Trezim grădina",
           "prompt": "A child helps grandma tidy the winter garden, sweeping leaves away so the sleepy flowers can stretch"
         },
         {
           "emoji": "🐞",
           "title": "The Ladybug Visitor",
+          "titleRo": "Buburuza în vizită",
           "prompt": "A ladybug lands on a child's finger and gets a grand tour of the garden before flying home"
         },
         {
           "emoji": "🌻",
           "title": "The Sunflower Race",
+          "titleRo": "Cursa florii-soarelui",
           "prompt": "A child and a best friend each plant a sunflower and cheer for both as they race slowly toward the sky"
         },
         {
           "emoji": "🧹",
           "title": "Spring Cleaning Treasure",
+          "titleRo": "Comoara de la curățenie",
           "prompt": "During spring cleaning a child finds a long-lost toy behind the shelf and gives it a joyful bubbly bath"
         },
         {
           "emoji": "🐸",
           "title": "Tadpole Watching",
+          "titleRo": "Privim mormolocii",
           "prompt": "A child visits the pond every week to watch the tadpoles grow legs and cheers the day the first tiny frog hops"
         },
         {
           "emoji": "👑",
           "title": "The Flower Crown",
+          "titleRo": "Coronița de flori",
           "prompt": "A child learns to braid daisies into a flower crown with mama and wears it home like garden royalty"
         },
         {
           "emoji": "🪟",
           "title": "Fresh Air Day",
+          "titleRo": "Ziua cu aer curat",
           "prompt": "The family opens all the windows on the first warm day and the spring breeze plays with the curtains"
         },
         {
           "emoji": "🐝",
           "title": "Watching the Bees",
+          "titleRo": "Privim albinele",
           "prompt": "A child watches fuzzy bees visit the tulips from a respectful step away and learns how they help flowers grow"
         },
         {
           "emoji": "🥕",
           "title": "Muddy Hands Day",
+          "titleRo": "Ziua mânuțelor murdare",
           "prompt": "A child spends the whole morning planting carrots with papa and wears the garden mud like a badge of honor"
         },
         {
           "emoji": "🌈",
           "title": "After the Rain",
+          "titleRo": "După ploaie",
           "prompt": "A spring shower passes and a child finds a whole rainbow stretched over the park like a bridge of colors"
         }
       ]
@@ -2618,6 +2868,7 @@
     {
       "key": "summer",
       "title": "Summer Days",
+      "titleRo": "Zile de vară",
       "icon": "☀️",
       "theme": {
         "colors": [
@@ -2642,76 +2893,91 @@
         {
           "emoji": "🏖️",
           "title": "The Sandcastle Kingdom",
+          "titleRo": "Regatul de nisip",
           "prompt": "A child builds a grand sandcastle with a moat and seashell windows, and invites the whole beach to admire it"
         },
         {
           "emoji": "🍋",
           "title": "The Lemonade Stand",
+          "titleRo": "Taraba cu limonadă",
           "prompt": "A child opens a little lemonade stand with a hand-painted sign and the first customer is the friendly mail carrier"
         },
         {
           "emoji": "✨",
           "title": "Firefly Evening",
+          "titleRo": "Seara licuricilor",
           "prompt": "On a warm night a child gently catches fireflies in cupped hands, makes a wish on each one, and lets them all glow away"
         },
         {
           "emoji": "🧺",
           "title": "Picnic Under the Tree",
+          "titleRo": "Picnic sub copac",
           "prompt": "A family picnics in the shade of the big oak and a cheeky duck waddles over hoping for a bread corner"
         },
         {
           "emoji": "💦",
           "title": "Sprinkler Rainbow",
+          "titleRo": "Curcubeul din stropitoare",
           "prompt": "A child dances through the garden sprinkler on the hottest day and discovers it makes tiny rainbows in the air"
         },
         {
           "emoji": "🍦",
           "title": "The Ice Cream Race",
+          "titleRo": "Cursa înghețatei",
           "prompt": "A child tries to finish an ice cream cone before the sun melts it and ends up with the happiest sticky smile"
         },
         {
           "emoji": "🫐",
           "title": "Berry Picking",
+          "titleRo": "Culegem fructe de pădure",
           "prompt": "A child picks blueberries with grandma at the farm, one for the basket and one for the mouth, all morning long"
         },
         {
           "emoji": "🏊",
           "title": "Brave Little Swimmer",
+          "titleRo": "Înot cu curaj",
           "prompt": "A child feels nervous at swimming lessons but blows brave bubbles and floats for the very first time"
         },
         {
           "emoji": "☁️",
           "title": "Cloud Shapes",
+          "titleRo": "Forme de nori",
           "prompt": "A child and a best friend lie in the grass finding dragons, bunnies, and ice cream cones in the drifting clouds"
         },
         {
           "emoji": "⛺",
           "title": "Stars Above the Tent",
+          "titleRo": "Stele deasupra cortului",
           "prompt": "On a family camping night a child falls asleep to cricket songs after counting shooting stars through the tent window"
         },
         {
           "emoji": "🐚",
           "title": "Seashell Collection",
+          "titleRo": "Colecția de scoici",
           "prompt": "A child walks the beach at low tide collecting seashells and finds one that whispers like the whole ocean"
         },
         {
           "emoji": "🍉",
           "title": "Watermelon Afternoon",
+          "titleRo": "După-amiaza cu pepene",
           "prompt": "A child shares a giant watermelon with cousins in the backyard and everyone counts their seeds for a silly contest"
         },
         {
           "emoji": "👣",
           "title": "Barefoot in the Grass",
+          "titleRo": "Desculț prin iarbă",
           "prompt": "A child spends a whole afternoon barefoot, feeling warm grass, cool soil, and one very surprised ticklish worm"
         },
         {
           "emoji": "🌦️",
           "title": "Warm Summer Rain",
+          "titleRo": "Ploaie caldă de vară",
           "prompt": "A sudden warm rain surprises the playground and a child twirls in it laughing before the sun peeks back out"
         },
         {
           "emoji": "🚲",
           "title": "Sunset Bike Ride",
+          "titleRo": "Cu bicicleta la apus",
           "prompt": "A child rides bikes with papa in the golden evening light, past sleepy gardens that smell like flowers and dinner"
         }
       ]
@@ -2719,6 +2985,7 @@
     {
       "key": "halloween",
       "title": "Pumpkin Nights",
+      "titleRo": "Nopți cu dovleci",
       "icon": "🎃",
       "theme": {
         "colors": [
@@ -2743,6 +3010,7 @@
         {
           "emoji": "🎃",
           "title": "Pumpkin Patch",
+          "titleRo": "Grădina cu dovleci",
           "prompt": "A child visits a pumpkin patch with grandpa and searches for the roundest pumpkin so they can carve a big smiling face together",
           "id": "halloween-pumpkin-patch",
           "enabled": true,
@@ -2757,6 +3025,7 @@
         {
           "emoji": "👗",
           "title": "Costume Day",
+          "titleRo": "Ziua costumelor",
           "prompt": "A child can't decide what to dress up as for the costume parade and tries on one silly outfit after another until the perfect one appears",
           "id": "halloween-costume-day",
           "enabled": true,
@@ -2771,6 +3040,7 @@
         {
           "emoji": "🍬",
           "title": "Sweet Sharing",
+          "titleRo": "Dulciuri împărțite",
           "prompt": "A child collects treats with friends on Halloween evening and discovers how good it feels to share the sweets with a little brother",
           "id": "halloween-sweet-sharing",
           "enabled": true,
@@ -2785,6 +3055,7 @@
         {
           "emoji": "🕯️",
           "title": "Leaf Lanterns",
+          "titleRo": "Lampioane din frunze",
           "prompt": "A child and mama craft glowing paper lanterns from golden autumn leaves and light up the whole garden for the neighbors",
           "id": "halloween-leaf-lanterns",
           "enabled": true,
@@ -2799,6 +3070,7 @@
         {
           "emoji": "👻",
           "title": "Shy Little Ghost",
+          "titleRo": "Fantomița timidă",
           "prompt": "A shy, friendly little ghost who only wants a friend joins a child's tea party and giggles at the cinnamon cookies",
           "id": "halloween-shy-little-ghost",
           "enabled": true,
@@ -2813,6 +3085,7 @@
         {
           "emoji": "🧁",
           "title": "Pumpkin Muffins",
+          "titleRo": "Brioșe cu dovleac",
           "prompt": "A kind neighbor teaches a child to bake pumpkin muffins that make the whole street smell like cinnamon and autumn",
           "id": "halloween-pumpkin-muffins",
           "enabled": true,
@@ -2827,6 +3100,7 @@
         {
           "emoji": "🐱",
           "title": "Black Cat Friend",
+          "titleRo": "Pisicuța neagră",
           "prompt": "A soft black cat follows a child home on a breezy autumn evening and finds a warm new family",
           "id": "halloween-black-cat-friend",
           "enabled": true,
@@ -2841,6 +3115,7 @@
         {
           "emoji": "🍎",
           "title": "Apple Bobbing",
+          "titleRo": "Pescuim mere",
           "prompt": "A child tries apple bobbing at the harvest fair, splashes a lot, laughs even more, and finally catches the shiniest apple",
           "id": "halloween-apple-bobbing",
           "enabled": true,
@@ -2855,6 +3130,7 @@
         {
           "emoji": "🌕",
           "title": "Orange Moon Walk",
+          "titleRo": "Luna portocalie",
           "prompt": "A child takes a cozy evening walk with papa under the big orange moon, counting bats that flutter like tiny kites",
           "id": "halloween-orange-moon-walk",
           "enabled": true,
@@ -2869,6 +3145,7 @@
         {
           "emoji": "🕷️",
           "title": "Spider's Lace",
+          "titleRo": "Dantela păianjenului",
           "prompt": "A child discovers a sparkling spiderweb in the garden and watches the tiny spider weave silver lace in the morning dew",
           "id": "halloween-spider-s-lace",
           "enabled": true,
@@ -2883,6 +3160,7 @@
         {
           "emoji": "🏮",
           "title": "Trick-or-Treat Buddy",
+          "titleRo": "Tovarăș de dulciuri",
           "prompt": "A child helps a younger neighbor who feels shy about trick-or-treating and together they find the friendliest doors on the street",
           "id": "halloween-trick-or-treat-buddy",
           "enabled": true,
@@ -2897,6 +3175,7 @@
         {
           "emoji": "🎭",
           "title": "Silly Spooky Party",
+          "titleRo": "Petrecere cu fantome",
           "prompt": "A classroom Halloween party where every spooky surprise turns out to be something silly and sweet",
           "id": "halloween-silly-spooky-party",
           "enabled": true,
@@ -2911,6 +3190,7 @@
         {
           "emoji": "🧣",
           "title": "Scarecrow's Scarf",
+          "titleRo": "Fularul sperietorii",
           "prompt": "A child and grandma dress the garden scarecrow in a cozy scarf and give him the kindest smile in the village",
           "id": "halloween-scarecrow-s-scarf",
           "enabled": true,
@@ -2925,6 +3205,7 @@
         {
           "emoji": "🍂",
           "title": "Crunchy Leaf Trail",
+          "titleRo": "Poteca foșnitoare",
           "prompt": "A child follows a trail of crunchy golden leaves through the park and finds a squirrel guarding its acorn treasure",
           "id": "halloween-crunchy-leaf-trail",
           "enabled": true,
@@ -2939,6 +3220,7 @@
         {
           "emoji": "🏰",
           "title": "Cobweb Castle",
+          "titleRo": "Castelul cu pânze",
           "prompt": "A child builds a cardboard castle decorated with cotton cobwebs and invites all the stuffed animals to a royal autumn feast",
           "id": "halloween-cobweb-castle",
           "enabled": true,
